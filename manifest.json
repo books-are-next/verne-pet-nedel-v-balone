@@ -1,0 +1,978 @@
+{
+  "author": "Jules Verne",
+  "identifier": "verne-pet-nedel-v-balone-6146ad6",
+  "languagecode": "cs",
+  "modified": "2021-11-23T15:10:23.605Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Pět neděl v baloně",
+  "revision": "6146ad6",
+  "generatedAt": {
+    "date": "Tue Nov 23 2021 16:35:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1637685348368
+  },
+  "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 182,
+      "chars": 1161,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 10,
+      "chars": 53,
+      "ideas": 3,
+      "role": "cover",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Pět neděl v baloně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Upozornění pro čtenáře",
+      "file": "pet_nedel_v_balone_split_001.html",
+      "words": 93,
+      "chars": 626,
+      "ideas": 5,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Upozornění pro čtenáře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I.",
+      "file": "pet_nedel_v_balone_split_003.html",
+      "words": 1651,
+      "chars": 11245,
+      "ideas": 40,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II.",
+      "file": "pet_nedel_v_balone_split_004.html",
+      "words": 694,
+      "chars": 4779,
+      "ideas": 18,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III.",
+      "file": "pet_nedel_v_balone_split_005.html",
+      "words": 1734,
+      "chars": 10916,
+      "ideas": 86,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV.",
+      "file": "pet_nedel_v_balone_split_006.html",
+      "words": 1227,
+      "chars": 7669,
+      "ideas": 31,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V.",
+      "file": "pet_nedel_v_balone_split_007.html",
+      "words": 1194,
+      "chars": 7506,
+      "ideas": 68,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI.",
+      "file": "pet_nedel_v_balone_split_008.html",
+      "words": 1137,
+      "chars": 7036,
+      "ideas": 62,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII.",
+      "file": "pet_nedel_v_balone_split_009.html",
+      "words": 1092,
+      "chars": 7338,
+      "ideas": 46,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII.",
+      "file": "pet_nedel_v_balone_split_010.html",
+      "words": 1367,
+      "chars": 8859,
+      "ideas": 47,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX.",
+      "file": "pet_nedel_v_balone_split_011.html",
+      "words": 1149,
+      "chars": 7011,
+      "ideas": 50,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X.",
+      "file": "pet_nedel_v_balone_split_012.html",
+      "words": 1142,
+      "chars": 7416,
+      "ideas": 34,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI.",
+      "file": "pet_nedel_v_balone_split_013.html",
+      "words": 1366,
+      "chars": 8995,
+      "ideas": 51,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII.",
+      "file": "pet_nedel_v_balone_split_014.html",
+      "words": 1804,
+      "chars": 11289,
+      "ideas": 75,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII.",
+      "file": "pet_nedel_v_balone_split_015.html",
+      "words": 1469,
+      "chars": 9421,
+      "ideas": 61,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV.",
+      "file": "pet_nedel_v_balone_split_016.html",
+      "words": 1877,
+      "chars": 11707,
+      "ideas": 95,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV.",
+      "file": "pet_nedel_v_balone_split_017.html",
+      "words": 2287,
+      "chars": 14570,
+      "ideas": 94,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI.",
+      "file": "pet_nedel_v_balone_split_018.html",
+      "words": 1946,
+      "chars": 12553,
+      "ideas": 74,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII.",
+      "file": "pet_nedel_v_balone_split_019.html",
+      "words": 1976,
+      "chars": 12379,
+      "ideas": 94,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII.",
+      "file": "pet_nedel_v_balone_split_020.html",
+      "words": 2037,
+      "chars": 13060,
+      "ideas": 100,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX.",
+      "file": "pet_nedel_v_balone_split_021.html",
+      "words": 1203,
+      "chars": 7754,
+      "ideas": 59,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX.",
+      "file": "pet_nedel_v_balone_split_022.html",
+      "words": 1348,
+      "chars": 8370,
+      "ideas": 57,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI.",
+      "file": "pet_nedel_v_balone_split_023.html",
+      "words": 1676,
+      "chars": 10582,
+      "ideas": 108,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII.",
+      "file": "pet_nedel_v_balone_split_024.html",
+      "words": 1799,
+      "chars": 11363,
+      "ideas": 74,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII.",
+      "file": "pet_nedel_v_balone_split_025.html",
+      "words": 1737,
+      "chars": 10719,
+      "ideas": 100,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV.",
+      "file": "pet_nedel_v_balone_split_026.html",
+      "words": 1752,
+      "chars": 11087,
+      "ideas": 51,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV.",
+      "file": "pet_nedel_v_balone_split_027.html",
+      "words": 1372,
+      "chars": 8442,
+      "ideas": 77,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI.",
+      "file": "pet_nedel_v_balone_split_028.html",
+      "words": 1539,
+      "chars": 9410,
+      "ideas": 55,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVII.",
+      "file": "pet_nedel_v_balone_split_029.html",
+      "words": 1360,
+      "chars": 8250,
+      "ideas": 82,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII.",
+      "file": "pet_nedel_v_balone_split_030.html",
+      "words": 1418,
+      "chars": 8751,
+      "ideas": 57,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX.",
+      "file": "pet_nedel_v_balone_split_031.html",
+      "words": 1436,
+      "chars": 9315,
+      "ideas": 54,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX.",
+      "file": "pet_nedel_v_balone_split_032.html",
+      "words": 1724,
+      "chars": 10782,
+      "ideas": 54,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI.",
+      "file": "pet_nedel_v_balone_split_033.html",
+      "words": 1084,
+      "chars": 6697,
+      "ideas": 46,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII.",
+      "file": "pet_nedel_v_balone_split_034.html",
+      "words": 1289,
+      "chars": 8146,
+      "ideas": 77,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIII.",
+      "file": "pet_nedel_v_balone_split_035.html",
+      "words": 1665,
+      "chars": 10334,
+      "ideas": 53,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIV.",
+      "file": "pet_nedel_v_balone_split_036.html",
+      "words": 1140,
+      "chars": 7036,
+      "ideas": 42,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXV.",
+      "file": "pet_nedel_v_balone_split_037.html",
+      "words": 2237,
+      "chars": 13577,
+      "ideas": 52,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVI.",
+      "file": "pet_nedel_v_balone_split_038.html",
+      "words": 1183,
+      "chars": 7188,
+      "ideas": 83,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVII.",
+      "file": "pet_nedel_v_balone_split_039.html",
+      "words": 1409,
+      "chars": 8629,
+      "ideas": 55,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVIII.",
+      "file": "pet_nedel_v_balone_split_040.html",
+      "words": 1945,
+      "chars": 11969,
+      "ideas": 51,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIX.",
+      "file": "pet_nedel_v_balone_split_041.html",
+      "words": 1131,
+      "chars": 7223,
+      "ideas": 38,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XL.",
+      "file": "pet_nedel_v_balone_split_042.html",
+      "words": 941,
+      "chars": 5972,
+      "ideas": 40,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XL.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLI.",
+      "file": "pet_nedel_v_balone_split_043.html",
+      "words": 1676,
+      "chars": 10360,
+      "ideas": 92,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLII.",
+      "file": "pet_nedel_v_balone_split_044.html",
+      "words": 1177,
+      "chars": 7325,
+      "ideas": 52,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIII.",
+      "file": "pet_nedel_v_balone_split_045.html",
+      "words": 1897,
+      "chars": 11856,
+      "ideas": 104,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIV.",
+      "file": "pet_nedel_v_balone_split_046.html",
+      "words": 600,
+      "chars": 4044,
+      "ideas": 24,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "pet_nedel_v_balone_split_047.html",
+      "words": 453,
+      "chars": 2819,
+      "ideas": 58,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "pet_nedel_v_balone_split_048.html",
+      "words": 2,
+      "chars": 0,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "pet_nedel_v_balone_split_048.html",
+      "toc": []
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 65627,
+      "chars": 413589,
+      "ideas": 2848
+    },
+    "chapters": {
+      "words": 2,
+      "chars": 0,
+      "ideas": 2
+    }
+  }
+}
