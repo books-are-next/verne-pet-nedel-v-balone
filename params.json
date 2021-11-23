@@ -57,7 +57,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Upozornění pro čtenáře"
           },
           {
             "filename": "pet_nedel_v_balone_split_003.md",
@@ -66,7 +67,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "I."
           },
           {
             "filename": "pet_nedel_v_balone_split_004.md",
@@ -75,7 +77,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "II."
           },
           {
             "filename": "pet_nedel_v_balone_split_005.md",
@@ -84,7 +87,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "III."
           },
           {
             "filename": "pet_nedel_v_balone_split_006.md",
@@ -93,7 +97,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "IV."
           },
           {
             "filename": "pet_nedel_v_balone_split_007.md",
@@ -102,7 +107,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "V."
           },
           {
             "filename": "pet_nedel_v_balone_split_008.md",
@@ -111,7 +117,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "VI."
           },
           {
             "filename": "pet_nedel_v_balone_split_009.md",
@@ -120,7 +127,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "VII."
           },
           {
             "filename": "pet_nedel_v_balone_split_010.md",
@@ -129,7 +137,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "VIII."
           },
           {
             "filename": "pet_nedel_v_balone_split_011.md",
@@ -138,7 +147,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "IX."
           },
           {
             "filename": "pet_nedel_v_balone_split_012.md",
@@ -147,7 +157,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "X."
           },
           {
             "filename": "pet_nedel_v_balone_split_013.md",
@@ -156,7 +167,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XI."
           },
           {
             "filename": "pet_nedel_v_balone_split_014.md",
@@ -165,7 +177,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XII."
           },
           {
             "filename": "pet_nedel_v_balone_split_015.md",
@@ -174,7 +187,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XIII."
           },
           {
             "filename": "pet_nedel_v_balone_split_016.md",
@@ -183,7 +197,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XIV."
           },
           {
             "filename": "pet_nedel_v_balone_split_017.md",
@@ -192,7 +207,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XV."
           },
           {
             "filename": "pet_nedel_v_balone_split_018.md",
@@ -201,7 +217,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XVI."
           },
           {
             "filename": "pet_nedel_v_balone_split_019.md",
@@ -210,7 +227,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XVII."
           },
           {
             "filename": "pet_nedel_v_balone_split_020.md",
@@ -219,7 +237,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XVIII."
           },
           {
             "filename": "pet_nedel_v_balone_split_021.md",
@@ -228,7 +247,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XIX."
           },
           {
             "filename": "pet_nedel_v_balone_split_022.md",
@@ -237,7 +257,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XX."
           },
           {
             "filename": "pet_nedel_v_balone_split_023.md",
@@ -246,7 +267,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXI."
           },
           {
             "filename": "pet_nedel_v_balone_split_024.md",
@@ -255,7 +277,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXII."
           },
           {
             "filename": "pet_nedel_v_balone_split_025.md",
@@ -264,7 +287,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXIII."
           },
           {
             "filename": "pet_nedel_v_balone_split_026.md",
@@ -273,7 +297,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXIV."
           },
           {
             "filename": "pet_nedel_v_balone_split_027.md",
@@ -282,7 +307,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXV."
           },
           {
             "filename": "pet_nedel_v_balone_split_028.md",
@@ -291,7 +317,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXVI."
           },
           {
             "filename": "pet_nedel_v_balone_split_029.md",
@@ -300,7 +327,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXVII."
           },
           {
             "filename": "pet_nedel_v_balone_split_030.md",
@@ -309,7 +337,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXVIII."
           },
           {
             "filename": "pet_nedel_v_balone_split_031.md",
@@ -318,7 +347,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXIX."
           },
           {
             "filename": "pet_nedel_v_balone_split_032.md",
@@ -327,7 +357,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXX."
           },
           {
             "filename": "pet_nedel_v_balone_split_033.md",
@@ -336,7 +367,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXXI."
           },
           {
             "filename": "pet_nedel_v_balone_split_034.md",
@@ -345,7 +377,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXXII."
           },
           {
             "filename": "pet_nedel_v_balone_split_035.md",
@@ -354,7 +387,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXXIII."
           },
           {
             "filename": "pet_nedel_v_balone_split_036.md",
@@ -363,7 +397,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXXIV."
           },
           {
             "filename": "pet_nedel_v_balone_split_037.md",
@@ -372,7 +407,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXXV."
           },
           {
             "filename": "pet_nedel_v_balone_split_038.md",
@@ -381,7 +417,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXXVI."
           },
           {
             "filename": "pet_nedel_v_balone_split_039.md",
@@ -390,7 +427,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXXVII."
           },
           {
             "filename": "pet_nedel_v_balone_split_040.md",
@@ -399,7 +437,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXXVIII."
           },
           {
             "filename": "pet_nedel_v_balone_split_041.md",
@@ -408,7 +447,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XXXIX."
           },
           {
             "filename": "pet_nedel_v_balone_split_042.md",
@@ -417,7 +457,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XL."
           },
           {
             "filename": "pet_nedel_v_balone_split_043.md",
@@ -426,7 +467,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XLI."
           },
           {
             "filename": "pet_nedel_v_balone_split_044.md",
@@ -435,7 +477,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XLII."
           },
           {
             "filename": "pet_nedel_v_balone_split_045.md",
@@ -444,7 +487,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XLIII."
           },
           {
             "filename": "pet_nedel_v_balone_split_046.md",
@@ -453,7 +497,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "XLIV."
           },
           {
             "filename": "pet_nedel_v_balone_split_047.md",
@@ -483,7 +528,7 @@
       "identifier": "78f31f23-bcd8-49e3-97de-f1c764a0bae2",
       "author": "Jules Verne",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-23T16:24:38.761Z"
+      "modified": "2021-11-23T16:31:52.575Z"
     },
     "chapters": [
       {
@@ -993,6 +1038,6 @@
       "user": "books-are-next",
       "repo": "verne-pet-nedel-v-balone"
     },
-    "generatedAt": 1637684679910
+    "generatedAt": 1637685113603
   }
 }
