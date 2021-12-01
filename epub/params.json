@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Pět neděl v baloně",
@@ -6,7 +7,9 @@
       "author": "Jules Verne",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-23T15:10:23.605Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "e-booknadpis ",
@@ -32,7 +35,7 @@
         "filename": "pet_nedel_v_balone_split_048.md",
         "xhtml": "pet_nedel_v_balone_split_048.html",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -1041,3 +1044,4 @@
     "generatedAt": 1637684679910
   }
 }
+
