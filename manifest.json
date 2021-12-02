@@ -1,63 +1,28 @@
 {
   "author": "Jules Verne",
-  "identifier": "verne-pet-nedel-v-balone-c8b93db",
+  "edition": "beletrie",
+  "identifier": "verne-pet-nedel-v-balone-0345a92",
   "languagecode": "cs",
   "modified": "2021-11-23T15:10:23.605Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Pět neděl v baloně",
-  "revision": "c8b93db",
+  "revision": "0345a92",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:27:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638379658142
+    "date": "Thu Dec 02 2021 06:18:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638425888661
   },
   "documents": [
     {
-      "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 182,
-      "chars": 1161,
-      "ideas": 17,
-      "role": "colophon",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Tiráž",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 10,
-      "chars": 53,
-      "ideas": 3,
-      "role": "cover",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
-      "toc": [
-        {
-          "index": 1,
-          "level": 1,
-          "name": "Pět neděl v baloně",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Upozornění pro čtenáře",
+      "title": "Upozornění pro čtenáře • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_001.html",
       "words": 93,
       "chars": 626,
       "ideas": 5,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pet_nedel_v_balone_split_003.html",
       "toc": [
         {
           "index": 0,
@@ -69,14 +34,15 @@
       ]
     },
     {
-      "title": "I.",
+      "title": "I. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_003.html",
       "words": 1651,
       "chars": 11245,
       "ideas": 40,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 1,
+      "prev": "pet_nedel_v_balone_split_001.html",
+      "next": "pet_nedel_v_balone_split_004.html",
       "toc": [
         {
           "index": 0,
@@ -88,14 +54,15 @@
       ]
     },
     {
-      "title": "II.",
+      "title": "II. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_004.html",
       "words": 694,
       "chars": 4779,
       "ideas": 18,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 2,
+      "prev": "pet_nedel_v_balone_split_003.html",
+      "next": "pet_nedel_v_balone_split_005.html",
       "toc": [
         {
           "index": 0,
@@ -107,14 +74,15 @@
       ]
     },
     {
-      "title": "III.",
+      "title": "III. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_005.html",
       "words": 1734,
       "chars": 10916,
       "ideas": 86,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 3,
+      "prev": "pet_nedel_v_balone_split_004.html",
+      "next": "pet_nedel_v_balone_split_006.html",
       "toc": [
         {
           "index": 0,
@@ -126,14 +94,15 @@
       ]
     },
     {
-      "title": "IV.",
+      "title": "IV. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_006.html",
       "words": 1227,
       "chars": 7669,
       "ideas": 31,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 4,
+      "prev": "pet_nedel_v_balone_split_005.html",
+      "next": "pet_nedel_v_balone_split_007.html",
       "toc": [
         {
           "index": 0,
@@ -145,14 +114,15 @@
       ]
     },
     {
-      "title": "V.",
+      "title": "V. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_007.html",
       "words": 1194,
       "chars": 7506,
       "ideas": 68,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 5,
+      "prev": "pet_nedel_v_balone_split_006.html",
+      "next": "pet_nedel_v_balone_split_008.html",
       "toc": [
         {
           "index": 0,
@@ -164,14 +134,15 @@
       ]
     },
     {
-      "title": "VI.",
+      "title": "VI. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_008.html",
       "words": 1137,
       "chars": 7036,
       "ideas": 62,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 6,
+      "prev": "pet_nedel_v_balone_split_007.html",
+      "next": "pet_nedel_v_balone_split_009.html",
       "toc": [
         {
           "index": 0,
@@ -183,14 +154,15 @@
       ]
     },
     {
-      "title": "VII.",
+      "title": "VII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_009.html",
       "words": 1092,
       "chars": 7338,
       "ideas": 46,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 7,
+      "prev": "pet_nedel_v_balone_split_008.html",
+      "next": "pet_nedel_v_balone_split_010.html",
       "toc": [
         {
           "index": 0,
@@ -202,14 +174,15 @@
       ]
     },
     {
-      "title": "VIII.",
+      "title": "VIII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_010.html",
       "words": 1367,
       "chars": 8859,
       "ideas": 47,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 8,
+      "prev": "pet_nedel_v_balone_split_009.html",
+      "next": "pet_nedel_v_balone_split_011.html",
       "toc": [
         {
           "index": 0,
@@ -221,14 +194,15 @@
       ]
     },
     {
-      "title": "IX.",
+      "title": "IX. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_011.html",
       "words": 1149,
       "chars": 7011,
       "ideas": 50,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 9,
+      "prev": "pet_nedel_v_balone_split_010.html",
+      "next": "pet_nedel_v_balone_split_012.html",
       "toc": [
         {
           "index": 0,
@@ -240,14 +214,15 @@
       ]
     },
     {
-      "title": "X.",
+      "title": "X. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_012.html",
       "words": 1142,
       "chars": 7416,
       "ideas": 34,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 10,
+      "prev": "pet_nedel_v_balone_split_011.html",
+      "next": "pet_nedel_v_balone_split_013.html",
       "toc": [
         {
           "index": 0,
@@ -259,14 +234,15 @@
       ]
     },
     {
-      "title": "XI.",
+      "title": "XI. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_013.html",
       "words": 1366,
       "chars": 8995,
       "ideas": 51,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 11,
+      "prev": "pet_nedel_v_balone_split_012.html",
+      "next": "pet_nedel_v_balone_split_014.html",
       "toc": [
         {
           "index": 0,
@@ -278,14 +254,15 @@
       ]
     },
     {
-      "title": "XII.",
+      "title": "XII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_014.html",
       "words": 1804,
       "chars": 11289,
       "ideas": 75,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 12,
+      "prev": "pet_nedel_v_balone_split_013.html",
+      "next": "pet_nedel_v_balone_split_015.html",
       "toc": [
         {
           "index": 0,
@@ -297,14 +274,15 @@
       ]
     },
     {
-      "title": "XIII.",
+      "title": "XIII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_015.html",
       "words": 1469,
       "chars": 9421,
       "ideas": 61,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 13,
+      "prev": "pet_nedel_v_balone_split_014.html",
+      "next": "pet_nedel_v_balone_split_016.html",
       "toc": [
         {
           "index": 0,
@@ -316,14 +294,15 @@
       ]
     },
     {
-      "title": "XIV.",
+      "title": "XIV. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_016.html",
       "words": 1877,
       "chars": 11707,
       "ideas": 95,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 14,
+      "prev": "pet_nedel_v_balone_split_015.html",
+      "next": "pet_nedel_v_balone_split_017.html",
       "toc": [
         {
           "index": 0,
@@ -335,14 +314,15 @@
       ]
     },
     {
-      "title": "XV.",
+      "title": "XV. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_017.html",
       "words": 2287,
       "chars": 14570,
       "ideas": 94,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 15,
+      "prev": "pet_nedel_v_balone_split_016.html",
+      "next": "pet_nedel_v_balone_split_018.html",
       "toc": [
         {
           "index": 0,
@@ -354,14 +334,15 @@
       ]
     },
     {
-      "title": "XVI.",
+      "title": "XVI. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_018.html",
       "words": 1946,
       "chars": 12553,
       "ideas": 74,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 16,
+      "prev": "pet_nedel_v_balone_split_017.html",
+      "next": "pet_nedel_v_balone_split_019.html",
       "toc": [
         {
           "index": 0,
@@ -373,14 +354,15 @@
       ]
     },
     {
-      "title": "XVII.",
+      "title": "XVII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_019.html",
       "words": 1976,
       "chars": 12379,
       "ideas": 94,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 17,
+      "prev": "pet_nedel_v_balone_split_018.html",
+      "next": "pet_nedel_v_balone_split_020.html",
       "toc": [
         {
           "index": 0,
@@ -392,14 +374,15 @@
       ]
     },
     {
-      "title": "XVIII.",
+      "title": "XVIII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_020.html",
       "words": 2037,
       "chars": 13060,
       "ideas": 100,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 18,
+      "prev": "pet_nedel_v_balone_split_019.html",
+      "next": "pet_nedel_v_balone_split_021.html",
       "toc": [
         {
           "index": 0,
@@ -411,14 +394,15 @@
       ]
     },
     {
-      "title": "XIX.",
+      "title": "XIX. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_021.html",
       "words": 1203,
       "chars": 7754,
       "ideas": 59,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 19,
+      "prev": "pet_nedel_v_balone_split_020.html",
+      "next": "pet_nedel_v_balone_split_022.html",
       "toc": [
         {
           "index": 0,
@@ -430,14 +414,15 @@
       ]
     },
     {
-      "title": "XX.",
+      "title": "XX. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_022.html",
       "words": 1348,
       "chars": 8370,
       "ideas": 57,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 20,
+      "prev": "pet_nedel_v_balone_split_021.html",
+      "next": "pet_nedel_v_balone_split_023.html",
       "toc": [
         {
           "index": 0,
@@ -449,14 +434,15 @@
       ]
     },
     {
-      "title": "XXI.",
+      "title": "XXI. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_023.html",
       "words": 1676,
       "chars": 10582,
       "ideas": 108,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 21,
+      "prev": "pet_nedel_v_balone_split_022.html",
+      "next": "pet_nedel_v_balone_split_024.html",
       "toc": [
         {
           "index": 0,
@@ -468,14 +454,15 @@
       ]
     },
     {
-      "title": "XXII.",
+      "title": "XXII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_024.html",
       "words": 1799,
       "chars": 11363,
       "ideas": 74,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 22,
+      "prev": "pet_nedel_v_balone_split_023.html",
+      "next": "pet_nedel_v_balone_split_025.html",
       "toc": [
         {
           "index": 0,
@@ -487,14 +474,15 @@
       ]
     },
     {
-      "title": "XXIII.",
+      "title": "XXIII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_025.html",
       "words": 1737,
       "chars": 10719,
       "ideas": 100,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 23,
+      "prev": "pet_nedel_v_balone_split_024.html",
+      "next": "pet_nedel_v_balone_split_026.html",
       "toc": [
         {
           "index": 0,
@@ -506,14 +494,15 @@
       ]
     },
     {
-      "title": "XXIV.",
+      "title": "XXIV. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_026.html",
       "words": 1752,
       "chars": 11087,
       "ideas": 51,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 24,
+      "prev": "pet_nedel_v_balone_split_025.html",
+      "next": "pet_nedel_v_balone_split_027.html",
       "toc": [
         {
           "index": 0,
@@ -525,14 +514,15 @@
       ]
     },
     {
-      "title": "XXV.",
+      "title": "XXV. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_027.html",
       "words": 1372,
       "chars": 8442,
       "ideas": 77,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 25,
+      "prev": "pet_nedel_v_balone_split_026.html",
+      "next": "pet_nedel_v_balone_split_028.html",
       "toc": [
         {
           "index": 0,
@@ -544,14 +534,15 @@
       ]
     },
     {
-      "title": "XXVI.",
+      "title": "XXVI. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_028.html",
       "words": 1539,
       "chars": 9410,
       "ideas": 55,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 26,
+      "prev": "pet_nedel_v_balone_split_027.html",
+      "next": "pet_nedel_v_balone_split_029.html",
       "toc": [
         {
           "index": 0,
@@ -563,14 +554,15 @@
       ]
     },
     {
-      "title": "XXVII.",
+      "title": "XXVII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_029.html",
       "words": 1360,
       "chars": 8250,
       "ideas": 82,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 27,
+      "prev": "pet_nedel_v_balone_split_028.html",
+      "next": "pet_nedel_v_balone_split_030.html",
       "toc": [
         {
           "index": 0,
@@ -582,14 +574,15 @@
       ]
     },
     {
-      "title": "XXVIII.",
+      "title": "XXVIII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_030.html",
       "words": 1418,
       "chars": 8751,
       "ideas": 57,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 28,
+      "prev": "pet_nedel_v_balone_split_029.html",
+      "next": "pet_nedel_v_balone_split_031.html",
       "toc": [
         {
           "index": 0,
@@ -601,14 +594,15 @@
       ]
     },
     {
-      "title": "XXIX.",
+      "title": "XXIX. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_031.html",
       "words": 1436,
       "chars": 9315,
       "ideas": 54,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 29,
+      "prev": "pet_nedel_v_balone_split_030.html",
+      "next": "pet_nedel_v_balone_split_032.html",
       "toc": [
         {
           "index": 0,
@@ -620,14 +614,15 @@
       ]
     },
     {
-      "title": "XXX.",
+      "title": "XXX. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_032.html",
       "words": 1724,
       "chars": 10782,
       "ideas": 54,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 30,
+      "prev": "pet_nedel_v_balone_split_031.html",
+      "next": "pet_nedel_v_balone_split_033.html",
       "toc": [
         {
           "index": 0,
@@ -639,14 +634,15 @@
       ]
     },
     {
-      "title": "XXXI.",
+      "title": "XXXI. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_033.html",
       "words": 1084,
       "chars": 6697,
       "ideas": 46,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 31,
+      "prev": "pet_nedel_v_balone_split_032.html",
+      "next": "pet_nedel_v_balone_split_034.html",
       "toc": [
         {
           "index": 0,
@@ -658,14 +654,15 @@
       ]
     },
     {
-      "title": "XXXII.",
+      "title": "XXXII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_034.html",
       "words": 1289,
       "chars": 8146,
       "ideas": 77,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 32,
+      "prev": "pet_nedel_v_balone_split_033.html",
+      "next": "pet_nedel_v_balone_split_035.html",
       "toc": [
         {
           "index": 0,
@@ -677,14 +674,15 @@
       ]
     },
     {
-      "title": "XXXIII.",
+      "title": "XXXIII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_035.html",
       "words": 1665,
       "chars": 10334,
       "ideas": 53,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 33,
+      "prev": "pet_nedel_v_balone_split_034.html",
+      "next": "pet_nedel_v_balone_split_036.html",
       "toc": [
         {
           "index": 0,
@@ -696,14 +694,15 @@
       ]
     },
     {
-      "title": "XXXIV.",
+      "title": "XXXIV. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_036.html",
       "words": 1140,
       "chars": 7036,
       "ideas": 42,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 34,
+      "prev": "pet_nedel_v_balone_split_035.html",
+      "next": "pet_nedel_v_balone_split_037.html",
       "toc": [
         {
           "index": 0,
@@ -715,14 +714,15 @@
       ]
     },
     {
-      "title": "XXXV.",
+      "title": "XXXV. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_037.html",
       "words": 2237,
       "chars": 13577,
       "ideas": 52,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 35,
+      "prev": "pet_nedel_v_balone_split_036.html",
+      "next": "pet_nedel_v_balone_split_038.html",
       "toc": [
         {
           "index": 0,
@@ -734,14 +734,15 @@
       ]
     },
     {
-      "title": "XXXVI.",
+      "title": "XXXVI. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_038.html",
       "words": 1183,
       "chars": 7188,
       "ideas": 83,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 36,
+      "prev": "pet_nedel_v_balone_split_037.html",
+      "next": "pet_nedel_v_balone_split_039.html",
       "toc": [
         {
           "index": 0,
@@ -753,14 +754,15 @@
       ]
     },
     {
-      "title": "XXXVII.",
+      "title": "XXXVII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_039.html",
       "words": 1409,
       "chars": 8629,
       "ideas": 55,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 37,
+      "prev": "pet_nedel_v_balone_split_038.html",
+      "next": "pet_nedel_v_balone_split_040.html",
       "toc": [
         {
           "index": 0,
@@ -772,14 +774,15 @@
       ]
     },
     {
-      "title": "XXXVIII.",
+      "title": "XXXVIII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_040.html",
       "words": 1945,
       "chars": 11969,
       "ideas": 51,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 38,
+      "prev": "pet_nedel_v_balone_split_039.html",
+      "next": "pet_nedel_v_balone_split_041.html",
       "toc": [
         {
           "index": 0,
@@ -791,14 +794,15 @@
       ]
     },
     {
-      "title": "XXXIX.",
+      "title": "XXXIX. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_041.html",
       "words": 1131,
       "chars": 7223,
       "ideas": 38,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 39,
+      "prev": "pet_nedel_v_balone_split_040.html",
+      "next": "pet_nedel_v_balone_split_042.html",
       "toc": [
         {
           "index": 0,
@@ -810,14 +814,15 @@
       ]
     },
     {
-      "title": "XL.",
+      "title": "XL. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_042.html",
       "words": 941,
       "chars": 5972,
       "ideas": 40,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 40,
+      "prev": "pet_nedel_v_balone_split_041.html",
+      "next": "pet_nedel_v_balone_split_043.html",
       "toc": [
         {
           "index": 0,
@@ -829,14 +834,15 @@
       ]
     },
     {
-      "title": "XLI.",
+      "title": "XLI. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_043.html",
       "words": 1676,
       "chars": 10360,
       "ideas": 92,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 41,
+      "prev": "pet_nedel_v_balone_split_042.html",
+      "next": "pet_nedel_v_balone_split_044.html",
       "toc": [
         {
           "index": 0,
@@ -848,14 +854,15 @@
       ]
     },
     {
-      "title": "XLII.",
+      "title": "XLII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_044.html",
       "words": 1177,
       "chars": 7325,
       "ideas": 52,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 42,
+      "prev": "pet_nedel_v_balone_split_043.html",
+      "next": "pet_nedel_v_balone_split_045.html",
       "toc": [
         {
           "index": 0,
@@ -867,14 +874,15 @@
       ]
     },
     {
-      "title": "XLIII.",
+      "title": "XLIII. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_045.html",
       "words": 1897,
       "chars": 11856,
       "ideas": 104,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 43,
+      "prev": "pet_nedel_v_balone_split_044.html",
+      "next": "pet_nedel_v_balone_split_046.html",
       "toc": [
         {
           "index": 0,
@@ -886,14 +894,15 @@
       ]
     },
     {
-      "title": "XLIV.",
+      "title": "XLIV. • Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_046.html",
       "words": 600,
       "chars": 4044,
       "ideas": 24,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 44,
+      "prev": "pet_nedel_v_balone_split_045.html",
+      "next": "pet_nedel_v_balone_split_047.html",
       "toc": [
         {
           "index": 0,
@@ -905,14 +914,15 @@
       ]
     },
     {
-      "title": "",
+      "title": "Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_047.html",
       "words": 453,
       "chars": 2819,
       "ideas": 58,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
+      "role": "chapter",
+      "order": 45,
+      "prev": "pet_nedel_v_balone_split_046.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -932,47 +942,36 @@
       ]
     },
     {
-      "title": "",
-      "file": "pet_nedel_v_balone_split_048.html",
-      "words": 2,
-      "chars": 0,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "title": "Tiráž • Pět neděl v baloně",
+      "file": "colophon.html",
+      "words": 182,
+      "chars": 1161,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
+      "prev": "pet_nedel_v_balone_split_047.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
       ]
-    },
-    {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "pet_nedel_v_balone_split_048.html",
-      "toc": []
     }
   ],
   "totals": {
     "all": {
-      "words": 65627,
-      "chars": 413589,
-      "ideas": 2848
+      "words": 65623,
+      "chars": 413576,
+      "ideas": 2847
     },
     "chapters": {
-      "words": 2,
-      "chars": 0,
-      "ideas": 2
+      "words": 65433,
+      "chars": 412375,
+      "ideas": 2826
     }
   }
 }
