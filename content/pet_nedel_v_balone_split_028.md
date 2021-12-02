@@ -12,7 +12,7 @@ V sobotu ráno dal doktor znamení k odjezdu.
 
 „Je dnes málo větru, pane!“ podotkl Joe, „ale možná, že se strhne,“ dodal vida zármutek Fergussonův špatně tajený.
 
-Marná naděje! Panovalať ve vzduchu úplná tišeň, z těch tišní, které v tropických mořích poutají lodi urputně k místu. Vedro vzmohlo se do nesnesitelna, a teploměr ukazoval ve stínu pod stanem sto třináct stupňů[\[45\]](../Text/pet_nedel_v_balone_split_047.html#_ftn45).
+Marná naděje! Panovalať ve vzduchu úplná tišeň, z těch tišní, které v tropických mořích poutají lodi urputně k místu. Vedro vzmohlo se do nesnesitelna, a teploměr ukazoval ve stínu pod stanem sto třináct stupňů[\[45\]](./resources/undefined).
 
 Joe a Kennedy natažení vedle sebe hleděli zapomenouti na své postavení ne-li ve spánku, aspoň ve ztrnulosti. Nucená nečinnost plodila jim trapnou nudu. Politování hodnější jest člověk, jenž nedovede se vymknouti myšlenkám prací nebo hmotným zaměstnáním; zde však nebylo k ničemu dohlížeti, rovněž nebylo nic zkoušeti; bylo třeba se podrobiti okolnostem bez naděje v lepší obrat.
 
@@ -46,7 +46,7 @@ Váha cestovatelů nahrazena rovným nákladem písku, i vystoupili na zemi; ka�
 
 V noci nikdo nebděl, nikdo však také nespal. Parno bylo dusné. Nazejtří nezbývalo již nic více nežli čtvrt litru vody; doktor postavil ji stranou, i usnesli se na tom, že se jí nedotknou leč v čas svrchované potřeby.
 
-„Dusím se,“ vykřikl za nedlouho Joe, „vedro se zdvojuje! Nedivím se tomu,“ dodal, podívav se na teploměr, „sto čtyřicet stupňů!“[\[46\]](../Text/pet_nedel_v_balone_split_047.html#_ftn46)
+„Dusím se,“ vykřikl za nedlouho Joe, „vedro se zdvojuje! Nedivím se tomu,“ dodal, podívav se na teploměr, „sto čtyřicet stupňů!“[\[46\]](./resources/undefined)
 
 „Písek pálí,“ stěžoval si lovec, „jako by vycházel z výhně. A ani mráčku na tom planoucím nebi. Člověk aby z toho zšílel!“
 

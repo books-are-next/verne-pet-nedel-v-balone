@@ -18,7 +18,7 @@ Bylo snadno rozeznati užaslé tváře plemene dosti hezkého, žlutohnědé ple
 
 O poledni octla se Viktorie na 1° 45' jižní šířky; o jedné zanesl ji vítr nad jezero.
 
-Toto jezero nazval setník Speke ňanzou[\[38\]](../Text/pet_nedel_v_balone_split_047.html#_ftn38) Viktoriinou. V těch místech bylo zšíří asi sta čtyřicíti pěti kilometrů; v jeho poledním cípu nalezl setník skupinu ostrovů, které pojmenoval souostrovím Bengalským. Postoupil na výzkumu až do Muazy na východním pobřeží, kde byl králem dobře uvítán. Vyměřil trojúhelníky tuto končinu jezerní; ale nemohl si opatřiti člun, aby přeplul jezero, neb aby zajel na velký ostrov Ukereve; na tomto ostrově velice lidnatém, jenž o nízkém odlivu je toliko poloostrovem, panují tři králové.
+Toto jezero nazval setník Speke ňanzou[\[38\]](./resources/undefined) Viktoriinou. V těch místech bylo zšíří asi sta čtyřicíti pěti kilometrů; v jeho poledním cípu nalezl setník skupinu ostrovů, které pojmenoval souostrovím Bengalským. Postoupil na výzkumu až do Muazy na východním pobřeží, kde byl králem dobře uvítán. Vyměřil trojúhelníky tuto končinu jezerní; ale nemohl si opatřiti člun, aby přeplul jezero, neb aby zajel na velký ostrov Ukereve; na tomto ostrově velice lidnatém, jenž o nízkém odlivu je toliko poloostrovem, panují tři králové.
 
 Viktorie stihla k jezeru severněji k nemalé lítosti doktorově, jenž by byl rád určil jeho dolejší obrysy. Břehy porostlé trnitými křovisky a spletitými houštinami mizely takořka pod myriadami světlohnědých moskytů; tato země byla zajisté bydlitelná a obydlená; stáda hrochů povalovala se ve vysokém rákosí, nebo se potápěla do bělavé vody jezerní. Jezero jevilo s výše na západ obzor tak širý, že vypadalo jako moře; vzdálenost břehův od sebe je taková, že vzájemné styky jsou nemožny; mimo to řádívají tam prudké a časté bouřky, neboť větry zaléhají plnou silou do této vysoké, nechráněné nádrže.
 
@@ -78,7 +78,7 @@ Ačkoli doktor Fergusson řídil balon, nespouštěl přece dychtivých zraků s
 
 Valné skály byly tu a tam na závadu toku této tajemné řeky. Voda se pěnila; tvořily se peřeje a prahy, jež utvrzovaly doktora v jeho domyslech. S okolních hor valily se četné bystřiny spádem zpěněné; oči počítaly jich na sta. Z půdy prýštily se slabé roztroušené prameny, křižujíce se, splývajíce, závodíce rychlostí, a vtékaly vesměs do této vznikající řeky, která pohltivši je vzmohla se na veletok.
 
-„Toť vskutku Nil,“ říkal doktor přesvědčivě. „Původ jeho jména zajímal učence rovněž jako původ jeho toku; odvozovali je z řečtiny, z koptštiny, ze sanskritu;[\[39\]](../Text/pet_nedel_v_balone_split_047.html#_ftn39) celkem na tom sejde nehnilý, poněvadž vyjevil konečně záhadu svých zřídel!“
+„Toť vskutku Nil,“ říkal doktor přesvědčivě. „Původ jeho jména zajímal učence rovněž jako původ jeho toku; odvozovali je z řečtiny, z koptštiny, ze sanskritu;[\[39\]](./resources/undefined) celkem na tom sejde nehnilý, poněvadž vyjevil konečně záhadu svých zřídel!“
 
 „Ale,“ pravil lovec, „kterak; zjistíme totožnost této řeky s řekou, kterou prozkoumali cestovatelé od severu?“
 

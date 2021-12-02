@@ -98,7 +98,7 @@ Fergussonovi bylo pak obnoviti rovnováhu vzducholodi, a Joe byl nucen obětovat
 
 Myšlenka, že snad ošidí nějakého učence, potěšila hodného jonáka tak, že se usmíval.
 
-Po ostatní den doktor očekával nadarmo změnu v ovzduší. Teplota se rozmohla a bez chládku v oasovém stromoví byla by nesnesitelna bývala. Teploměr ukazoval na slunci sto čtyřicet devět stupňů[\[47\]](../Text/pet_nedel_v_balone_split_047.html#_ftn47).
+Po ostatní den doktor očekával nadarmo změnu v ovzduší. Teplota se rozmohla a bez chládku v oasovém stromoví byla by nesnesitelna bývala. Teploměr ukazoval na slunci sto čtyřicet devět stupňů[\[47\]](./resources/undefined).
 
 Hotový ohnivý déšť sršel vzduchem. Bylo to největší horko, které bylo dosud pozorováno.
 

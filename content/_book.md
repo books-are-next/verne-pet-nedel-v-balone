@@ -9,8 +9,56 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-11-23T15:10:23.605Z'
   languageCode: cs
-chapters:
-  - pet_nedel_v_balone_split_048.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
+  - pet_nedel_v_balone_split_001.html
+  - pet_nedel_v_balone_split_003.html
+  - pet_nedel_v_balone_split_004.html
+  - pet_nedel_v_balone_split_005.html
+  - pet_nedel_v_balone_split_006.html
+  - pet_nedel_v_balone_split_007.html
+  - pet_nedel_v_balone_split_008.html
+  - pet_nedel_v_balone_split_009.html
+  - pet_nedel_v_balone_split_010.html
+  - pet_nedel_v_balone_split_011.html
+  - pet_nedel_v_balone_split_012.html
+  - pet_nedel_v_balone_split_013.html
+  - pet_nedel_v_balone_split_014.html
+  - pet_nedel_v_balone_split_015.html
+  - pet_nedel_v_balone_split_016.html
+  - pet_nedel_v_balone_split_017.html
+  - pet_nedel_v_balone_split_018.html
+  - pet_nedel_v_balone_split_019.html
+  - pet_nedel_v_balone_split_020.html
+  - pet_nedel_v_balone_split_021.html
+  - pet_nedel_v_balone_split_022.html
+  - pet_nedel_v_balone_split_023.html
+  - pet_nedel_v_balone_split_024.html
+  - pet_nedel_v_balone_split_025.html
+  - pet_nedel_v_balone_split_026.html
+  - pet_nedel_v_balone_split_027.html
+  - pet_nedel_v_balone_split_028.html
+  - pet_nedel_v_balone_split_029.html
+  - pet_nedel_v_balone_split_030.html
+  - pet_nedel_v_balone_split_031.html
+  - pet_nedel_v_balone_split_032.html
+  - pet_nedel_v_balone_split_033.html
+  - pet_nedel_v_balone_split_034.html
+  - pet_nedel_v_balone_split_035.html
+  - pet_nedel_v_balone_split_036.html
+  - pet_nedel_v_balone_split_037.html
+  - pet_nedel_v_balone_split_038.html
+  - pet_nedel_v_balone_split_039.html
+  - pet_nedel_v_balone_split_040.html
+  - pet_nedel_v_balone_split_041.html
+  - pet_nedel_v_balone_split_042.html
+  - pet_nedel_v_balone_split_043.html
+  - pet_nedel_v_balone_split_044.html
+  - pet_nedel_v_balone_split_045.html
+  - pet_nedel_v_balone_split_046.html
+  - pet_nedel_v_balone_split_047.html
+  - colophon.html
 tocBase:
   - id: section-1
     children:
@@ -104,12 +152,13 @@ tocBase:
         title: XLIII.
       - link: pet_nedel_v_balone_split_046.html
         title: XLIV.
-    numberedChildren: false
+    isSection: true
 static:
   - style
   - scripts
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

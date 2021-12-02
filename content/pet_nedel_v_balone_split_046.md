@@ -16,7 +16,7 @@ Angličané dovedeni do zatímní stanice, zřízené na březích řeky; tam do
 
   
 
-> „My nížepsaní dosvědčujeme, že dne dole vytčeného viděli jsme, jak doktor Fergusson a jeho soudruzi, Richard Kennedy a Josef Wilson[\[57\]](../Text/pet_nedel_v_balone_split_047.html#_ftn57), přiletěli v baloně, visíce v jeho síti; kterýžto balon spadl do řečiště, a byv uchvácen proudem, sřítil se do vodopádů Guinských. Na důkaz pravdy podepsali jsme tento protokol spolu se svrchu jmenovanými. – Dáno u vodopádů Guinských, dne 24. května 1862.
+> „My nížepsaní dosvědčujeme, že dne dole vytčeného viděli jsme, jak doktor Fergusson a jeho soudruzi, Richard Kennedy a Josef Wilson[\[57\]](./resources/undefined), přiletěli v baloně, visíce v jeho síti; kterýžto balon spadl do řečiště, a byv uchvácen proudem, sřítil se do vodopádů Guinských. Na důkaz pravdy podepsali jsme tento protokol spolu se svrchu jmenovanými. – Dáno u vodopádů Guinských, dne 24. května 1862.
 
 „Samuel Fergusson, Richard Kennedy,  
 Josef Wilson; Dufraisse, poručík námořní pěchoty;  

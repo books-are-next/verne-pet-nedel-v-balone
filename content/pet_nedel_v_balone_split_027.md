@@ -30,7 +30,7 @@ Nazejtří táž obloha nezkaleně jasná, totéž nepohnuté ovzduší. Viktori
 
 „Zda se neobáváš, aby sluneční žár neuškodil balonu?“ otázal se Kennedy doktora.
 
-„Nikoli; guttaperča, kterou je dykyta napuštěna, snese mnohem větší teplotu. Teplota, jakou jsem na ni působil vnitř hadicí, mívala mnohdy sto padesát osm stupňův[\[44\]](../Text/pet_nedel_v_balone_split_047.html#_ftn44), a zdá se, že obal neutrpěl ani dost málo.“
+„Nikoli; guttaperča, kterou je dykyta napuštěna, snese mnohem větší teplotu. Teplota, jakou jsem na ni působil vnitř hadicí, mívala mnohdy sto padesát osm stupňův[\[44\]](./resources/undefined), a zdá se, že obal neutrpěl ani dost málo.“
 
 „Mračno! opravdové mračno!“ zvolal v tom Joe, jehož pronikavý zrak předčil nad všecky dalekohledy. – Hustý a nyní zřetelný pruh vyvstával skutečně zvolna na obzor; zdál se býti hluboký a jak odulý; byla to kupa drobných mráčků, které neměnily nijak svého prvotního tvaru, z čehož doktor soudil, že v jich shluku není vzduchového proudu.
 

@@ -36,7 +36,7 @@ V tom nastala potřeba vystoupiti s Viktorií, aby se přenesla přes les strom�
 
 „Jakže? což jsou stromy ještě vyšší?“
 
-„Ovšem, mezi těmi, jimž říkáme ‚mammouth trees‘[\[41\]](../Text/pet_nedel_v_balone_split_047.html#_ftn41). Tak byl v Kalifornii nalezen cedr zvýši čtyř set padesáti stop, kterážto výška převyšuje věž parlamentu, ba i velkou egyptskou pyramidu. Spodek měl v objemu sto dvacet stop a kruhy na jeho dřevě svědčily o věku více než čtyř tisíc let.“
+„Ovšem, mezi těmi, jimž říkáme ‚mammouth trees‘[\[41\]](./resources/undefined). Tak byl v Kalifornii nalezen cedr zvýši čtyř set padesáti stop, kterážto výška převyšuje věž parlamentu, ba i velkou egyptskou pyramidu. Spodek měl v objemu sto dvacet stop a kruhy na jeho dřevě svědčily o věku více než čtyř tisíc let.“
 
 „Aj! pane, ký div potom? Kdo se dočkal čtyř tisíc let, u toho je zcela přirozené, že má slušně velkou postavu!“
 

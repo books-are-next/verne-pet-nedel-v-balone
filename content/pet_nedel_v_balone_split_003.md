@@ -14,7 +14,7 @@ Strhl se nadšený pokřik. Jméno Fergussonovo ozývalo se ve všech ústech, i
 
 Bylo tu mnoho těch neohrožených cestovatelů – sestárlých a unavených – které jich neposedná letora provedla po všech pěti dílech světa. Všichni byli větší nebo menší měrou, po stránce tělesné nebo mravní, unikli utonutí na moři, požárům, indiánským tomahawkům, palicím divochů, mukám při kolu, žaludkům polyneským! Ale nic nedovedlo ztlumiti tepot jich srdcí za řeči sira Francisa M… a pokud sahala paměť lidská, byl to zajisté nejkrásnější řečnický úspěch královské zeměpisné společnosti londýnské.
 
-V Anglii pak nepřestává nadšení na pouhých slovech. Razí peníze ještě rychleji nežli vahadlo v „the Royal Mintu“.[\[1\]](../Text/pet_nedel_v_balone_split_047.html#_ftn1) K povzbuzení odhlasován hned příspěvek na podnik doktora Fergussona a dostoupil výše dvou tisíc pěti set liber.[\[2\]](../Text/pet_nedel_v_balone_split_047.html#_ftn2) Velikost sumy srovnávala se s velikostí záměru.
+V Anglii pak nepřestává nadšení na pouhých slovech. Razí peníze ještě rychleji nežli vahadlo v „the Royal Mintu“.[\[1\]](./resources/undefined) K povzbuzení odhlasován hned příspěvek na podnik doktora Fergussona a dostoupil výše dvou tisíc pěti set liber.[\[2\]](./resources/undefined) Velikost sumy srovnávala se s velikostí záměru.
 
 Jeden z členů společnosti vznesl na předsedu dotaz, nebude-li doktor Fergusson úředně představen.
 
@@ -22,7 +22,7 @@ Jeden z členů společnosti vznesl na předsedu dotaz, nebude-li doktor Ferguss
 
 „Ať vstoupí!“ voláno, „ať vstoupí! Kdož by rád neuzřel vlastníma očima muže vynikajícího odvahou tak neobyčejnou!“
 
-„Možná,“ pravil starý kommodore[\[3\]](../Text/pet_nedel_v_balone_split_047.html#_ftn3) náchylný k mrtvici, „že účelem tohoto neuvěřitelného návrhu není nic jiného než míti nás za blázny!“
+„Možná,“ pravil starý kommodore[\[3\]](./resources/undefined) náchylný k mrtvici, „že účelem tohoto neuvěřitelného návrhu není nic jiného než míti nás za blázny!“
 
 „A což není-li doktora Fergussona?“ ozval se jízlivý hlas.
 
@@ -44,7 +44,7 @@ Ne! nikdy se neočekávaný dotaz pánů Brighta a Cobdena, nikdy se žádost lo
 
 „Excelsior!“
 
-Starý kommodore, jsa unesen tímto podivným mužem, žádal, aby řeč Fergussonova „doslovně“ byla uveřejněna v The Proceedings of the Royal Geographical Society of London.[\[4\]](../Text/pet_nedel_v_balone_split_047.html#_ftn4)
+Starý kommodore, jsa unesen tímto podivným mužem, žádal, aby řeč Fergussonova „doslovně“ byla uveřejněna v The Proceedings of the Royal Geographical Society of London.[\[4\]](./resources/undefined)
 
 Kdo byl tento doktor a v jaký podnik hodlal se pustiti?
 
@@ -64,7 +64,7 @@ Tělesná soustava Fergussonova odolala ku podivu všelikým svízelům a vlivů
 
 Ký div tedy, že se shledáváme s tímto neúnavným cestovatelem v letech 1855 až 1857 na cestě po celém východním Tibetu ve společnosti bratří Schlagintweitů, odkud přinesl si podivné výzkumy národopisné.
 
-Za těchto rozličných cest byl Samuel Fergusson nejčinnějším a nejzajímavějším dopisovatelem Daily Telegraphu, pennyových[\[5\]](../Text/pet_nedel_v_balone_split_047.html#_ftn5) novin, jichž náklad páčí se denně až na sto čtyřicet tisíc výtisků a stačí ledva několika milionům čtenářů. Pročež byl tento doktor dobře znám, ač nebyl členem žádné učené akademie, ani královských zeměpisných společností londýnské, pařížské, berlínské, vídeňské nebo petrohradské, ani klubu cestovatelů, ba ani Royal Polytechnic Institutionu, kde předsedal jeho přítel, statistik Kokburn.
+Za těchto rozličných cest byl Samuel Fergusson nejčinnějším a nejzajímavějším dopisovatelem Daily Telegraphu, pennyových[\[5\]](./resources/undefined) novin, jichž náklad páčí se denně až na sto čtyřicet tisíc výtisků a stačí ledva několika milionům čtenářů. Pročež byl tento doktor dobře znám, ač nebyl členem žádné učené akademie, ani královských zeměpisných společností londýnské, pařížské, berlínské, vídeňské nebo petrohradské, ani klubu cestovatelů, ba ani Royal Polytechnic Institutionu, kde předsedal jeho přítel, statistik Kokburn.
 
 Tento učenec, chtě se mu zavděčit, dal mu jednou rozřešiti tuto úlohu: Urazil-li doktor kolem světa tolik a tolik mil, o kolik mil víc urazila jeho hlava, nežli jeho nohy, vzhledem k rozdílným poloměrům? Nebo kdyby byl znám počet mil ušlých nohama a hlavou doktorovou, aby vypočetl zevrubně na čárku svou postavu. Leč Fergusson stranil se vždy učených sborů, jsa z bojovníkův a nikoli z jalových mluvků; soudil, že lépe času užívá, pátraje nežli se hádaje, objevuje nežli přednášeje.
 

@@ -6,7 +6,7 @@ Gumovníkový les. – Modrá antilopa. – Heslo k návratu. – Nenadál
 
 Holý, vyprahlý kraj, jevící jílovitou půdu, jež vedrem pukala, zdál se býti liduprázdný; tu a tam bylo viděti stopy karavan, zbělelé hnáty lidské a zvířecí na polo ohlodané a s okolním prachem splynulé.
 
-Po půlhodinném pochodu zabrali se Dick a Joe do gumovníkového lesa s prstem na spoušti ručnice, rozhlížejíce se bystrýma očima. Nevěděliť, na koho uhodí. Jakkoli Joe nebyl riflemanem[\[33\]](../Text/pet_nedel_v_balone_split_047.html#_ftn33), dovedl přec obratně vládnouti palnou zbraní.
+Po půlhodinném pochodu zabrali se Dick a Joe do gumovníkového lesa s prstem na spoušti ručnice, rozhlížejíce se bystrýma očima. Nevěděliť, na koho uhodí. Jakkoli Joe nebyl riflemanem[\[33\]](./resources/undefined), dovedl přec obratně vládnouti palnou zbraní.
 
 „Je věru příjemno projít se, pane Dicku, a přece není tato půda hrubě pohodlná,“ prohodil zakopnuv o několik drobných křemenů, jimiž byla poseta.
 
@@ -164,7 +164,7 @@ Dick a Joe natáhli se na pokojné lože a spali tvrdě za hlídky doktorovy; o 
 
 „Kdyby se udála příhoda sebe nepatrnější, vzbuď mne,“ nařídil mu; „a předkem nepouštěj se zřetele tlakoměr. Jeť naším kompasem!“
 
-Noc byla chladna; jevil se rozdíl skoro 27 stupňů[\[34\]](../Text/pet_nedel_v_balone_split_047.html#_ftn34) mezi její teplotou a teplotou denní. Jakmile se stmělo, rozzvučel se noční koncert zvířat, která žízeň a hlad vyhánějí z doupat; žáby skřehotaly sopránem, s nímž se mísilo vytí šakalů, kdežto mohutný bas lvů přizvukoval akkordům tohoto živoucího orchestru.
+Noc byla chladna; jevil se rozdíl skoro 27 stupňů[\[34\]](./resources/undefined) mezi její teplotou a teplotou denní. Jakmile se stmělo, rozzvučel se noční koncert zvířat, která žízeň a hlad vyhánějí z doupat; žáby skřehotaly sopránem, s nímž se mísilo vytí šakalů, kdežto mohutný bas lvů přizvukoval akkordům tohoto živoucího orchestru.
 
 Zaujav z rána své stanovisko, pohlédl doktor Fergusson zkoumavě na bussolu a znamenal, že vítr v noci přeskočil. Viktorie urazila asi padesát kilometrů, směřujíc už dvě hodiny k severovýchodu; přeletěla Mabunguru, kamenitou zemi, posetou syenitovými balvany pěkně vyhlazenými a všecku prostoupenou skalisky v podobě oslích hřbetů; kuželovité vypnuliny podobné skalám karnackým pokrývaly půdu jako tolikéž kamenných oltářů dunidských; tu a tam bělaly se četné hnáty buvolův a slonů; stromoví bylo zde málo leč na východě, kde se v hlubokých lesích skrývalo několik vesnic.
 

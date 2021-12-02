@@ -40,7 +40,7 @@ V tento památný den 23. dubna urazili patnáctihodinou plavbou za bystrého v�
 
 Avšak za této poslední části cesty hnul se v nich truchlivý dojem V loďce rozhostil se úplný úmlk. Byl-li doktor Fergusson zabrán ve své objevy? Tanula-li jeho dvěma druhům na mysli vzdušná jízda neznámými končinami? K tomu i onomu družily se mimo pochybu mocné vzpomínky na Anglii a vzdálené přátele. Joe samojediný dával na jevo bezstarostnou filosofii, uznávaje zcela přirozeným, že tu vlastně není od té chvíle, co ji opustili; než ctil zamlklost Samuela Fergussona a Dicka Kennedye.
 
-V deset hodin večer zakotvila se Viktorie na svahu „Třesoucí se hory;“[\[40\]](../Text/pet_nedel_v_balone_split_047.html#_ftn40) pochutnali si na řádné večeři a usnuli všichni jeden po druhém pod vzájemnou ochranou.
+V deset hodin večer zakotvila se Viktorie na svahu „Třesoucí se hory;“[\[40\]](./resources/undefined) pochutnali si na řádné večeři a usnuli všichni jeden po druhém pod vzájemnou ochranou.
 
 Když nazejtří procitli, vrátily se jim jasnější myšlenky; byla pěkná pohoda, a vítr vál příznivým směrem; snídaní valně obveselené Joem uvedlo pak jich mysli zúplna v dobrou míru.
 

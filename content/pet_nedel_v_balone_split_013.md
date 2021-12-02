@@ -60,7 +60,7 @@ Tyto přípravy skončily se okolo pěti hodin večer; stráže bděly neustále
 
 Černoši neustávali dávati na jevo hněv křikem a pitvornými posunky a skoky. Čarodějové pobíhali mezi podrážděnými zástupy, rozdmychujíce všecku tu zlobu; několik fanatiků pokusilo se doplovati ostrova, než byli snadno odklizeni.
 
-Po té zahájeno čarování a zaklínání; dešťaři, kteří se chlubí, že poroučejí mračnům, přivolávali na pomoc vichry a „lijavce kamení“[\[27\]](../Text/pet_nedel_v_balone_split_047.html#_ftn27); za tou příčinou nasbírali lupenů ze všech různých stromů domácích; vařili je nad ohníčkem, zatím co jiní zabili skopce vrazivše mu dlouhou jehlu do srdce. Ale přes všecky jich obřady zůstala obloha jasna, a jich skopec a jich pitvoření vyšly na piano.
+Po té zahájeno čarování a zaklínání; dešťaři, kteří se chlubí, že poroučejí mračnům, přivolávali na pomoc vichry a „lijavce kamení“[\[27\]](./resources/undefined); za tou příčinou nasbírali lupenů ze všech různých stromů domácích; vařili je nad ohníčkem, zatím co jiní zabili skopce vrazivše mu dlouhou jehlu do srdce. Ale přes všecky jich obřady zůstala obloha jasna, a jich skopec a jich pitvoření vyšly na piano.
 
 Tu se negři pustili do zuřivého hýření opíjejíce se „tembem“, ostrou lihovinou, dobývanou z kokosníku, nebo pivem nad míru opojným, řečeným „togva“. Jich písně prosté jakéhosi nápěvu, jichž úměr však je velice správný, ozývaly se dlouho do noci.
 

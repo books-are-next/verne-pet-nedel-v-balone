@@ -40,7 +40,7 @@ Za hodinu po té rozkládala se pod jeho zraky pevnina vzhledu posud divokého, 
 
 „Pane, namanula se mi právě myšlenka: mohli bychom je zapřáhnouti do loďky a nechat se jimi táhnouti. Co tomu říkáte?“
 
-„Ubohý Joe, tuto myšlenku měl už kdosi jiný před tebou; provedl ji velice duchaplný spisovatel francouzský[\[48\]](../Text/pet_nedel_v_balone_split_047.html#_ftn48) – v románě, ovšem. Cestovatelé nechají se v baloně vléci velbloudy; přijde lev, sežere velbloudy, polkne vlečák a vleče místo nich, a tak dále. Jak vidíš, vytrysklo to vše z obrazotvornosti nadmíru bujné a nemá nic společného s naším způsobem pohonu.“
+„Ubohý Joe, tuto myšlenku měl už kdosi jiný před tebou; provedl ji velice duchaplný spisovatel francouzský[\[48\]](./resources/undefined) – v románě, ovšem. Cestovatelé nechají se v baloně vléci velbloudy; přijde lev, sežere velbloudy, polkne vlečák a vleče místo nich, a tak dále. Jak vidíš, vytrysklo to vše z obrazotvornosti nadmíru bujné a nemá nic společného s naším způsobem pohonu.“
 
 Joe, poněkud zahanbený tím, že jeho myšlenky bylo již použito, přemítal, které zvíře bylo by mohlo sežrati lva, ale ničeho se nedomysliv, jal se opět pozorovati krajinu.
 
@@ -98,13 +98,13 @@ Nazejtří byl vítr mírnější, leč oddaloval cestovatele od města Joly, kt
 
 Kennedy navrhl, aby se zastavili v tomto kraji bohatém lovnou zvěří; Joe předstíral, že se pociťuje potřeba čerstvého masa; než divoké mravy tohoto kraje, chování obyvatelstva a několik ran vypálených po Viktorii přiměly doktora, že se bral dále. Tíhli tu končinou, jevištěm krveprolití a požárů, kde válečné zápasy trvají ustavičně, a králové rvou se o království za nejukrutnějšího vraždění.
 
-Četné, lidnaté dědiny s dlouhými domy rozkládaly se mezi velkými pastvinami, jichž hustá tráva byla poseta fialovými květy; chatrče podobné obrovským úlům byly chráněny ostrým kolím. Divoké svahy pahorků připomínaly „gleny“[\[49\]](../Text/pet_nedel_v_balone_split_047.html#_ftn49) skotských vysočin, a Kennedy zmínil se o tom několikrát.
+Četné, lidnaté dědiny s dlouhými domy rozkládaly se mezi velkými pastvinami, jichž hustá tráva byla poseta fialovými květy; chatrče podobné obrovským úlům byly chráněny ostrým kolím. Divoké svahy pahorků připomínaly „gleny“[\[49\]](./resources/undefined) skotských vysočin, a Kennedy zmínil se o tom několikrát.
 
 Přes všecko úsilí doktorovo letěla Viktorie přímo na severovýchod k hoře Mendifu, jež mizela v oblacích; vysoká temena těchto hor dělí poříčí nigerské od poříčí jezera Čadského.
 
 Netrvalo dlouho a objevila se Bagelé, na jejíchž úbočích lpí osmnácte vsí jako hejno dítek v klíně matčině – překrásné divadlo pro zraky, jež mohly přehlédnouti a zachytiti tento celek; v úžlabinách rozkládala se rýžoviště a pole zemských ořechů.
 
-Ve tři hodiny octla se Viktorie naproti hoře Mendifu. Nebylo lze vyhnouti se jí, pročež bylo třeba ji přeletěti. Doktor, zvýšiv teplotu na sto osmdesát stupňů[\[50\]](../Text/pet_nedel_v_balone_split_047.html#_ftn50), dodal balonu nové síly vzestupné skorem šestnácti set liber; vznesl se do výše více než osmi tisíc stop. Byla to největší výška, jaké za cesty dostoupil, a teplota klesla tou měrou, že doktor a jeho soudruzi byli nuceni chrániti se pokryvkami.
+Ve tři hodiny octla se Viktorie naproti hoře Mendifu. Nebylo lze vyhnouti se jí, pročež bylo třeba ji přeletěti. Doktor, zvýšiv teplotu na sto osmdesát stupňů[\[50\]](./resources/undefined), dodal balonu nové síly vzestupné skorem šestnácti set liber; vznesl se do výše více než osmi tisíc stop. Byla to největší výška, jaké za cesty dostoupil, a teplota klesla tou měrou, že doktor a jeho soudruzi byli nuceni chrániti se pokryvkami.
 
 Fergusson chvatně zase sestoupil, neboť balonový obal napínal se tak, že div nepraskl; měl však přece kdy zjistiti sopečný původ hory, jejíž vyhaslé sopouchy jsou už jen hlubokými propastmi. Velké kupy ptačího trusu dodávaly bokům Mendifa vzhledu vápenitých skal; byla tam taková síla trusu, že by se jím bylo pohnojilo veškeré polstvo Spojeného království.
 

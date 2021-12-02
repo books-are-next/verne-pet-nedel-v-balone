@@ -8,13 +8,13 @@ Doktor Fergusson měl přítele. Nikoli druhého já, alter ego; přátelství n
 
 Než jakkoli Dick Kennedy a Samuel Fergusson byli obdařeni různými vlastnostmi, vlohami a letorou, žili přece jedním a týmž srdcem, a to je hnětlo nevalně. Naopak.
 
-Tento Dick Kennedy byl Skot v pravém smyslu slova, upřímný, odhodlaný, umíněný. Bydlil v městečku Leithu u Edinburku, v samém podkraji „Starého čadila“.[\[7\]](../Text/pet_nedel_v_balone_split_047.html#_ftn7) Byl občas rybářem, ale vždy a všude rozhodným lovcem, což není nijak s podivením u Kaledoňana, jenž byl poněkud horalem Highlandů. Slynul jako podivuhodný střelec z karabiny; rozstřeloval nejen kulky na ostří nože, nýbrž roztínal je na dvě půlky tak stejné, když se potom zvážily, že nebylo téměř rozdílu ve váze.
+Tento Dick Kennedy byl Skot v pravém smyslu slova, upřímný, odhodlaný, umíněný. Bydlil v městečku Leithu u Edinburku, v samém podkraji „Starého čadila“.[\[7\]](./resources/undefined) Byl občas rybářem, ale vždy a všude rozhodným lovcem, což není nijak s podivením u Kaledoňana, jenž byl poněkud horalem Highlandů. Slynul jako podivuhodný střelec z karabiny; rozstřeloval nejen kulky na ostří nože, nýbrž roztínal je na dvě půlky tak stejné, když se potom zvážily, že nebylo téměř rozdílu ve váze.
 
 * * *
 
 Mnoho vynálezců přišlo mu nabídnout svoji soustavu.
 
-Tvářnost Kennedyova připomínala silně tvářnost Halberta Glendinninga, jak ji líčí Walter Scott v „Klášteře“; byl postavy vyšší nad šest anglických stop[\[8\]](../Text/pet_nedel_v_balone_split_047.html#_ftn8); vynikaje roztomilostí a nenuceností, zdál se býti nadán silou obrovskou; obličej silně osmahlý, živé černé oči, vrozená ráznost a srdnatost a posléze cosi laskavého a ryzího ve všem zevnějšku svědčily ve prospěch Skotův.
+Tvářnost Kennedyova připomínala silně tvářnost Halberta Glendinninga, jak ji líčí Walter Scott v „Klášteře“; byl postavy vyšší nad šest anglických stop[\[8\]](./resources/undefined); vynikaje roztomilostí a nenuceností, zdál se býti nadán silou obrovskou; obličej silně osmahlý, živé černé oči, vrozená ráznost a srdnatost a posléze cosi laskavého a ryzího ve všem zevnějšku svědčily ve prospěch Skotův.
 
 Dva přátelé seznámili se v Indii tehda, kdy oba sloužili u téhož pluku; zatím co Dick honil tygry a slony, honil se Samuel za rostlinami a hmyzy; ten i onen mohl se honositi obratností ve svém oboru, a kořistí doktorovou stala se nejedna vzácná rostlina, která stála rovněž za tolik, jako pár sloních klů.
 
@@ -40,7 +40,7 @@ Když mu jeho důvěrnice, stará Elspeth, namlouvala, že je to třebas jen že
 
 „Aj! což bych nepoznal člověka? Což se mu to nepodobá? Cestovat vzduchem! Hle, teď už je řevniv na orly! Ne, na mou věru, toho nebude! však mu to překazím! Ó! kdyby mu člověk popustil, vydal by se jednoho krásného dne na měsíc!“
 
-Téhož večera vsedl Kennedy zpola znepokojený, zpola rozzlobený, do vlaku na General Railway stationu[\[9\]](../Text/pet_nedel_v_balone_split_047.html#_ftn9) a nazejtří dojel do Londýna.
+Téhož večera vsedl Kennedy zpola znepokojený, zpola rozzlobený, do vlaku na General Railway stationu[\[9\]](./resources/undefined) a nazejtří dojel do Londýna.
 
 Za tři čtvrti hodiny potom složila jej drožka u domku doktorova na Soho squareu v Greek streetu; vystoupiv po stupních opověděl se tím, že zabušil pětkrát na dveře pěstí pádně přiléhající.
 
@@ -82,7 +82,7 @@ Hodný Skot rozpaloval se opravdovým hněvem.
 
 „Poněvadž jest mým úmyslem vzít tě s sebou.“
 
-Skot vymrštil se skokem, za nějž nebyl by se hanbil ani kamzík. „Á tak!“ zvolal, „ty chceš, aby nás oba zavřeli do Betlehemu![\[10\]](../Text/pet_nedel_v_balone_split_047.html#_ftn10)“
+Skot vymrštil se skokem, za nějž nebyl by se hanbil ani kamzík. „Á tak!“ zvolal, „ty chceš, aby nás oba zavřeli do Betlehemu![\[10\]](./resources/undefined)“
 
 „Bezpečně jsem na tebe spoléhal, milý Dicku, a vyvolil jsem tebe dav výhost mnoha jiným.“
 
@@ -106,7 +106,7 @@ Kennedy strnul úžasem.
 
 „Dejme se do něho snídajíce, ač nejsi-li od toho, milý Dicku.“
 
-Dva přátelé zasedli vůči sobě za stolek mezi kupu sandwichův[\[11\]](../Text/pet_nedel_v_balone_split_047.html#_ftn11) a velký samovar.
+Dva přátelé zasedli vůči sobě za stolek mezi kupu sandwichův[\[11\]](./resources/undefined) a velký samovar.
 
 „Milý Samuele,“ ujal se slova lovec, „tvůj záměr jest nesmyslný! je nemožný! nemá do sebe nic vážného, ani uskutečnitelného!“ – „To zajisté uvidíme, až učiníme pokus.“
 

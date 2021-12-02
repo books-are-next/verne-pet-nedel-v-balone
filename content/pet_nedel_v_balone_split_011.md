@@ -24,7 +24,7 @@ Přirozenou měrou byla na přetřesu pověstná cesta. Joa stálo mnoho práce,
 
 I smáli se, leč mu věřili.
 
-„Dobrá! je-li pak tam gin?“[\[25\]](../Text/pet_nedel_v_balone_split_047.html#_ftn25) ozval se plavec, jenž byl náramným milovníkem tohoto nápoje.
+„Dobrá! je-li pak tam gin?“[\[25\]](./resources/undefined) ozval se plavec, jenž byl náramným milovníkem tohoto nápoje.
 
 „Ještě ne, milý brachu. Ne, s měsícem není nic; ale budeme se procházet po těch hezkých hvězdách, po těch rozkošných oběžnicích, o kterých mi pán tolikrát vyprávěl. Tak se nejprve podíváme na Saturna…“
 
