@@ -1,5 +1,6 @@
 ---
-title: IX.
+title: IX\.
+contentType: prose
 ---
 
 Mys obeplut. – Na předním výstupku. – Professor Joe přednáší o světopise. – O řízení balonů. – O hledání vzdušných proudů. – Heureka.

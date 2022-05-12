@@ -1,5 +1,6 @@
 ---
-title: XVII.
+title: XVII\.
+contentType: prose
 ---
 
 Hory Měsíčné. – Zelené moře. – Vyhozená kotva. – Vlečný slon. – Rychlá palba. – Smrt tlustokožcova. – Polní pec. – Hostina na trávě. – Noc na zemi.

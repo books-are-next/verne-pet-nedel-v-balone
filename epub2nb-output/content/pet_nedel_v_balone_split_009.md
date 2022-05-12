@@ -1,5 +1,6 @@
 ---
-title: VII.
+title: VII\.
+contentType: prose
 ---
 
 Geometrické podrobnosti. – Výpočet obsahu balonu. – Dvojitý balon. – Obal. – Loďka. – Tajemný přístroj. – Potraviny. – Dodatečná příprava.

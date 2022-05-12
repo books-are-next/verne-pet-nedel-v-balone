@@ -1,5 +1,6 @@
 ---
-title: XXXV.
+title: XXXV\.
+contentType: prose
 ---
 
 Příhody Joovy. – Ostrov Biddiomů. – Joe považován za boha. – Pohlcený ostrov. – Jezerní břehy. – Hadí strom. – Cesta pěšky. – Strasti.– Moskyti a mravenci. – Hlad. – Přelet Viktorie. – Zmizení Viktorie. – Zoufalství. – Močál. – Poslední výkřik.

@@ -1,5 +1,6 @@
 ---
-title: XL.
+title: XL\.
+contentType: prose
 ---
 
 Obavy doktora Fergussona. – Stálý směr k jihu. – Mračno kobylek. – Pohled na Dženné. – Pohled na Sego. – Změna větru. – Joova lítost.

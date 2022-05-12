@@ -1,5 +1,6 @@
 ---
-title: XX.
+title: XX\.
+contentType: prose
 ---
 
 Nebeská láhev. – Fíkové palmy. – „Mammouth trees“. – Válečný strom. – Okřídlené spřežení. – Bitva dvou kmenů. – Řež. – Božské zakročení.

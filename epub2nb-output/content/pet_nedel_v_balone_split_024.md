@@ -1,5 +1,6 @@
 ---
-title: XXII.
+title: XXII\.
+contentType: prose
 ---
 
 Světelný pruh. – Missionář. – Únos v zářivém paprsku. – Kněz lazarist. – Nevalná naděje. – Doktorova péče. – Život plný odříkání. – Přelet přes sopku.

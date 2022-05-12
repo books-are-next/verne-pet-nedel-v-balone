@@ -1,5 +1,6 @@
 ---
-title: XIV.
+title: XIV\.
+contentType: prose
 ---
 
 Gumovníkový les. – Modrá antilopa. – Heslo k návratu. – Nenadálý útok. – Kaněme. – Noc v širém vzduchu. – Mabunguru. – Džihu la Mkoa. – Zásoba vody. – Příjezd do Kaze.

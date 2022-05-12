@@ -1,5 +1,6 @@
 ---
-title: XV.
+title: XV\.
+contentType: prose
 ---
 
 Kaze. – Hlučný trh. – Příjezd Viktorie. – Vagangové. – Měsíčané. – Doktorova procházka. – Obyvatelstvo. – Královské tembe. – Ženy královy. – Královský opilec. – Joe uctíván za boha. – Jak se tančí na měsíci. – Náhlý obrat. – Dva měsíce na obloze. – Nestálost božských velikánů.

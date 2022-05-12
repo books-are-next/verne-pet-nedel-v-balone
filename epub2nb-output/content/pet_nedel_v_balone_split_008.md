@@ -1,5 +1,6 @@
 ---
-title: VI.
+title: VI\.
+contentType: prose
 ---
 
 Nevšední sluha. – Vidí souputníky Jupiterovy. – Dick a Joe se potýkají. – Pochybnost a víra. – Vážení. – Joe Wellington. – Dostane půlkorunu.

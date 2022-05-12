@@ -1,5 +1,6 @@
 ---
-title: III.
+title: III\.
+contentType: prose
 ---
 
 Doktorův přítel. – Kde vzniklo jich přátelství. – Dick Kennedy v Londýně. – Nenadálý, leč nikterak uspokojivý návrh. – Přísloví nehrubě potěšitelné. – Několik slov o mučenících afrických. – Výhody balonu. – Tajemství doktora Fergussona.

@@ -1,5 +1,6 @@
 ---
-title: XVI.
+title: XVI\.
+contentType: prose
 ---
 
 Známky bouře. – Měsíčná země. – Budoucnost africké pevniny. – Stroj poslední doby. – Rozhled po kraji při západu slunce. – Květena a zvířena. – Bouře. – Ohnivé pásmo. – Hvězdnaté nebe.

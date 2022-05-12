@@ -1,5 +1,6 @@
 ---
-title: XXXIV.
+title: XXXIV\.
+contentType: prose
 ---
 
 Vichr. – Nucený odjezd. – Ztráta kotvy. – Smutné úvahy. – Rozhodnutí. – Smršť. – Zasypaná karavana. – Protivný a příznivý vítr. – Návrat na jih. – Kennedy na svém stanovisku.

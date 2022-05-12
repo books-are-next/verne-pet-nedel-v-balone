@@ -1,5 +1,6 @@
 ---
-title: XXVIII.
+title: XXVIII\.
+contentType: prose
 ---
 
 Rozkošný večer. – Joova kuchyně. – Rozprava o syrovém mase. – Historie Jamesa Brucea. – Pod širým nebem. – Sny Joovy. – Tlakoměr klesá. – Tlakoměr stoupá. – Přípravy k odjezdu. – Strašlivá bouře.

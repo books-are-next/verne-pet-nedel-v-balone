@@ -1,5 +1,6 @@
 ---
-title: XLII.
+title: XLII\.
+contentType: prose
 ---
 
 Šlechetný zápas. – Poslední oběť. – Dmuchavkový přístroj. – Obratnost Joova. – Půlnoc. – Hlídka doktorova. – Hlídka Kennedyova. – Usne. – Požár. – Křiky a ryky. – Mimo dosah.

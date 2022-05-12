@@ -1,5 +1,6 @@
 ---
-title: XXXVI.
+title: XXXVI\.
+contentType: prose
 ---
 
 Shluk na obzoru. – Četa Arabů. – Pronásledování. – To jest on! – Pád s koně. – Zardoušený Arab. – Kennedyova kulka. – Únos letmo. – Joe zachráněn.

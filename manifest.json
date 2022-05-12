@@ -1,20 +1,71 @@
 {
-  "author": "Jules Verne",
-  "edition": "beletrie",
-  "identifier": "verne-pet-nedel-v-balone-0345a92",
-  "languagecode": "cs",
-  "modified": "2021-11-23T15:10:23.605Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Pět neděl v baloně",
-  "revision": "0345a92",
+  "author": "Jules Verne",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "verne-pet-nedel-v-balone-50bbed4",
+  "revision": "50bbed4",
+  "readingOrder": [
+    "pet_nedel_v_balone_split_001.html",
+    "pet_nedel_v_balone_split_003.html",
+    "pet_nedel_v_balone_split_004.html",
+    "pet_nedel_v_balone_split_005.html",
+    "pet_nedel_v_balone_split_006.html",
+    "pet_nedel_v_balone_split_007.html",
+    "pet_nedel_v_balone_split_008.html",
+    "pet_nedel_v_balone_split_009.html",
+    "pet_nedel_v_balone_split_010.html",
+    "pet_nedel_v_balone_split_011.html",
+    "pet_nedel_v_balone_split_012.html",
+    "pet_nedel_v_balone_split_013.html",
+    "pet_nedel_v_balone_split_014.html",
+    "pet_nedel_v_balone_split_015.html",
+    "pet_nedel_v_balone_split_016.html",
+    "pet_nedel_v_balone_split_017.html",
+    "pet_nedel_v_balone_split_018.html",
+    "pet_nedel_v_balone_split_019.html",
+    "pet_nedel_v_balone_split_020.html",
+    "pet_nedel_v_balone_split_021.html",
+    "pet_nedel_v_balone_split_022.html",
+    "pet_nedel_v_balone_split_023.html",
+    "pet_nedel_v_balone_split_024.html",
+    "pet_nedel_v_balone_split_025.html",
+    "pet_nedel_v_balone_split_026.html",
+    "pet_nedel_v_balone_split_027.html",
+    "pet_nedel_v_balone_split_028.html",
+    "pet_nedel_v_balone_split_029.html",
+    "pet_nedel_v_balone_split_030.html",
+    "pet_nedel_v_balone_split_031.html",
+    "pet_nedel_v_balone_split_032.html",
+    "pet_nedel_v_balone_split_033.html",
+    "pet_nedel_v_balone_split_034.html",
+    "pet_nedel_v_balone_split_035.html",
+    "pet_nedel_v_balone_split_036.html",
+    "pet_nedel_v_balone_split_037.html",
+    "pet_nedel_v_balone_split_038.html",
+    "pet_nedel_v_balone_split_039.html",
+    "pet_nedel_v_balone_split_040.html",
+    "pet_nedel_v_balone_split_041.html",
+    "pet_nedel_v_balone_split_042.html",
+    "pet_nedel_v_balone_split_043.html",
+    "pet_nedel_v_balone_split_044.html",
+    "pet_nedel_v_balone_split_045.html",
+    "pet_nedel_v_balone_split_046.html",
+    "pet_nedel_v_balone_split_047.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 06:18:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638425888661
+    "date": "Thu May 12 2022 10:37:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351849443
   },
   "documents": [
     {
-      "title": "Upozornění pro čtenáře • Pět neděl v baloně",
+      "title": "Upozornění pro čtenáře",
       "file": "pet_nedel_v_balone_split_001.html",
       "words": 93,
       "chars": 626,
@@ -34,7 +85,7 @@
       ]
     },
     {
-      "title": "I. • Pět neděl v baloně",
+      "title": "I.",
       "file": "pet_nedel_v_balone_split_003.html",
       "words": 1651,
       "chars": 11245,
@@ -54,7 +105,7 @@
       ]
     },
     {
-      "title": "II. • Pět neděl v baloně",
+      "title": "II.",
       "file": "pet_nedel_v_balone_split_004.html",
       "words": 694,
       "chars": 4779,
@@ -74,7 +125,7 @@
       ]
     },
     {
-      "title": "III. • Pět neděl v baloně",
+      "title": "III.",
       "file": "pet_nedel_v_balone_split_005.html",
       "words": 1734,
       "chars": 10916,
@@ -94,7 +145,7 @@
       ]
     },
     {
-      "title": "IV. • Pět neděl v baloně",
+      "title": "IV.",
       "file": "pet_nedel_v_balone_split_006.html",
       "words": 1227,
       "chars": 7669,
@@ -114,7 +165,7 @@
       ]
     },
     {
-      "title": "V. • Pět neděl v baloně",
+      "title": "V.",
       "file": "pet_nedel_v_balone_split_007.html",
       "words": 1194,
       "chars": 7506,
@@ -134,7 +185,7 @@
       ]
     },
     {
-      "title": "VI. • Pět neděl v baloně",
+      "title": "VI.",
       "file": "pet_nedel_v_balone_split_008.html",
       "words": 1137,
       "chars": 7036,
@@ -154,7 +205,7 @@
       ]
     },
     {
-      "title": "VII. • Pět neděl v baloně",
+      "title": "VII.",
       "file": "pet_nedel_v_balone_split_009.html",
       "words": 1092,
       "chars": 7338,
@@ -174,7 +225,7 @@
       ]
     },
     {
-      "title": "VIII. • Pět neděl v baloně",
+      "title": "VIII.",
       "file": "pet_nedel_v_balone_split_010.html",
       "words": 1367,
       "chars": 8859,
@@ -194,7 +245,7 @@
       ]
     },
     {
-      "title": "IX. • Pět neděl v baloně",
+      "title": "IX.",
       "file": "pet_nedel_v_balone_split_011.html",
       "words": 1149,
       "chars": 7011,
@@ -214,7 +265,7 @@
       ]
     },
     {
-      "title": "X. • Pět neděl v baloně",
+      "title": "X.",
       "file": "pet_nedel_v_balone_split_012.html",
       "words": 1142,
       "chars": 7416,
@@ -234,7 +285,7 @@
       ]
     },
     {
-      "title": "XI. • Pět neděl v baloně",
+      "title": "XI.",
       "file": "pet_nedel_v_balone_split_013.html",
       "words": 1366,
       "chars": 8995,
@@ -254,7 +305,7 @@
       ]
     },
     {
-      "title": "XII. • Pět neděl v baloně",
+      "title": "XII.",
       "file": "pet_nedel_v_balone_split_014.html",
       "words": 1804,
       "chars": 11289,
@@ -274,7 +325,7 @@
       ]
     },
     {
-      "title": "XIII. • Pět neděl v baloně",
+      "title": "XIII.",
       "file": "pet_nedel_v_balone_split_015.html",
       "words": 1469,
       "chars": 9421,
@@ -294,7 +345,7 @@
       ]
     },
     {
-      "title": "XIV. • Pět neděl v baloně",
+      "title": "XIV.",
       "file": "pet_nedel_v_balone_split_016.html",
       "words": 1877,
       "chars": 11707,
@@ -314,7 +365,7 @@
       ]
     },
     {
-      "title": "XV. • Pět neděl v baloně",
+      "title": "XV.",
       "file": "pet_nedel_v_balone_split_017.html",
       "words": 2287,
       "chars": 14570,
@@ -334,7 +385,7 @@
       ]
     },
     {
-      "title": "XVI. • Pět neděl v baloně",
+      "title": "XVI.",
       "file": "pet_nedel_v_balone_split_018.html",
       "words": 1946,
       "chars": 12553,
@@ -354,7 +405,7 @@
       ]
     },
     {
-      "title": "XVII. • Pět neděl v baloně",
+      "title": "XVII.",
       "file": "pet_nedel_v_balone_split_019.html",
       "words": 1976,
       "chars": 12379,
@@ -374,7 +425,7 @@
       ]
     },
     {
-      "title": "XVIII. • Pět neděl v baloně",
+      "title": "XVIII.",
       "file": "pet_nedel_v_balone_split_020.html",
       "words": 2037,
       "chars": 13060,
@@ -394,7 +445,7 @@
       ]
     },
     {
-      "title": "XIX. • Pět neděl v baloně",
+      "title": "XIX.",
       "file": "pet_nedel_v_balone_split_021.html",
       "words": 1203,
       "chars": 7754,
@@ -414,7 +465,7 @@
       ]
     },
     {
-      "title": "XX. • Pět neděl v baloně",
+      "title": "XX.",
       "file": "pet_nedel_v_balone_split_022.html",
       "words": 1348,
       "chars": 8370,
@@ -434,7 +485,7 @@
       ]
     },
     {
-      "title": "XXI. • Pět neděl v baloně",
+      "title": "XXI.",
       "file": "pet_nedel_v_balone_split_023.html",
       "words": 1676,
       "chars": 10582,
@@ -454,7 +505,7 @@
       ]
     },
     {
-      "title": "XXII. • Pět neděl v baloně",
+      "title": "XXII.",
       "file": "pet_nedel_v_balone_split_024.html",
       "words": 1799,
       "chars": 11363,
@@ -474,7 +525,7 @@
       ]
     },
     {
-      "title": "XXIII. • Pět neděl v baloně",
+      "title": "XXIII.",
       "file": "pet_nedel_v_balone_split_025.html",
       "words": 1737,
       "chars": 10719,
@@ -494,7 +545,7 @@
       ]
     },
     {
-      "title": "XXIV. • Pět neděl v baloně",
+      "title": "XXIV.",
       "file": "pet_nedel_v_balone_split_026.html",
       "words": 1752,
       "chars": 11087,
@@ -514,7 +565,7 @@
       ]
     },
     {
-      "title": "XXV. • Pět neděl v baloně",
+      "title": "XXV.",
       "file": "pet_nedel_v_balone_split_027.html",
       "words": 1372,
       "chars": 8442,
@@ -534,7 +585,7 @@
       ]
     },
     {
-      "title": "XXVI. • Pět neděl v baloně",
+      "title": "XXVI.",
       "file": "pet_nedel_v_balone_split_028.html",
       "words": 1539,
       "chars": 9410,
@@ -554,7 +605,7 @@
       ]
     },
     {
-      "title": "XXVII. • Pět neděl v baloně",
+      "title": "XXVII.",
       "file": "pet_nedel_v_balone_split_029.html",
       "words": 1360,
       "chars": 8250,
@@ -574,7 +625,7 @@
       ]
     },
     {
-      "title": "XXVIII. • Pět neděl v baloně",
+      "title": "XXVIII.",
       "file": "pet_nedel_v_balone_split_030.html",
       "words": 1418,
       "chars": 8751,
@@ -594,7 +645,7 @@
       ]
     },
     {
-      "title": "XXIX. • Pět neděl v baloně",
+      "title": "XXIX.",
       "file": "pet_nedel_v_balone_split_031.html",
       "words": 1436,
       "chars": 9315,
@@ -614,7 +665,7 @@
       ]
     },
     {
-      "title": "XXX. • Pět neděl v baloně",
+      "title": "XXX.",
       "file": "pet_nedel_v_balone_split_032.html",
       "words": 1724,
       "chars": 10782,
@@ -634,7 +685,7 @@
       ]
     },
     {
-      "title": "XXXI. • Pět neděl v baloně",
+      "title": "XXXI.",
       "file": "pet_nedel_v_balone_split_033.html",
       "words": 1084,
       "chars": 6697,
@@ -654,7 +705,7 @@
       ]
     },
     {
-      "title": "XXXII. • Pět neděl v baloně",
+      "title": "XXXII.",
       "file": "pet_nedel_v_balone_split_034.html",
       "words": 1289,
       "chars": 8146,
@@ -674,7 +725,7 @@
       ]
     },
     {
-      "title": "XXXIII. • Pět neděl v baloně",
+      "title": "XXXIII.",
       "file": "pet_nedel_v_balone_split_035.html",
       "words": 1665,
       "chars": 10334,
@@ -694,7 +745,7 @@
       ]
     },
     {
-      "title": "XXXIV. • Pět neděl v baloně",
+      "title": "XXXIV.",
       "file": "pet_nedel_v_balone_split_036.html",
       "words": 1140,
       "chars": 7036,
@@ -714,7 +765,7 @@
       ]
     },
     {
-      "title": "XXXV. • Pět neděl v baloně",
+      "title": "XXXV.",
       "file": "pet_nedel_v_balone_split_037.html",
       "words": 2237,
       "chars": 13577,
@@ -734,7 +785,7 @@
       ]
     },
     {
-      "title": "XXXVI. • Pět neděl v baloně",
+      "title": "XXXVI.",
       "file": "pet_nedel_v_balone_split_038.html",
       "words": 1183,
       "chars": 7188,
@@ -754,7 +805,7 @@
       ]
     },
     {
-      "title": "XXXVII. • Pět neděl v baloně",
+      "title": "XXXVII.",
       "file": "pet_nedel_v_balone_split_039.html",
       "words": 1409,
       "chars": 8629,
@@ -774,7 +825,7 @@
       ]
     },
     {
-      "title": "XXXVIII. • Pět neděl v baloně",
+      "title": "XXXVIII.",
       "file": "pet_nedel_v_balone_split_040.html",
       "words": 1945,
       "chars": 11969,
@@ -794,7 +845,7 @@
       ]
     },
     {
-      "title": "XXXIX. • Pět neděl v baloně",
+      "title": "XXXIX.",
       "file": "pet_nedel_v_balone_split_041.html",
       "words": 1131,
       "chars": 7223,
@@ -814,7 +865,7 @@
       ]
     },
     {
-      "title": "XL. • Pět neděl v baloně",
+      "title": "XL.",
       "file": "pet_nedel_v_balone_split_042.html",
       "words": 941,
       "chars": 5972,
@@ -834,7 +885,7 @@
       ]
     },
     {
-      "title": "XLI. • Pět neděl v baloně",
+      "title": "XLI.",
       "file": "pet_nedel_v_balone_split_043.html",
       "words": 1676,
       "chars": 10360,
@@ -854,7 +905,7 @@
       ]
     },
     {
-      "title": "XLII. • Pět neděl v baloně",
+      "title": "XLII.",
       "file": "pet_nedel_v_balone_split_044.html",
       "words": 1177,
       "chars": 7325,
@@ -874,7 +925,7 @@
       ]
     },
     {
-      "title": "XLIII. • Pět neděl v baloně",
+      "title": "XLIII.",
       "file": "pet_nedel_v_balone_split_045.html",
       "words": 1897,
       "chars": 11856,
@@ -894,7 +945,7 @@
       ]
     },
     {
-      "title": "XLIV. • Pět neděl v baloně",
+      "title": "XLIV.",
       "file": "pet_nedel_v_balone_split_046.html",
       "words": 600,
       "chars": 4044,
@@ -942,11 +993,11 @@
       ]
     },
     {
-      "title": "Tiráž • Pět neděl v baloně",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 182,
-      "chars": 1161,
-      "ideas": 17,
+      "words": 163,
+      "chars": 1009,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "pet_nedel_v_balone_split_047.html",
@@ -964,9 +1015,9 @@
   ],
   "totals": {
     "all": {
-      "words": 65623,
-      "chars": 413576,
-      "ideas": 2847
+      "words": 65604,
+      "chars": 413424,
+      "ideas": 2844
     },
     "chapters": {
       "words": 65433,
