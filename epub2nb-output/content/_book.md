@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
+  - promo.html
   - pet_nedel_v_balone_split_001.html
   - pet_nedel_v_balone_split_003.html
   - pet_nedel_v_balone_split_004.html
