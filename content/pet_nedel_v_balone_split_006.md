@@ -1,5 +1,6 @@
 ---
-title: IV.
+title: IV\.
+contentType: prose
 ---
 
 Africké výzkumy. – Barth, Richardson, Overweg, Werne, Brun-Rollet, Peney, Andrea Debono, Miani, Vilém Lejean, Bruce, Krapf a Rebmann, Maizan, Roscher, Burton a Speke.

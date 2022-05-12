@@ -1,5 +1,6 @@
 ---
-title: XXX.
+title: XXX\.
+contentType: prose
 ---
 
 Mosfeja. – Šejk. – Denham, Clapperton, Oudney. – Vogel. – Hlavní město loggumské. – Toole. – Tišeň nad Kernakem. – Vladař a jeho dvůr. – Útok. – Západní holubi.

@@ -1,5 +1,6 @@
 ---
-title: XXVII.
+title: XXVII\.
+contentType: prose
 ---
 
 Děsné vedro. – Přeludy. – Poslední krůpěje vody. – Zoufalá noc. – Samovražedný pokus. – Samum. – Oasa. – Lev a lvice.

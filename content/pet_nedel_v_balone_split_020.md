@@ -1,5 +1,6 @@
 ---
-title: XVIII.
+title: XVIII\.
+contentType: prose
 ---
 
 Karagve. – Jezero Ukereve. – Noc na ostrově. – Rovník. – Přelet přes jezero. – Vodopády. – Rozhled po kraji. – Prameny nilské. – Ostrov Benga. – Podpis Andrey Debona. – Vlajka s anglickým znakem.

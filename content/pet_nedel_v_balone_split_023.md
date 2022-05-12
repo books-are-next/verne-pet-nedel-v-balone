@@ -1,5 +1,6 @@
 ---
-title: XXI.
+title: XXI\.
+contentType: prose
 ---
 
 Podivný šramot. – Noční útok. – Kennedy a Joe na stromě. – Dva výstřely. – Pomoc! pomoc! – Odpověď po francouzsku. – Zachraňovací osnova.

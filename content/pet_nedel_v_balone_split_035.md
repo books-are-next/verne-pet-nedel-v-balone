@@ -1,5 +1,6 @@
 ---
-title: XXXIII.
+title: XXXIII\.
+contentType: prose
 ---
 
 Dohady. – Rovnováha Viktorie obnovena. – Nové výpočty doktora Fergussona. – Kennedyův lov. – Úplný výzkum jezera Čadského. – Tangalie. – Návrat. – Lari.

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 ![obalka](./resources/obalka_pet_nedel_v_balone.jpg)

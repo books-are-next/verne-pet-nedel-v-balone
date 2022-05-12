@@ -1,5 +1,6 @@
 ---
-title: XXXVIII.
+title: XXXVIII\.
+contentType: prose
 ---
 
 Rychlá plavba. Opatrné rozhodnutí. – Karavany. – Ustavičné lijáky. – Gao. – Niger. – Golberry, Geoffroy, Gray. – Mungo-Park. – Laing. – René Caillié. – Clapperton. – John a Richard Landerovi.

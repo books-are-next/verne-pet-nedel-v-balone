@@ -1,5 +1,6 @@
 ---
-title: XXXII.
+title: XXXII\.
+contentType: prose
 ---
 
 Hlavní město bornuské. – Ostrovy Biddiomů. – Supové bradatí. – Obavy doktorovy. – Jeho opatření. – Útok v povětří. – Protržený obal. – Pád. – Svrchovaná obětovnost. – Severní pobřeží jezerní.

@@ -1,5 +1,6 @@
 ---
-title: V.
+title: V\.
+contentType: prose
 ---
 
 Sny Kennedyovy. – Náměstky v mnohočtu. – Domluvy Dickovy. – Procházka po mapě Afriky. – Co zbývá mezi dvěma směry kompasu. – Nynější výpravy. – Speke a Grant. – Krapf, Decken, Heuglin.

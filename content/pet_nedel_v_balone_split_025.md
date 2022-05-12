@@ -1,5 +1,6 @@
 ---
-title: XXIII.
+title: XXIII\.
+contentType: prose
 ---
 
 Joův hněv. – Smrt spravedlivého. – Bdění u nebožtíka. – Suchota. – Pohřeb. – Křemeny. – Joe blouzní. – Drahocenná přítěž. – Poloha zlatonosných hor. – Začátek Joova zoufalství.

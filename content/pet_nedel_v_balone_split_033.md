@@ -1,5 +1,6 @@
 ---
-title: XXXI.
+title: XXXI\.
+contentType: prose
 ---
 
 Odjezd v noci. – Všichni tři. – Choutky Kennedyovy. – Opatření pro bezpečnost. – Tok Šarie. – Jezero Čadské. – Voda. – Hroch. – Marný výstřel.

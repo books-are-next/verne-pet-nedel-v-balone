@@ -1,5 +1,6 @@
 ---
-title: XXIX.
+title: XXIX\.
+contentType: prose
 ---
 
 Známky rostlinstva. – Ztřeštěná myšlenka francouzského spisovatele. – Nádherná země. – Království Adamaua. – Výzkumy Spekeovy a Burtonovy sloučené s výzkumy Barthovými. – Hory Atlantické. – Řeka Binué. – Město Jola. – Bagele. – Hora Mendif.

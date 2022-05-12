@@ -1,5 +1,6 @@
 ---
-title: XII.
+title: XII\.
+contentType: prose
 ---
 
 Přelet přes úžinu. – Mrima. – Výrok Dickův a návrh Joův. – Předpis na kávu. – Uzaramo. – Nešťastný Maizan. – Hora Duthumi. – Mapy doktorovy. – Noc na nopálu.

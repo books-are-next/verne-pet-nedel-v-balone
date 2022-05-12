@@ -1,5 +1,6 @@
 ---
-title: VIII.
+title: VIII\.
+contentType: prose
 ---
 
 Důležitost Joova. – Velitel Resolutu. – Zbrojnice Kennedyova. – Uložení ballonu. – Hostina na rozloučenou. – Odjezd dne 21. února. – Vědecké výklady doktorovy. – Duveyrier, Livingstone. – Podrobnosti cesty vzduchem. – Kennedy umlčen.

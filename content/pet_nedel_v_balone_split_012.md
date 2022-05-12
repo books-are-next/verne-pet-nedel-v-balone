@@ -1,5 +1,6 @@
 ---
-title: X.
+title: X\.
+contentType: prose
 ---
 
 Dřívější pokusy. – Patero schránek doktorových. – Plynová dmuchavka. – Záhřevník. – Způsob řízení. – Jistý úspěch.

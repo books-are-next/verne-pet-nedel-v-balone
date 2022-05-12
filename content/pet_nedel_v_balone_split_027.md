@@ -1,5 +1,6 @@
 ---
-title: XXV.
+title: XXV\.
+contentType: prose
 ---
 
 Trochu filosofie. – Mrak na obzoru. – V mlze. – Nenadálý balon. – Znamení. – Věrný obraz Viktorie. – Palmy. – Stopy karavany. – Studna prostřed pouště.

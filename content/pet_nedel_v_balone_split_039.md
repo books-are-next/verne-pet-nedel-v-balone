@@ -1,5 +1,6 @@
 ---
-title: XXXVII.
+title: XXXVII\.
+contentType: prose
 ---
 
 Cesta na západ. – Joovo procitnutí. – Jeho svéhlavost. – Konec Joovy historie. – Tagelel. – Obavy Kennedyovy. – Cesta na sever. – Noc u Agadesa.

@@ -1,5 +1,6 @@
 ---
-title: XXXIX.
+title: XXXIX\.
+contentType: prose
 ---
 
 Země v ohybu Nigera. – Podivná podívaná na hory Homborské. – Kabra. – Timbuku. – Záměr doktora Bartha. – Klesání. – Kam se nebi zlíbí.

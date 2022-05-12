@@ -1,5 +1,6 @@
 ---
-title: XLI.
+title: XLI\.
+contentType: prose
 ---
 
 Blíž a blíže k Senegalu. Viktorie klesá více a více. – Vyhazuje se a pořád se vyhazuje. – Marobut Al-Hadži. – Pánové Pascal, Vincent, Lambert. – Soupeř Mohamedův. – Obtížné hory. – Kennedyovy zbraně. – Obratný kousek Joův. – Zastávka nad lesem.

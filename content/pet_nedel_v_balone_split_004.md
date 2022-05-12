@@ -1,5 +1,6 @@
 ---
-title: II.
+title: II\.
+contentType: prose
 ---
 
 Článek Daily-Telegraphu. – Válka vědeckých časopisů. – Pan Petermann hájí svého přítele, doktora Fergussona. – Odpověď učence Konera. – Učiněné sázky. – Rozličné návrhy podané doktorovi.

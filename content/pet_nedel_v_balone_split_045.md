@@ -1,5 +1,6 @@
 ---
-title: XLIII.
+title: XLIII\.
+contentType: prose
 ---
 
 Talibasové. – Pronásledování. – Zpustošený kraj. – Mírný vítr. – Viktorie klesá. – Poslední zásoby. – Poskoky Viktorie. – Obrana výstřely. – Vítr se sesiluje. – Řeka Senegal. – Vodopády Guinské. – Horký vzduch. – Přelet přes řeku.

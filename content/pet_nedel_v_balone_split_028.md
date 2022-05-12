@@ -1,5 +1,6 @@
 ---
-title: XXVI.
+title: XXVI\.
+contentType: prose
 ---
 
 Sto třináct stupňů. – Doktorovy úvahy. – Zoufalé pátrání. – Dmuchavka shasne. – Sto dvacet dva stupně. – Pohled na poušť. – Procházka v noci. – Samota. – Malomocnost. – Joovy návrhy. – Dá si ještě den.

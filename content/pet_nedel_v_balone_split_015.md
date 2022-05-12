@@ -1,5 +1,6 @@
 ---
-title: XIII.
+title: XIII\.
+contentType: prose
 ---
 
 Změna povětrnosti. – Kennedyova zimnice. – Doktorův lék. – Cesta po zemi. – Kotlina imengejská. – Hora Rubeho. – Z výše šesti tisíc stop. – Denní zastávka.

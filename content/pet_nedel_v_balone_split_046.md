@@ -1,5 +1,6 @@
 ---
-title: XLIV.
+title: XLIV\.
+contentType: prose
 ---
 
 Závěrek. – Protokol. – Francouzské usedlosti. – Stanice Medinská. – Bazilišek. – Saint-Louis. – Anglická fregatta. – Návrat do Londýna.

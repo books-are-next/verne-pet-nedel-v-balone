@@ -1,5 +1,6 @@
 ---
-title: XI.
+title: XI\.
+contentType: prose
 ---
 
 Příjezd do Zanzibaru. – Anglický konsul. – Nekalé smýšlení obyvatelstva. – Ostrov Kumbeni. – Dešťaři. – Nadmutí balonu. – Odjezd dne 18. dubna. – Poslední „s Bohem“. – Viktorie.

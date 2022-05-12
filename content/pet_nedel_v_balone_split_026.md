@@ -1,5 +1,6 @@
 ---
-title: XXIV.
+title: XXIV\.
+contentType: prose
 ---
 
 Vítr se tiší. – Blížící se poušť. – Zbytek vodní zásoby. – Rovníkové noci. – Starosti Samuela Fergussona. – Skutečné okolnosti. – Rázné odpovědi Kennedyovy a Joovy. – Ještě noc.

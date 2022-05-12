@@ -1,5 +1,6 @@
 ---
-title: XIX.
+title: XIX\.
+contentType: prose
 ---
 
 Nil. – Třesoucí se hora. – Vypravování Arabů. – Ňamňamové. – Rozumné úvahy Joovy. – Viktorie plavolí. – Vzduchoplavecké vzestupy. – Paní Blanchardová.

@@ -1,5 +1,6 @@
 ---
-title: I.
+title: I\.
+contentType: prose
 ---
 
 Konec řeči provázené hlučnou pochvalou. – Představí se doktor Samuel Fergusson. – „Excelsior“. – Podobizna doktorova v životní velikosti. – Osvědčený fatalista. – Hostina v Traveller’s Clubu. – Četné příležitostné přípitky.
