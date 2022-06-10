@@ -3,6 +3,8 @@ title: XVII\.
 contentType: prose
 ---
 
+<section>
+
 Hory Měsíčné. – Zelené moře. – Vyhozená kotva. – Vlečný slon. – Rychlá palba. – Smrt tlustokožcova. – Polní pec. – Hostina na trávě. – Noc na zemi.
 
 V pondělí okolo šesti hodin ráno vyhouplo se slunce nad obzor; mračna se rozptýlila, a čiperný vítr províval svěžestí jeho jitřní první paprsky.
@@ -188,3 +190,5 @@ Kennedy jedl, pil a hovořil za čtyři; byl opojen; navrhoval do opravdy přít
 Návrh nesetkal se ostatně se souhlasem doktorovým, ačkoli se Joe nabídl, že bude zastávati Pátka.
 
 Krajina vypadala tak klidna a opuštěna, že se doktor odhodlal noclehovati na zemi. Joe zapálil do kola ohně, kteréž ohrady je nezbytně třeba proti šelmám. Hyeny, kuguaři a šakalové, přivábeni zápachem sloního masa, pobíhali vůkol. Kennedy byl nucen vystřeliti několikrát z karabiny na návštěvce příliš smělé; na konec však prošla noc bez mrzuté nehody.
+
+</section>

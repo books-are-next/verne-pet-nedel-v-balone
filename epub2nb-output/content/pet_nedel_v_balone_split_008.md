@@ -3,6 +3,8 @@ title: VI\.
 contentType: prose
 ---
 
+<section>
+
 Nevšední sluha. – Vidí souputníky Jupiterovy. – Dick a Joe se potýkají. – Pochybnost a víra. – Vážení. – Joe Wellington. – Dostane půlkorunu.
 
 Doktor Fergusson měl sluhu; odpovídal horlivě na jméno Joe (čti: Džó); výtečná povaha: lnul k svému pánovi naprostou důvěrou a neskonalou oddaností, ba předstihoval jeho rozkazy, udělované vždy slovy jasně srozumitelnými; byl věrný jako pes, nikdy bručivý, nýbrž věčně v dobré míře; kdyby byl naschvál býval udělán, nebyl by se lépe zvedl. Fergusson bezpečil se naň úplně v podrobnostech svého života a s dobrou se potazoval. – Vzácný a poctivý Joe! sluha, jenž poroučí váš oběd, a jehož chuť srovnává se navlas s vaší; jenž skládá váš kufr, nezapomínaje ani na punčochy, ani na košile, jenž má vaše klíče a zná vaše tajemstva a nenadužívá jich!
@@ -124,3 +126,5 @@ I zapsal sto třicet pět liber na svůj vlastní vrub.
 „Ale, pane,“ ozval se Joe, „kdyby toho bylo potřebí pro vaši výpravu, nejedl bych, abych se spadl o nějakých dvacet liber.“
 
 „Toť zbytečno, hochu,“ odpověděl doktor; „jez po chuti, a tu máš půlkorunu[\[19\]](./resources/undefined) a opatři si za ni přítěž, jaké se ti zachce.“
+
+</section>

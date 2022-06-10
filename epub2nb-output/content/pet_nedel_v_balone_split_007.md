@@ -3,6 +3,8 @@ title: V\.
 contentType: prose
 ---
 
+<section>
+
 Sny Kennedyovy. – Náměstky v mnohočtu. – Domluvy Dickovy. – Procházka po mapě Afriky. – Co zbývá mezi dvěma směry kompasu. – Nynější výpravy. – Speke a Grant. – Krapf, Decken, Heuglin.
 
 Doktor Fergusson dbal pilně, aby přípravy k odjezdu byly hotovy co nejdříve; řídil sám setrojení balonu prováděje některé změny, o nichž trval v naprostém mlčení.
@@ -138,3 +140,5 @@ A Kennedyovi tanulo na mysli, jak snadná je taková cesta po mapě.
 „Aj!“ ozval se Skot, „když se to všecko daří tak dobře, co budeme dělat tam dole?“
 
 Doktor Fergusson neodpověděv, pokrčil jenom rameny.
+
+</section>

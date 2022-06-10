@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "verne-pet-nedel-v-balone-e822404",
-  "revision": "e822404",
+  "identifier": "verne-pet-nedel-v-balone-84617a7",
+  "revision": "84617a7",
   "readingOrder": [
     "promo.html",
     "pet_nedel_v_balone_split_001.html",
@@ -61,8 +61,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 15:12:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652368363141
+    "date": "Fri Jun 10 2022 17:57:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883850977
   },
   "documents": [
     {
@@ -1008,9 +1008,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 163,
-      "chars": 1009,
-      "ideas": 14,
+      "words": 84,
+      "chars": 555,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "pet_nedel_v_balone_split_047.html",
@@ -1028,9 +1028,9 @@
   ],
   "totals": {
     "all": {
-      "words": 65604,
-      "chars": 413424,
-      "ideas": 2844
+      "words": 65525,
+      "chars": 412970,
+      "ideas": 2837
     },
     "chapters": {
       "words": 65433,

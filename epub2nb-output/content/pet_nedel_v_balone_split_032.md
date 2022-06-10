@@ -3,6 +3,8 @@ title: XXX\.
 contentType: prose
 ---
 
+<section>
+
 Mosfeja. – Šejk. – Denham, Clapperton, Oudney. – Vogel. – Hlavní město loggumské. – Toole. – Tišeň nad Kernakem. – Vladař a jeho dvůr. – Útok. – Západní holubi.
 
 Nazejtří dne 11. května vydala se Viktorie na další dobrodružnou pouť; cestovatelé bezpečili se na ni jako plavec na svou loď.
@@ -108,3 +110,5 @@ Doktor neváhaje svrhl kus křemene a vyšinul se z dosahu nebezpečných těch 
 „Jakého?“
 
 „Neopatrnosti těch, které nese v loďce; pročež, přátelé, buďmež ostražití všude, buďmež ostražiti vždy.“
+
+</section>

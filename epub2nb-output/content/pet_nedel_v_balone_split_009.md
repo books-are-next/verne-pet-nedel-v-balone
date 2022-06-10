@@ -3,6 +3,8 @@ title: VII\.
 contentType: prose
 ---
 
+<section>
+
 Geometrické podrobnosti. – Výpočet obsahu balonu. – Dvojitý balon. – Obal. – Loďka. – Tajemný přístroj. – Potraviny. – Dodatečná příprava.
 
 Doktor Fergusson byl se již dlouho zabýval podrobnostmi své výpravy. Lze si představiti, že balon, toto podivuhodné plavidlo určené k jeho dopravě vzduchem, byl předmětem jeho neustálého přemýšlení.
@@ -59,7 +61,9 @@ Doktor nezapomněl ani na stan, jenž měl zastírati část loďky, ani na pokr
 
 Stůjž zde přehledný soubor jeho rozličných výpočtů.
 
-  
+</section>
+
+<section>
 
 Fergusson...................................................................135 liber
 
@@ -93,10 +97,16 @@ váha vodíku..............................................................276 �
 
 přítěž..........................................................................200 „
 
-  
+</section>
+
+<section>
 
 Úhrnem.................................................................. 4000 liber.
 
-  
+</section>
+
+<section>
 
 To byl rozpočet čtyř tisíc liber, které doktor Fergusson hodlal vzíti s sebou; přibral toliko dvě stě liber přítěže „jenom pro nepředvídané případy“, jak říkal, neboť doufal bezpečně vzhledem k svému přístroji, že mu jí užiti nebude.
+
+</section>

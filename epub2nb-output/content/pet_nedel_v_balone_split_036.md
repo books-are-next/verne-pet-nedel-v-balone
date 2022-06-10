@@ -3,6 +3,8 @@ title: XXXIV\.
 contentType: prose
 ---
 
+<section>
+
 Vichr. – Nucený odjezd. – Ztráta kotvy. – Smutné úvahy. – Rozhodnutí. – Smršť. – Zasypaná karavana. – Protivný a příznivý vítr. – Návrat na jih. – Kennedy na svém stanovisku.
 
 Ve tři hodiny ráno rozzuřil se vítr a dul tak prudce, že Viktorie nemohla bez nebezpečí zůstati při zemi; třtinoví naráželo a třelo se o obal, že byla obava, aby ho neroztrhalo.
@@ -84,3 +86,5 @@ Kennedy zmínil se o tom.
 „To si beru já na starost, Samuele, a buď ubezpečen, že ti dám návěští, jakmile se první strom ukáže.“
 
 A Kennedy usedl v přídě loďky s dalekohledem v ruce.
+
+</section>

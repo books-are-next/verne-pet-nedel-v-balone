@@ -3,6 +3,8 @@ title: XXXIX\.
 contentType: prose
 ---
 
+<section>
+
 Země v ohybu Nigera. – Podivná podívaná na hory Homborské. – Kabra. – Timbuku. – Záměr doktora Bartha. – Klesání. – Kam se nebi zlíbí.
 
 Za tohoto mokrého pondělka krátil doktor Fergusson soudruhům a sobě chvíli tím, že vyprávěl tisíceré podrobnosti o krajině, kterou se brali. Půda dosti plochá nezavalovala plavbě překážek. Jedinou starost působil doktorovi neblahý severovýchodní vítr, jenž dul vztekle, vzdaluje ho od šířky Timbukta.
@@ -78,3 +80,5 @@ Město hovělo na pohled skutečně velké bezstarostnosti; jevilo nakažlivou n
 „Ne, Joe; ale neměj starosti doufám, že se tak daleko nedostaneme.“
 
 Když nastávala noc, vyhodil doktor poslední pytlíky přítěže; Viktorie se vznesla; ačkoli dmuchavka pracovala plným plamenem, udržela ji stěží ve výši; byla tu vzdálena na sto kilometrů jižně od Timbukta, a zítřejší jitro zastihlo ji na březích nigerských nedaleko jezera Debu.
+
+</section>

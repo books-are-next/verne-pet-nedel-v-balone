@@ -3,6 +3,8 @@ title: XXVI\.
 contentType: prose
 ---
 
+<section>
+
 Sto třináct stupňů. – Doktorovy úvahy. – Zoufalé pátrání. – Dmuchavka shasne. – Sto dvacet dva stupně. – Pohled na poušť. – Procházka v noci. – Samota. – Malomocnost. – Joovy návrhy. – Dá si ještě den.
 
 Cesta, kterou Viktorie urazila předešlého dne, nepřevyšovala patnáct kilometrův, a na to, aby se udržela ve výši, spotřebováno sto šedesát dvě stopy plynu.
@@ -112,3 +114,5 @@ Doktor neodpověděl.
 „Budiž, pane; ale něco vám oznamuji předem: dávám vám ještě den; déle čekat nebudu; dnes máme neděli či vlastně pondělí, neboť jest hodina z rána; nevydáme-li se v úterý na cestu, pustím se na dobrodružství; tohoto záměru nevzdám se žádnou měrou.“
 
 Doktor neodpověděl; za chvilku přistoupil k loďce a usedl podle Kennedye. Lovec trval v úplném úmlku, který však nebyl spánkem.
+
+</section>

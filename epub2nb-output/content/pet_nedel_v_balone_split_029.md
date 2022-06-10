@@ -3,6 +3,8 @@ title: XXVII\.
 contentType: prose
 ---
 
+<section>
+
 Děsné vedro. – Přeludy. – Poslední krůpěje vody. – Zoufalá noc. – Samovražedný pokus. – Samum. – Oasa. – Lev a lvice.
 
 Nazejtří bylo první starostí doktorovou podívati se na tlako měr. Postřehl stěží na rtuťovém sloupci klesnutí zcela nepatrné.
@@ -166,3 +168,5 @@ Joe svlékl plátěnou kazajku, ovinul ji na konec hlavně a vystrčil nad otvor
 Joe povstal rychle, překročil tělo šelmino a podal pánovi láhev s vodou.
 
 Povznésti ji ke rtům a napolo vyprázdniti bylo Fergussonovi činem okamžiku, a tři cestovatelé děkovali z nejhlubších útrob Prozřetelnosti, která je tak zázračně zachránila.
+
+</section>

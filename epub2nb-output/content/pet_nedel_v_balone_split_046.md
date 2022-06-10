@@ -3,6 +3,8 @@ title: XLIV\.
 contentType: prose
 ---
 
+<section>
+
 Závěrek. – Protokol. – Francouzské usedlosti. – Stanice Medinská. – Bazilišek. – Saint-Louis. – Anglická fregatta. – Návrat do Londýna.
 
 Výprava, meškající na břehu řeky, byla odeslána senegalským guvernerem; sestávala z dvou důstojníků, pánů Dufraissea, poručíka námořní pěchoty, a Rodamela, lodního praporečníka, pak ze šikovatele a sedmi vojínů. Po dva dni již byli zaměstnáni tím, že hledali nejvhodnější místo k založení stanice u Guiny, když se tu stali svědky příjezdu doktora Fergussona.
@@ -15,7 +17,9 @@ Lze si snadno pomysliti, jakým blahopřáním a objímáním byli tři cestovat
 
 Angličané dovedeni do zatímní stanice, zřízené na březích řeky; tam dostalo se jim péče co nejpozornější a hojných zásob. A tu byl sepsán protokol v tato slova, jenž je dnes uložen v archivu zeměpisné společnosti londýnské:
 
-  
+</section>
+
+<section>
 
 > „My nížepsaní dosvědčujeme, že dne dole vytčeného viděli jsme, jak doktor Fergusson a jeho soudruzi, Richard Kennedy a Josef Wilson[\[57\]](./resources/undefined), přiletěli v baloně, visíce v jeho síti; kterýžto balon spadl do řečiště, a byv uchvácen proudem, sřítil se do vodopádů Guinských. Na důkaz pravdy podepsali jsme tento protokol spolu se svrchu jmenovanými. – Dáno u vodopádů Guinských, dne 24. května 1862.
 
@@ -45,6 +49,10 @@ Doktor Fergusson a jeho věrný Joe zůstali týmiž lidmi, jakými jsme je pozn
 
 Doktor Fergusson přednášel na veřejné schůzi v královské zeměpisné společnosti o své vzduchoplavecké výpravě, i dostalo se mu spolu s jeho dvěma soudruhy zlaté medaille, určené odměnou za nejpamátnější výzkum roku 1862.
 
-  
+</section>
+
+<section>
 
 Cestou doktora Fergussona zjištěny předkem a vyvýšeny nade vši pochybnost zeměpisné skutky a zprávy, podané pány Barthem, Burtonem, Spekem a jinými. Vzhledem k nynějším výpravám pánů Spekea a Granta, Heuglina a Munzingera, bude nám co nevidět možno přesvědčiti se o pravdivosti vlastních objevů doktora Fergussona v těch nesmírných končinách, které se vztahují mezi čtrnáctým a třicátýmtřetím stupněm délky.
+
+</section>

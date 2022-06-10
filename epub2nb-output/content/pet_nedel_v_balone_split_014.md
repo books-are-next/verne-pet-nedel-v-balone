@@ -3,6 +3,8 @@ title: XII\.
 contentType: prose
 ---
 
+<section>
+
 Přelet přes úžinu. – Mrima. – Výrok Dickův a návrh Joův. – Předpis na kávu. – Uzaramo. – Nešťastný Maizan. – Hora Duthumi. – Mapy doktorovy. – Noc na nopálu.
 
 Vzduch byl čistý, vítr mírný; Viktorie vystoupila téměř kolmo do výše 1500 stop, což projevilo se klesnutím o dva palce bez dvou čárek[\[28\]](./resources/undefined) v tlakoměrném sloupci.
@@ -154,3 +156,5 @@ Kennedy podotekl, že cesta směřovala k poledni. Ale s tímto směrem byl dokt
 Usnesli se na tom, že rozdělí noc na tři hlídky, aby jeden po druhém mohl bdíti nad bezpečností ostatních. Doktor měl býti na stráži od devíti hodin, Kennedy od půlnoci a Joe od tří hodin ráno.
 
 Kennedy a Joe zahalili se tudíž do pokryvek, a natáhše se pod stanem spali pokojně, zatím co doktor Fergusson bděl.
+
+</section>

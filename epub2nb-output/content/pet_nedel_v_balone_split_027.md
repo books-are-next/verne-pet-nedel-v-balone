@@ -3,6 +3,8 @@ title: XXV\.
 contentType: prose
 ---
 
+<section>
+
 Trochu filosofie. – Mrak na obzoru. – V mlze. – Nenadálý balon. – Znamení. – Věrný obraz Viktorie. – Palmy. – Stopy karavany. – Studna prostřed pouště.
 
 Nazejtří táž obloha nezkaleně jasná, totéž nepohnuté ovzduší. Viktorie povznesla se až do výše pěti set stop; ale přes to posunula se ledva znatelně na západ.
@@ -154,3 +156,5 @@ Joe přinesl zbytky zkornatělého měchu, jimiž mrštil hněvivě mezi kosti p
 Za večeře nepromluvili cestovatelé spolu ani slova; jedli s nechutí.
 
 A přece nebyli dosud do opravdy zakusili muk žízně a nezoufali si leč pro budoucnost.
+
+</section>

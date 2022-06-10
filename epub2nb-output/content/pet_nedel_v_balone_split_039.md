@@ -3,6 +3,8 @@ title: XXXVII\.
 contentType: prose
 ---
 
+<section>
+
 Cesta na západ. – Joovo procitnutí. – Jeho svéhlavost. – Konec Joovy historie. – Tagelel. – Obavy Kennedyovy. – Cesta na sever. – Noc u Agadesa.
 
 Vítr během noci pozbyl prudkosti, jakou vál za dne, a Viktorie spočinula pokojně v koruně velké sykomory; doktor a Kennedy střídavě bděli, a Joe, maje kdy a kde, spal pevně a nepřetržitě celých čtyřiadvacet hodin.
@@ -112,3 +114,5 @@ Toto město, kdysi střediště náramného obchodu, ociťovalo se již v úpadk
 Viktorie, nebyvši v šeru zpozorována, přistála k zemi asi tři kilometry nad Agadesem v širém poli prosovém. Noc byla dosti pokojna a minula k páté hodině ranní, zatím co slabý větřík skláněl balon k západu, ba poněkud i k jihu.
 
 Fergusson nelenil užiti této šťastné náhody. Vznesl se rychle a rozjel se v dlouhém pásmu slunečních paprsků.
+
+</section>

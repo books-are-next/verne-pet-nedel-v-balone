@@ -3,6 +3,8 @@ title: XI\.
 contentType: prose
 ---
 
+<section>
+
 Příjezd do Zanzibaru. – Anglický konsul. – Nekalé smýšlení obyvatelstva. – Ostrov Kumbeni. – Dešťaři. – Nadmutí balonu. – Odjezd dne 18. dubna. – Poslední „s Bohem“. – Viktorie.
 
 Vítr neustále příznivý urychlil postup Resolutu k cíli jeho cesty. Jízda průlivem Mozambickým byla zvláště pokojna. Plavba po moři byla dobrým předvěstným znamením plavby vzduchem. Kde kdo si oddechl, když se cesta schýlila ke konci, a hleděl býti nápomocen doktoru Fergussonovi v posledních přípravách.
@@ -104,3 +106,5 @@ V tuto chvíli vzmohla se vzestupná síla balonu měrou podivuhodnou. Fergusson
 „Pusťte vše!“ vzkřikl doktor.
 
 A Viktorie vznesla se rychle do vzduchu, zatím co čtyři karonady Resolutu hřímaly jí na počest.
+
+</section>

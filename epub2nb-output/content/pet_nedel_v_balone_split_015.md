@@ -3,6 +3,8 @@ title: XIII\.
 contentType: prose
 ---
 
+<section>
+
 Změna povětrnosti. – Kennedyova zimnice. – Doktorův lék. – Cesta po zemi. – Kotlina imengejská. – Hora Rubeho. – Z výše šesti tisíc stop. – Denní zastávka.
 
 Noc byla klidna; leč Kennedy procitnuv v sobotu ráno stěžoval si do únavy a zimničního mrazení. Povětrnost se změnila; obloha mračny zatažená zdála se zásobovati na novou potopu. Smutná je to země Zungomero, kde prší neustále kromě snad asi patnácti dní v měsíci lednu.
@@ -122,3 +124,5 @@ Vystoupil z loďky a slezl. Joe byl se spustil s větve na větev a čekal naň
 „Nestrachuj se, hochu, jsem pevně zadrhnut. Spořádám si zápisky. Mnoho štěstí na honbu, a buďtež opatrni. Ostatně budu se svého stanoviska obzírati krajinu, a spatřím-li něco dost málo podezřelého, vypálím z karabiny. To bude znamením k návratu.“
 
 „Dobrá,“ odvětil lovec.
+
+</section>

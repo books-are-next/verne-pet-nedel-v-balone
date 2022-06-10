@@ -3,6 +3,8 @@ title: XXIII\.
 contentType: prose
 ---
 
+<section>
+
 Joův hněv. – Smrt spravedlivého. – Bdění u nebožtíka. – Suchota. – Pohřeb. – Křemeny. – Joe blouzní. – Drahocenná přítěž. – Poloha zlatonosných hor. – Začátek Joova zoufalství.
 
 Na zemi rozhostila se nádherná noc. Kněz usnul pokojnou ochabou.
@@ -200,3 +202,5 @@ Joe neodpověděl ani slova a uvelebil se zlehka na lůžko ze zlaté rudy.
 „Hleď, milý Dicku,“ ujal se opět slova doktor, „jak mocně účinkuje tento kov na nejlepšího jonáka pod sluncem. Jaké náruživosti, jaké chtíče, jaké zločiny zplodila by známost podobného dolu! Je to kormutlivé.“
 
 Do večera urazila Viktorie sto čtyřicet pět kilometrů za západ; byla pak vzdálena přímou čarou od Zanzibaru dva tisíce dvě stě padesát kilometrů.
+
+</section>

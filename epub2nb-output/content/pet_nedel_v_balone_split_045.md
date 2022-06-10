@@ -3,6 +3,8 @@ title: XLIII\.
 contentType: prose
 ---
 
+<section>
+
 Talibasové. – Pronásledování. – Zpustošený kraj. – Mírný vítr. – Viktorie klesá. – Poslední zásoby. – Poskoky Viktorie. – Obrana výstřely. – Vítr se sesiluje. – Řeka Senegal. – Vodopády Guinské. – Horký vzduch. – Přelet přes řeku.
 
 „Kdybychom byli opominuli opatrnosti a nebyli se zbavili včera zbytečné tíže,“ pravil doktor, „bylo by po nás dojista veta bývalo.“
@@ -212,3 +214,5 @@ Francouzové vynesli cestovatele z řeky, kdežto polosplasklý balon, uchvácen
 „Ubohá Viktorie,“ zalkal Joe.
 
 Doktor nebyl s to, aby potlačil slzu; rozepial náručí, a jeho dva přátelé padli mu na hruď v mocném rozechvění.
+
+</section>

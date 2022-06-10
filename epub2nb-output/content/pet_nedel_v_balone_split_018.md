@@ -3,6 +3,8 @@ title: XVI\.
 contentType: prose
 ---
 
+<section>
+
 Známky bouře. – Měsíčná země. – Budoucnost africké pevniny. – Stroj poslední doby. – Rozhled po kraji při západu slunce. – Květena a zvířena. – Bouře. – Ohnivé pásmo. – Hvězdnaté nebe.
 
 „Takové jsou konce,“ pravil Joe, „když se lidé vydávají za syny měsíce bez jeho dovolení Tento souputník byl by nám málem vyvedl ošklivý kousek! Či jste snad, pane, uškodil svým lékem jeho pověsti?“
@@ -148,3 +150,5 @@ Doktor Fergusson podíval se na tlakoměr; ukazoval výšku dvanácti tisíc sto
 „To bylo děsné!“ odtušil Kennedy.
 
 „Aj,“ ozval se Joe, „to dodává cestě rozmanitosti, a mne věru nemrzí, že jsem viděl bouřku trochu shůry. Je to pěkná podívaná!“
+
+</section>

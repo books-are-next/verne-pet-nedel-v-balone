@@ -3,6 +3,8 @@ title: XXVIII\.
 contentType: prose
 ---
 
+<section>
+
 Rozkošný večer. – Joova kuchyně. – Rozprava o syrovém mase. – Historie Jamesa Brucea. – Pod širým nebem. – Sny Joovy. – Tlakoměr klesá. – Tlakoměr stoupá. – Přípravy k odjezdu. – Strašlivá bouře.
 
 Večer byl rozkošný a minul ve svěžím chládku mimos po posilivé večeři; čaje a grogu nešetřeno.
@@ -114,3 +116,5 @@ Byl veliký čas, aby k ní dospěli. Viktorie skláněla se návalem vichru vle
 Ale bystrý Joe běžel, co mu nohy stačily, a zachytil loďku, zatím co balon naléhal na písek, div se neroztrhl. Doktor zaujal obvyklé místo, rozžehl dmuchavku a svrhl přebytek přítěže.
 
 Cestovatelé pohlédli naposledy na stromy oasy, které se ohýbaly návalem bouře, a zachytivše ve výši dvou set stop nad zemí východní vítr, zmizeli v nočních mrákotách.
+
+</section>

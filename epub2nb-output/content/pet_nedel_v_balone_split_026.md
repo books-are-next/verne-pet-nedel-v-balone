@@ -3,6 +3,8 @@ title: XXIV\.
 contentType: prose
 ---
 
+<section>
+
 Vítr se tiší. – Blížící se poušť. – Zbytek vodní zásoby. – Rovníkové noci. – Starosti Samuela Fergussona. – Skutečné okolnosti. – Rázné odpovědi Kennedyovy a Joovy. – Ještě noc.
 
 Viktorie, zakotvena v osamělém a téměř uschlém stromě, strávila noc v úplném klidu; cestovatelé mohli se posilniti spánkem, jehož měli tak potřebí; dojmy předchozích dní zůstavily jim truchlivé vzpomínky.
@@ -102,3 +104,5 @@ Avšak jeden jako druhý pátral nadarmo prostorem za tohoto nekonečného dne; 
 Cestovatelé neurazili ani vzdálenost dvacítipěti kilometrů, spotřebovavše jako předešlého dne sto třicetpět krychlových stop plynu, aby udrželi dmuchavku v činnosti, a ze dvou litrů vody bylo třeba obětovati půl litru na uhašení palčivé žízně.
 
 Noc uběhla pokojně, příliš pokojně! Doktor nespal.
+
+</section>

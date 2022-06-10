@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Poznámky pod čarou
 
 [\[1\]](./resources/undefined) Mincovna v Londýně.
@@ -118,3 +120,5 @@ contentType: prose
 [\[56\]](./resources/undefined) 100° stodílných.
 
 [\[57\]](./resources/undefined) Dick a Joe značí zdrobněle Richarda a Josefa.
+
+</section>

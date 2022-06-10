@@ -3,6 +3,8 @@ title: XXXI\.
 contentType: prose
 ---
 
+<section>
+
 Odjezd v noci. – Všichni tři. – Choutky Kennedyovy. – Opatření pro bezpečnost. – Tok Šarie. – Jezero Čadské. – Voda. – Hroch. – Marný výstřel.
 
 Ke třetí hodině z rána znamenal posléze Joe, maje hlídku, že město se pod ním posunuje. Viktorie se rozjížděla. Kennedy a doktor procitli.
@@ -94,3 +96,5 @@ Co si doktor zaznamenával výsledek zkoušky, třeskla mu po boku rána z pušk
 „To zvíře je zranitelné pouze na břiše a mezi stehny; kulka Dickova ani ho neškrábla. Leč uzdá-li se mi půda příhodnou, zastavíme na severním konci jezera; tam octne se Kennedy v učiněném zvěřinci a nahradí si po libosti, co zameškal.“
 
 „Nuže!“ odvětil Joe, „ať se pan Dick pustí trochu do lovu na hrochy! Rád bych okusil maso tohoto obojživelníka. Není věru nijak přirozeno, aby člověk pronikl až do středu Afriky a živil se tu vodními slukami a koroptvemi jako v Anglii!“
+
+</section>

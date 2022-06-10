@@ -3,6 +3,8 @@ title: XXI\.
 contentType: prose
 ---
 
+<section>
+
 Podivný šramot. – Noční útok. – Kennedy a Joe na stromě. – Dva výstřely. – Pomoc! pomoc! – Odpověď po francouzsku. – Zachraňovací osnova.
 
 Noc byla velice tmava. Doktor nemohl rozpoznati krajinu; zachytil se ve stromě velmi vysokém, jehož neurčité obrysy spatřil stěží v mrákotách. Po svém zvyku byl na stráži od devíti hodin, a o půlnoci vystřídal ho Dick.
@@ -216,3 +218,5 @@ Náhle vyšlehla mezi dvěma hroty uhlíků nesnesitelným leskem mocná, oslniv
 „Ó!“ užasl Joe, „pane!“
 
 „Ani slova,“ kázal doktor.
+
+</section>

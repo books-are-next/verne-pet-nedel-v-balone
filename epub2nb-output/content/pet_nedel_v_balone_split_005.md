@@ -3,6 +3,8 @@ title: III\.
 contentType: prose
 ---
 
+<section>
+
 Doktorův přítel. – Kde vzniklo jich přátelství. – Dick Kennedy v Londýně. – Nenadálý, leč nikterak uspokojivý návrh. – Přísloví nehrubě potěšitelné. – Několik slov o mučenících afrických. – Výhody balonu. – Tajemství doktora Fergussona.
 
 Doktor Fergusson měl přítele. Nikoli druhého já, alter ego; přátelství neobstálo by mezi dvěma bytostmi naprosto totožnými.
@@ -174,3 +176,5 @@ Hodný Kennedy cítil se rozechvěn, a přece ho divadlo na oči mu vykouzlené 
 „Ať žije ,Excelsior!‘“ odpověděl lovec, jenž neznal latinského slova.
 
 Leč proto byl přec pevně odhodlán opříti se odjezdu přítelovu vší silou a všemi prostředky. Tvářil se tudíž, jako by se s ním srovnával, a přestal na tom, že pozoroval. Samuel pak odešel dohlédnout k přípravám.
+
+</section>

@@ -3,6 +3,8 @@ title: XXIX\.
 contentType: prose
 ---
 
+<section>
+
 Známky rostlinstva. – Ztřeštěná myšlenka francouzského spisovatele. – Nádherná země. – Království Adamaua. – Výzkumy Spekeovy a Burtonovy sloučené s výzkumy Barthovými. – Hory Atlantické. – Řeka Binué. – Město Jola. – Bagele. – Hora Mendif.
 
 Od té chvíle, co se vydali na cestu, ujížděli cestovatelé velmi rychle; toužili opustiti tu poušť, která by se jim byla málem stala tak osudnou.
@@ -110,3 +112,5 @@ Ve tři hodiny octla se Viktorie naproti hoře Mendifu. Nebylo lze vyhnouti se j
 Fergusson chvatně zase sestoupil, neboť balonový obal napínal se tak, že div nepraskl; měl však přece kdy zjistiti sopečný původ hory, jejíž vyhaslé sopouchy jsou už jen hlubokými propastmi. Velké kupy ptačího trusu dodávaly bokům Mendifa vzhledu vápenitých skal; byla tam taková síla trusu, že by se jím bylo pohnojilo veškeré polstvo Spojeného království.
 
 V pět hodin tíhla Viktorie, chráněna od jižních větrů, zvolna nad svahy hory a zastavila se na širé mýtině, vzdálené všech příbytků; jakmile zavadila o půdu, učiněno opatření, aby byla pevně zachycena. Kennedy, uchopiv pušku, zabral se na sklonitou pláň a vrátil se za nedlouho s půltuctem divokých kachen a s jakousi vodní slukou, které Joe upravil, jak uměl nejlépe. Oběd byl příjemný a noc minula v úplném klidu.
+
+</section>
