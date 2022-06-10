@@ -3,6 +3,8 @@ title: XIV\.
 contentType: prose
 ---
 
+<section>
+
 Gumovníkový les. – Modrá antilopa. – Heslo k návratu. – Nenadálý útok. – Kaněme. – Noc v širém vzduchu. – Mabunguru. – Džihu la Mkoa. – Zásoba vody. – Příjezd do Kaze.
 
 Holý, vyprahlý kraj, jevící jílovitou půdu, jež vedrem pukala, zdál se býti liduprázdný; tu a tam bylo viděti stopy karavan, zbělelé hnáty lidské a zvířecí na polo ohlodané a s okolním prachem splynulé.
@@ -192,3 +194,5 @@ Byla ještě vzdálena na stošedesát kilometrův od Kaze, důležité osady v 
 Okolo dvou hodin vznášela se Viktorie za krásné pohody pod žhavým sluncem, které pohlcovalo sebe nepatrnější proud vzduchový, nad městem Kaze, ležícím zdálí pěti set osmdesáti kilometrův od pomoří.
 
 „Odpluli jsme ze Zanzibara v devět hodin.“ pravil doktor Fergusson, prohlížeje své zápisky, „a po dvoudenní plavbě urazili jsme s oklikami skorem osm set kilometrů. Setníci Burton a Speke potřebovali půlpáta měsíce, aby vykonali touž cestu.“
+
+</section>

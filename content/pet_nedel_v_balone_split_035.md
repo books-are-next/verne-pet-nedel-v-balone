@@ -3,6 +3,8 @@ title: XXXIII\.
 contentType: prose
 ---
 
+<section>
+
 Dohady. – Rovnováha Viktorie obnovena. – Nové výpočty doktora Fergussona. – Kennedyův lov. – Úplný výzkum jezera Čadského. – Tangalie. – Návrat. – Lari.
 
 Nazejtří dne 13. května ohledali cestovatelé předkem pobřeží, na němž se zastavili. Byl to jakýs ostrov pevné země prostřed nesmírného močálu. Vůkol tohoto kousku souše vypínalo se rákosí vysoké jako stromy v Evropě, jež se prostíralo do nedohledna.
@@ -106,3 +108,5 @@ Myšlenka pak, že se Joe utopil, byla nepřípustna. Fergussonovi a Kennedyovi
 Kennedy neodpověděl; volil raději mlčeti než přetřásati tuto strašlivou možnost.
 
 Okolo páté hodiny večerní hlásil doktor město Lari. Obyvatelé pracovali, sklízejíce bavlnu před chatami z rakosí upletenými v čistých ohradách, jichž si pečlivě hleděli. Tento souhrn asi padesáti chyší zaujímal slabou zakleslinu půdy v úvale rozloženém mezi nízkými horami. Prudký vítr unášel balon rychleji, než bylo doktorovi vhod; ale přeskočil po druhé a zanesl jej právě tam, odkud dyl vyjel: na ostrůvek pevné země, kde strávil minulou noc. Kotva nezachytila se ve větvoví stromu, nýbrž uvázla v chumáčích rákosí, smíšených s hustým bahnem močálovým a nadmíru houževnatých. Doktora stálo velikou práci, aby udržel balon; ale s nastalou nocí ulehl konečně vítr, a dva přátelé bděli pospolu div si nezoufajíce.
+
+</section>

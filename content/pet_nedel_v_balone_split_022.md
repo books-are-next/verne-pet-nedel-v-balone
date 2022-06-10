@@ -3,6 +3,8 @@ title: XX\.
 contentType: prose
 ---
 
+<section>
+
 Nebeská láhev. – Fíkové palmy. – „Mammouth trees“. – Válečný strom. – Okřídlené spřežení. – Bitva dvou kmenů. – Řež. – Božské zakročení.
 
 Vítr byl čím dále tím prudší a nepravidelnější. Viktorie v pravém smyslu slova plavolila vzduchem. Jsouc unášena tu na sever, tu na jih, nemohla uhoditi na stálý povan.
@@ -116,3 +118,5 @@ Viktorie vystoupila nadýmajíc se; několik okamžiků doznívalo k nim ješt�
 Půda jevila pak rozmanitý útvar, jsouc protkána četnými vodotoky, které plynuly na východ; vlévaly se mimo pochybu do poboček jezera Nu nebo do Gazellí řeky, o níž pan Vilém Lejean podal podrobnosti tak podivné.
 
 Když nastala noc, spustila Viktorie kotvu na 27° délky a 4°20' severní šířky, urazivši dvě stě čtyřicet kilometrů.
+
+</section>

@@ -3,6 +3,8 @@ title: II\.
 contentType: prose
 ---
 
+<section>
+
 Článek Daily-Telegraphu. – Válka vědeckých časopisů. – Pan Petermann hájí svého přítele, doktora Fergussona. – Odpověď učence Konera. – Učiněné sázky. – Rozličné návrhy podané doktorovi.
 
 Nazejtří uveřejnil Daily Telegraph v čísle ze dne 15. ledna článek tohoto znění:
@@ -36,3 +38,5 @@ Slovem, nepočítaje časopisy celého světa, nebylo vědeckého sborníku od �
 Horlivci v Londýně a Anglii vcházeli u velké sázky: 1. o skutečnou nebo domnělou jsoucnost doktora Fergussona; 2. o cestu samu, o níž jedni říkali, že na ni ani nedojde, a druzí, že bude jistě podniknuta; 3. o to, zdaří-li se, či nezdaří-li se; 4. o pravděpodobnost anebo nepravděpodobnost návratu doktora Fergussona. Činěny sázky o značné sumy liber, jako by bylo šlo o dostihy epsomské.
 
 Tak stalo se, že všichni: věřící, nevěřící, nevědomci i učenci nepouštěli doktora se zřetele; byl lvem dne, netuše, že má hřívu. Podával ochotně stručné a jasné výklady o své výpravě. Byl snadno přístupen a nejnelíčenější člověk na světě. Představil se mu nejeden smělý dobrodruh, jenž by se byl rád zúčastnil jeho slavného a nebezpečného podniku; odmítl všecky, neudav příčiny své záporné odpovědi. Mnoho vynálezců mechanismů, jichž lze prý užiti k řízení balonů, přišlo mu nabídnout svoji soustavu. Nepřijal ani jediné. Kdo se ho ptal, objevil-li něco v té věci, tomu důsledně odepřel vysvětlení a zaměstnával se pilněji než kdy před tím přípravami na cestu.
+
+</section>

@@ -3,6 +3,8 @@ title: XV\.
 contentType: prose
 ---
 
+<section>
+
 Kaze. – Hlučný trh. – Příjezd Viktorie. – Vagangové. – Měsíčané. – Doktorova procházka. – Obyvatelstvo. – Královské tembe. – Ženy královy. – Královský opilec. – Joe uctíván za boha. – Jak se tančí na měsíci. – Náhlý obrat. – Dva měsíce na obloze. – Nestálost božských velikánů.
 
 Kaze, důležité místo střední Afriky, není nikterak městem; neníť města ve vnitrozemí, ať pravdu díme. Kaze je pouhým rozborem šesti rozhlehlých prohlubin. V nich uzavřeny jsou domy a otrocké chyše s dvorky a zahrádkami pečlivě pěstovanými; daří se tam ku podivu cibule, sladké zemáky, okurky, dýně a lanýže výtečné chuti.
@@ -192,3 +194,5 @@ Dav byl všecek ohromen vida jednoho z Vagangův, an se vznáší do výše.
 „Jsou s to, aby si ho povýšili na boha,“ zvolal Joe.
 
 Viktorie dospěla do výše asi tisíce stop. Černoch upínal se na provaz s hroznou křečovitostí. Trval v úmlku, a oči tkvěly mu strnule v důlcích. Jeho hrůza byla smíšena s údivem. Slabý vítr hnal balon za město. Za půl hodiny po té doktor vida, že je kraj liduprázdný, zmírnil plamen dmuchavky a přiblížil se k zemi. Na dvacet stop od ní uzrálo v černochovi náhlé rozhodnutí: seskočil; dopadl na nohy a utíkal směrem ke Kaze, kdežto Viktorie, zbavená najednou přítěže, vznesla se opět do vzduchu.
+
+</section>

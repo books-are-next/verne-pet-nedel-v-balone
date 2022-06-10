@@ -3,6 +3,8 @@ title: IX\.
 contentType: prose
 ---
 
+<section>
+
 Mys obeplut. – Na předním výstupku. – Professor Joe přednáší o světopise. – O řízení balonů. – O hledání vzdušných proudů. – Heureka.
 
 Resolute tíhl rychle k mysu Dobré naděje; pohoda vytrvala, jakkoli moře dmulo se silněji.
@@ -102,3 +104,5 @@ Jednou mluvilo se o řízení balonův, a Fergusson byl požádán, aby pronesl 
 „Tu je máte, pánové, a můj prostředek jest prajednoduchý.“
 
 Pozornost posluchačů byla napiata do vyšší míry, a doktor jal se pokojně vykládati v tato slova:
+
+</section>

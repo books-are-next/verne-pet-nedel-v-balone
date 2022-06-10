@@ -3,6 +3,8 @@ title: XL\.
 contentType: prose
 ---
 
+<section>
+
 Obavy doktora Fergussona. – Stálý směr k jihu. – Mračno kobylek. – Pohled na Dženné. – Pohled na Sego. – Změna větru. – Joova lítost.
 
 Řečiště bylo pak rozděleno velkými ostrovy na úzká ramena velmi silně proudící. Na jednom z ostrovů stálo několik pastýřských chatrčí; nebylo však možno určiti přesně jich polohu, neboť rychlost Viktorie vzmáhala se víc a více. Na neštěstí odchylovala se ještě více k jihu a přeletěla za několik okamžiků jezero Debu.
@@ -80,3 +82,5 @@ O čtvrté hodině ranní ozářily první paprsky sluneční Sego, hlavní měs
 „To by bylo těžko tvrditi, že jsme nepřeletěli pevninu,“ ozval se Kennedy.
 
 „Ach! pane Samuele!“ pravil Joe s hlubokým vzdechem, „budu nejednou želet těch zlatonosných křemenů! To by bylo dodalo váhy našim příběhům a pravděpodobnosti našim vyprávkám. Kdybych byl obmyslil každého posluchače grammem zlata, byl bych si sehnal hezký dav, který by mě zbožně poslouchal, ba se mi i obdivoval!“
+
+</section>

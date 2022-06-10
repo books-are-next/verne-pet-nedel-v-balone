@@ -3,6 +3,8 @@ title: XXXVIII\.
 contentType: prose
 ---
 
+<section>
+
 Rychlá plavba. Opatrné rozhodnutí. – Karavany. – Ustavičné lijáky. – Gao. – Niger. – Golberry, Geoffroy, Gray. – Mungo-Park. – Laing. – René Caillié. – Clapperton. – John a Richard Landerovi.
 
 Den 17. května uběhl klidně a beze vší příhody; poušť začínala opět; prostřední vítr hnal Viktorii k jihozápadu; neuhýbala se ani na pravo ani na levo; její stín rýsoval na písku čáru přesně přímou.
@@ -102,3 +104,5 @@ Pak podnikne srdnatý mladík s chatrnými prostředky a také vykoná podivu ne
 „Tito dva bratři ušli tedy obecnému osudu?“ zeptal se Kennedy.
 
 „Ano, aspoň za této výzkumné cesty, neboť roku 1833 podnikl Richard třetí cestu na Niger a zahynul při ústí řeky, byv střelen neznámou kulkou. Vidíte, přátelé, že země, kterou se ubíráme, byla svědkyní šlechetné obětovnosti, jíž dostalo se odměnou až příliš často smrti!“
+
+</section>

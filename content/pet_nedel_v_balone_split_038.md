@@ -3,6 +3,8 @@ title: XXXVI\.
 contentType: prose
 ---
 
+<section>
+
 Shluk na obzoru. – Četa Arabů. – Pronásledování. – To jest on! – Pád s koně. – Zardoušený Arab. – Kennedyova kulka. – Únos letmo. – Joe zachráněn.
 
 Co Kennedy zaujal pozorovací stanovisko v přídě loďky, od té chvíle neustával pátrati velmi bedlivě po obzoru.
@@ -166,3 +168,5 @@ Joe probral se brzy ze mdlob a žádal o sklenku kořalky, již doktor uznal za 
 Leč nedali mu mluviti, a hodný jonák pohroužil se ve tvrdý spánek, jehož velice mu bylo potřebí, jak se zdálo.
 
 Viktorie odbočila po té šikmým směrem na západ. Jsouc hnána větrem nadmíru silným, octla se zase na hranici trnité pouště nad palmami vichřicí schýlenými nebo vyrvanými, a urazivši po záchraně Joově přes tři sta kilometrů, překročila k večeru devátý stupeň délky.
+
+</section>

@@ -3,6 +3,8 @@ title: XXXII\.
 contentType: prose
 ---
 
+<section>
+
 Hlavní město bornuské. – Ostrovy Biddiomů. – Supové bradatí. – Obavy doktorovy. – Jeho opatření. – Útok v povětří. – Protržený obal. – Pád. – Svrchovaná obětovnost. – Severní pobřeží jezerní.
 
 Dorazivši nad jezero Čadské Viktorie uhodila na proud, jenž odchyloval se více k západu; několik mračen zmírnilo pak denní vedro; mimo to bylo cítiti vzduch poněkud čerstvější na této širé vodní ploše; avšak okolo jedné hodiny zabral se balon, přeraziv šikmo tuto končinu jezerní, poznovu nad zemi a ujel nad ní deset až dvanáct kilometrů.
@@ -156,3 +158,5 @@ A tito muži tak neohrožení cítili, jak jim dvě velké slzy kanuly po líci.
 Urazivši asi sto kilometrů, Viktorie snesla se na pusté pobřeží na severním konci jezerním. Kotvy utkvěly v nevysokém stromě, a lovec je pevně připoutal.
 
 Noc nadešla, než ani Fergusson ani Kennedy nebyli s to, aby jen na okamžik usnuli.
+
+</section>

@@ -3,6 +3,8 @@ title: X\.
 contentType: prose
 ---
 
+<section>
+
 Dřívější pokusy. – Patero schránek doktorových. – Plynová dmuchavka. – Záhřevník. – Způsob řízení. – Jistý úspěch.
 
 „Často konány pokusy, pánové, vystoupit nebo sestoupit po libosti beze ztráty balonového plynu nebo přítěže. Francouzský větroplavec, pan Meunier, chtěl dojíti tohoto účelu tím, že zhustil vzduch ve vniterním prostoru. Belgičan, pan doktor van Hecke, vyvinoval křídly a lopatami kolmou sílu, která by byla namnoze nedostačila. Praktické výsledky, jichž se dospělo těmito různými prostředky, byly nepatrny.
@@ -68,3 +70,5 @@ Doktor Fergusson dopověděl takto svůj výklad, za nějž dostalo se mu upří
 „Nicméně,“ podotkl velitel, „je to třebas nebezpečné.“
 
 „Co na tom?“ odpověděl prostě doktor, „jen když to lze provésti.“
+
+</section>

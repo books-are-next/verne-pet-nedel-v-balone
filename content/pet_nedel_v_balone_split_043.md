@@ -3,6 +3,8 @@ title: XLI\.
 contentType: prose
 ---
 
+<section>
+
 Blíž a blíže k Senegalu. Viktorie klesá více a více. – Vyhazuje se a pořád se vyhazuje. – Marobut Al-Hadži. – Pánové Pascal, Vincent, Lambert. – Soupeř Mohamedův. – Obtížné hory. – Kennedyovy zbraně. – Obratný kousek Joův. – Zastávka nad lesem.
 
 Dne 27. května okolo desíti hodin jevil kraj novou tvářnost; táhlé svahy změnily se v pahorky věstící blízké hory; Viktorii bylo přeletět i pásmo, jež dělí poříčí Nigerské od poříčí senegalského jsouc předělem vodstva, tekoucího do zálivu Guinejského, a vodstva, tekoucího do zátoky Zeleného mysu.
@@ -186,3 +188,5 @@ Joe poslechl a dvé kotev viselo pod loďkou.
 „Nač? Pravím vám ještě jednou, že by bylo nebezpečno se rozcházet. Kromě toho je mi třeba vaší pomoci k nesnadné práci.“
 
 Viktorie, plynoucí nad korunami nesmírných lesů, stanula brzy náhlým rázem; její kotvy uvázly; s večerem utichl vítr; i vznášela se takměř nehybně nad širou zelenou plání, složenou z vrcholků sykomorového lesa.
+
+</section>

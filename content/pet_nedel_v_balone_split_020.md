@@ -3,6 +3,8 @@ title: XVIII\.
 contentType: prose
 ---
 
+<section>
+
 Karagve. – Jezero Ukereve. – Noc na ostrově. – Rovník. – Přelet přes jezero. – Vodopády. – Rozhled po kraji. – Prameny nilské. – Ostrov Benga. – Podpis Andrey Debona. – Vlajka s anglickým znakem.
 
 Nazejtří v pět hodin zahájeny přípravy k odjezdu. Joe přesekl sloní kly sekerou, již byl na štěstí zase nalezl. Viktorie puštěná na svobodu unášela cestovatele k severo-východu rychlostí třicíti kilometrů.
@@ -204,3 +206,5 @@ Doktor podíval se naposledy na tato drahocenná začáteční písmena, jichž 
 „Na tom nám teď sejde pramálo! Požene-li nás vítr po několik hodin na sever, dostihneme Gondokora a stiskneme ruku krajanům!“
 
 Za deset minut potom Viktorie vznesla se důstojně, doktor Fergusson pak rozvinul na znamení úspěchu vlajku se znakem anglickým.
+
+</section>

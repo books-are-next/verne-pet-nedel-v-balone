@@ -3,6 +3,8 @@ title: XXII\.
 contentType: prose
 ---
 
+<section>
+
 Světelný pruh. – Missionář. – Únos v zářivém paprsku. – Kněz lazarist. – Nevalná naděje. – Doktorova péče. – Život plný odříkání. – Přelet přes sopku.
 
 Fergusson zamířil v různé strany prostoru mohutný paprsek světla a utkvěl jím na místě, kde se ozýval zděšený křik. Jeho dva soudruzi pohlédli tam dychtivě.
@@ -150,3 +152,5 @@ Umírající kněz; pozoroval se svého bolestného lože hořící ten sopouch,
 Výlevy žhoucí lávy odívaly úbočí hory hotovými plamennými čalouny; spodní polokoule balonu leskla se ve tmě ohnivou záplavou; žárné horko sálalo až do loďky, a doktor Fergusson měl na spěch, aby vyvázl z tohoto nebezpečného postavení.
 
 Okolo šesti hodin večer jevila se hora jen rudou tečkou na obzoru, a Viktorie brala se pokojně dál svou cestou v pásmu méně vysokém.
+
+</section>

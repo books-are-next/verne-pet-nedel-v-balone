@@ -3,6 +3,8 @@ title: XIX\.
 contentType: prose
 ---
 
+<section>
+
 Nil. – Třesoucí se hora. – Vypravování Arabů. – Ňamňamové. – Rozumné úvahy Joovy. – Viktorie plavolí. – Vzduchoplavecké vzestupy. – Paní Blanchardová.
 
 „Kam směřujeme?“ otázal se Kennedy vida, že přítel pohlíží na bussolu.
@@ -118,3 +120,5 @@ Přesvědčil se zároveň, že ústí balonu je posud neprodyšně uzavřeno.
 „Já rovněž nevidím ničeho, milý Dicku; ostatně byly nehody vždy zaviněny neopatrností vzduchoplavců nebo špatným složením jich přístrojův. Nicméně připadá na několik tisíc vzduchoplaveckých výletů nanejvýše dvacet nehod, které přivodily smrt. Namnoze nejnebezpečnější jsou odjezdy a přistání. V podobném případě nesmíme tudíž opominouti nižádného opatření bezpečnosti.“
 
 „Je čas k snídani,“ připomněl Joe; „spokojíme se s konservovaným masem a kávou, až se naskytne panu Kennedyovi příležitost, aby nás vyčastoval řádným kusem zvěřiny.“
+
+</section>

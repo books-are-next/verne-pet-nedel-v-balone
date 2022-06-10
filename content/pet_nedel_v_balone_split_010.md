@@ -3,6 +3,8 @@ title: VIII\.
 contentType: prose
 ---
 
+<section>
+
 Důležitost Joova. – Velitel Resolutu. – Zbrojnice Kennedyova. – Uložení ballonu. – Hostina na rozloučenou. – Odjezd dne 21. února. – Vědecké výklady doktorovy. – Duveyrier, Livingstone. – Podrobnosti cesty vzduchem. – Kennedy umlčen.
 
 Kolem 10. února chýlily se přípravy ke konci, balony, uzavřené jeden ve druhém byly zúplna hotovy; podstoupily silný tlak vzduchu na jich boky hnaného; tato zkouška podala dobrý pojem o jich pevnosti a dosvědčila péči věnovanou jich sestrojení.
@@ -94,3 +96,5 @@ Veškery zraky utkvěly na doktorovi.
 „Neosvědčuj nic, přítel Dicku; jsi odměřen, zvážen, ty i tvůj prach, tvé ručnice a tvé kulky, a protož o tom již nemluvme.“
 
 A od tohoto dne až do příjezdu na Zanzibar Dick skutečně neotevřel úst; nemluvil již o tom ani o čem jiném. Mlčel.
+
+</section>

@@ -3,6 +3,8 @@ title: XLII\.
 contentType: prose
 ---
 
+<section>
+
 Šlechetný zápas. – Poslední oběť. – Dmuchavkový přístroj. – Obratnost Joova. – Půlnoc. – Hlídka doktorova. – Hlídka Kennedyova. – Usne. – Požár. – Křiky a ryky. – Mimo dosah.
 
 Doktor Fergusson jal se určovati polohu dle výšky hvězd; byl od Senegala vzdálen sotva na čtyřicet kilometrů.
@@ -104,3 +106,5 @@ Leč Fergusson zadržel ho pevnou rukou, a přiskočiv ku kotvičnímu vazáku, 
 Strašlivý křik strhl se dole v lese, provázen jsa silnými třesky palných zbraní; balon zamířil k západu, byv uchvácen proudem, jenž rozvanul se na úsvitě.
 
 Byly čtyři hodiny z rána.
+
+</section>

@@ -3,6 +3,8 @@ title: IV\.
 contentType: prose
 ---
 
+<section>
+
 Africké výzkumy. – Barth, Richardson, Overweg, Werne, Brun-Rollet, Peney, Andrea Debono, Miani, Vilém Lejean, Bruce, Krapf a Rebmann, Maizan, Roscher, Burton a Speke.
 
 Vzdušná čára, kterou se doktor Fergusson zamýšlel pustiti, nebyla zvolena na zdařbůh; uvažoval pilně o místě odjezdu a ustanovil se nikoli bez příčiny na tom, že vzlétne s ostrova Zanzibaru.
@@ -62,3 +64,5 @@ Dne 26. května hnuli se zase pochodem a vrátili se do Kaze dne 20. června. Ta
 Navrátil se do Kaze dne 25. srpna a dal se s Burtonem cestou do Zanzibara, jejž uzřeli v měsíci březnu následujícího roku. Tito dva smělí výzkumcové odpluli pak do Anglie a zeměpisná společnost pařížská přiřkla jim svou každoroční cenu.
 
 Doktor Fergusson zaznamenal si pečlivě, že nepřišli ani za 2. stupeň jižní šířky, ani za 29. stupeň východní délky. Běželo tudíž o to, aby výzkumy Burtona a Speke byly spojeny s výzkumy doktora Bartha; byl to úkol proniknouti prostranství zšíří více než dvanácti stupňů.
+
+</section>

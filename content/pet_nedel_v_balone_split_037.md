@@ -3,6 +3,8 @@ title: XXXV\.
 contentType: prose
 ---
 
+<section>
+
 Příhody Joovy. – Ostrov Biddiomů. – Joe považován za boha. – Pohlcený ostrov. – Jezerní břehy. – Hadí strom. – Cesta pěšky. – Strasti.– Moskyti a mravenci. – Hlad. – Přelet Viktorie. – Zmizení Viktorie. – Zoufalství. – Močál. – Poslední výkřik.
 
 Kam se poděl Joe, co ho pán nadarmo hledal?
@@ -106,3 +108,5 @@ Vzpíral se zuřivě; leč úsilí jeho vycházely jen na tolik, že se tím ryc
 „Pane! pane! pomoc!“ vykřikl.
 
 A tento hlas zoufalý, osamělý, poloudušený zanikl v nočních mrákotách.
+
+</section>
