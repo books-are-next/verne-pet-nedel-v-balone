@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "verne-pet-nedel-v-balone-84617a7",
-  "revision": "84617a7",
+  "identifier": "verne-pet-nedel-v-balone-7b3f6de",
+  "revision": "7b3f6de",
   "readingOrder": [
     "promo.html",
     "pet_nedel_v_balone_split_001.html",
@@ -61,8 +61,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:57:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883850977
+    "date": "Sat Jun 11 2022 12:13:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949619697
   },
   "documents": [
     {
