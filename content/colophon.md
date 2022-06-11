@@ -8,7 +8,7 @@ Pět neděl v baloně
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
 </section>  
-1. vydání z 10. 6. 2022.
+1. vydání z 11. 6. 2022.
 
 ***
 
@@ -24,4 +24,4 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v P
 
 Citační záznam této e-knihy:
 
-VERNE, Jules. _Pět neděl v baloně_ \[online\]. Přel. František PELIKÁN. Ilustr. Édouard RIOU a Henri de MONTAUT.  Praha: Městská knihovna v Praze, 2013 \[cit. 10. 6. 2022]. Dostupné z: <next-book-url>
+VERNE, Jules. _Pět neděl v baloně_ \[online\]. Přel. František PELIKÁN. Ilustr. Édouard RIOU a Henri de MONTAUT.  Praha: Městská knihovna v Praze, 2013 \[cit. 11. 6. 2022]. Dostupné z: <next-book-url>
