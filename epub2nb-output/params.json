@@ -8,7 +8,8 @@
       "modified": "2021-11-23T15:10:23.605Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "e-booknadpis ",
@@ -1046,6 +1047,6 @@
       "user": "books-are-next",
       "repo": "verne-pet-nedel-v-balone"
     },
-    "generatedAt": 1655271913412
+    "generatedAt": 1655364405566
   }
 }
