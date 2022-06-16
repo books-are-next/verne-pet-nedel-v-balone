@@ -9,7 +9,8 @@
       "modified": "2021-11-23T15:10:23.605Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "e-booknadpis ",
@@ -1044,4 +1045,3 @@
     "generatedAt": 1637684679910
   }
 }
-
