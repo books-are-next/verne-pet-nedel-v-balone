@@ -12,6 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - pet_nedel_v_balone_split_001.html
