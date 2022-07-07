@@ -45,7 +45,7 @@
         "filename": "pet_nedel_v_balone_split_000.md",
         "xhtml": "pet_nedel_v_balone_split_000.html",
         "id": 1,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -519,7 +519,7 @@
         "filename": "pet_nedel_v_balone_split_049.md",
         "xhtml": "pet_nedel_v_balone_split_049.html",
         "id": 48,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": true,
         "children": []
