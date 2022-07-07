@@ -61,7 +61,7 @@ readingOrder:
   - pet_nedel_v_balone_split_045.html
   - pet_nedel_v_balone_split_046.html
   - pet_nedel_v_balone_split_047.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
