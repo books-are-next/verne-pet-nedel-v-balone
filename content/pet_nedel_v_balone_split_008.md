@@ -13,7 +13,7 @@ Ale jakým mužem byl doktor tomuto hodnému Joovi! s jakou úctou a s jakou dů
 
 A proto, když v doktorovi uzrál úmysl přeletěti Afriku, byl Joovi hotovou událostí; překážek už nebylo; jakmile si doktor Fergusson předsevzal, že odjede, nebylo pochybnosti, že také dojede – se svým věrným služebníkem, neboť hodný ten hoch věděl dobře, že se súčastní cesty, ačkoli se nikdy o tom nezmínil.
 
-Mimo to měl za cesty prokazovati nejplatnější služby svým bystrovtipem a podivuhodnou hbitostí. Kdyby bylo třeba bývalo ustanoviti professora tělocviku opicím Zoological Gardenu[\[17\]](./resources/undefined), které jsou však velice schytralé, byl by Joe zajisté dostal to místo. Skákati, lézti, lítati, prováděti tisíceré nemožné kousky bylo mu hříčkou.
+Mimo to měl za cesty prokazovati nejplatnější služby svým bystrovtipem a podivuhodnou hbitostí. Kdyby bylo třeba bývalo ustanoviti professora tělocviku opicím Zoological Gardenu[^17], které jsou však velice schytralé, byl by Joe zajisté dostal to místo. Skákati, lézti, lítati, prováděti tisíceré nemožné kousky bylo mu hříčkou.
 
 Byl-li Fergusson hlavou a Kennedy paží, byl Joe rukou. Byl již provázel pána na několika cestách a nabyl jakéhosi vědeckého nátěru, zbarveného jeho způsobem; avšak honosil se zvláště klidnou filosofií, pros omilým optimismem; pokládal vše za snadné, logické, přirozené, a proto necítil potřeby naříkati nebo láti.
 
@@ -33,7 +33,7 @@ Jeden pochyboval, druhý věřil; jeden projevoval prozíravou opatrnost, druhý
 
 „Nerad bych tě vyvedl z tvých přeludů, milý Joe; ale pravím ti upřímně: co tu podniká, jest učiněné šílenství. Neodjede.“
 
-„Že neodjede? Což jste neviděl jeho balon v dílně pánů Mittchellů v Boroughu?[\[18\]](./resources/undefined)“
+„Že neodjede? Což jste neviděl jeho balon v dílně pánů Mittchellů v Boroughu?[^18]“
 
 „Ani mi nepřipadne, abych se šel podívat.“
 
@@ -125,6 +125,6 @@ I zapsal sto třicet pět liber na svůj vlastní vrub.
 
 „Ale, pane,“ ozval se Joe, „kdyby toho bylo potřebí pro vaši výpravu, nejedl bych, abych se spadl o nějakých dvacet liber.“
 
-„Toť zbytečno, hochu,“ odpověděl doktor; „jez po chuti, a tu máš půlkorunu[\[19\]](./resources/undefined) a opatři si za ni přítěž, jaké se ti zachce.“
+„Toť zbytečno, hochu,“ odpověděl doktor; „jez po chuti, a tu máš půlkorunu[^19] a opatři si za ni přítěž, jaké se ti zachce.“
 
 </section>

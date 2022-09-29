@@ -17,7 +17,7 @@ Kolem těchto prohlubin četné chatrče tuzemců, rozsáhlá tržiště, pole k
 
 Tam scházejí se namnoze karavany: z jihu s otroky a s náklady slonoviny, ze západu pak karavany, dopravující bavlněné látky a drobné skleněné zboží kmenům u velkých jezer.
 
-Pročež panuje na tržištích věčný ruch, bezejmenný hluk, v němž splývá křik nosičů smíšené krve, víření bubnův a troubení rohů, ržání mezků, hýkání oslů, zpěv žen, vřískot dětí a rány rákoskou džemadarovou[\[35\]](./resources/undefined), jež dává takt v této pastýřské symfonii.
+Pročež panuje na tržištích věčný ruch, bezejmenný hluk, v němž splývá křik nosičů smíšené krve, víření bubnův a troubení rohů, ržání mezků, hýkání oslů, zpěv žen, vřískot dětí a rány rákoskou džemadarovou[^35], jež dává takt v této pastýřské symfonii.
 
 Tu jsou rozloženy bez ladu, ba v milém neladu křiklavé látky, skleněné korály, sloní kly, zuby nosorožčí a žraločí, med, tabák, bavlna; tu se provozují obchody nejpodivnější, při nichž všeliká věc má cenu jen podle chtivosti, kterou vzbuzuje.
 
@@ -129,7 +129,7 @@ Kotva uchvátila čaroděje, a balon vyhoupl se s ním do vzdušného prostoru.
 
 „Klanějte se, slečny, klanějte,“ říkal jim, „jsem dobrý chlap, ačkoliv jsem syn bohův!“
 
-Přinášely mu obětní dary, obyčejně uložené ve „mzimech“ neboli fetišových chatách. Záležely v ječných klasech a v „pombé“. Joe pokládal slušným okusiti tento druh piva velmi silného; leč jeho patro nesneslo jeho ostrosti, jakkoli bylo zvyklé vínu a whiskyi.[\[36\]](./resources/undefined) Ušklíbl se strašně, což diváci považovali za milostný úsměv.
+Přinášely mu obětní dary, obyčejně uložené ve „mzimech“ neboli fetišových chatách. Záležely v ječných klasech a v „pombé“. Joe pokládal slušným okusiti tento druh piva velmi silného; leč jeho patro nesneslo jeho ostrosti, jakkoli bylo zvyklé vínu a whiskyi.[^36] Ušklíbl se strašně, což diváci považovali za milostný úsměv.
 
 A po té jaly se mladé dívky, spustivše zdlouhavou, jednozvukou píseň, provozovati kolem něho vážný tanec.
 

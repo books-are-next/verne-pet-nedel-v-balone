@@ -7,7 +7,7 @@ contentType: prose
 
 Přelet přes úžinu. – Mrima. – Výrok Dickův a návrh Joův. – Předpis na kávu. – Uzaramo. – Nešťastný Maizan. – Hora Duthumi. – Mapy doktorovy. – Noc na nopálu.
 
-Vzduch byl čistý, vítr mírný; Viktorie vystoupila téměř kolmo do výše 1500 stop, což projevilo se klesnutím o dva palce bez dvou čárek[\[28\]](./resources/undefined) v tlakoměrném sloupci.
+Vzduch byl čistý, vítr mírný; Viktorie vystoupila téměř kolmo do výše 1500 stop, což projevilo se klesnutím o dva palce bez dvou čárek[^28] v tlakoměrném sloupci.
 
 V této výšce silnější proud unášel balon k jihozápadu. Jak velkolepé divadlo rozvinulo se před zraky cestovatelů! Ostrov Zanzibar jevil se celý očím, obrážeje se temnější barvou jako na širé ploše; pole nabývala vzhledu různobarvých vzorků; velké skupiny stromové svědčily, kde jsou lesy a houštiny.
 
@@ -81,7 +81,7 @@ Za nějakou chvíli nality tři kouřící se koflíky, jimiž zapito jadrné sn
 
 Kraj honosil se nesmírnou úrodností. Úzké, křivolaké pěšiny vinuly se pod zelenými klenbami. Letěli nad poli osetými tabákem, kukuřicí, ječmenem plně uzrálým; tu a tam prostírala se rýžoviště s rovnými stonky a květy barvy purpurové. Viděli ovoce a kozy zavřené ve velkých klecích vyvýšených na kolech na ochranu proti chrupu levhartovu. Bujné rostlinstvo vypínalo se na této štědré půdě. V četných dědinách opakovaly se výjevy ryku a zmatku, když se objevila Viktorie, a doktor Fergusson měl se bedlivě na pozoru, aby nesestoupil v dostřel šípův; obyvatelé shluklí kolem svých chat těsně skupených stíhali dlouho cestovatele svým marným proklínáním.
 
-O poledni určil doktor poradiv se s mapou, že jest nad Uzaramem.[\[29\]](./resources/undefined) Krajina byla porostlá kokosníky, dýněmi a bavlníky, nad nimiž Viktorie zdála se laškovati. Joe shledal toto rostlinstvo zcela přirozeným, jakmile šlo o Afriku. Kennedy viděl zajíce a křepelky, kteří si nežádali nic lepšího než dobrou ránu z pušky; leč bylo by se marně plýtvalo prachem, poněvadž nemohla se zvěř sebrati.
+O poledni určil doktor poradiv se s mapou, že jest nad Uzaramem.[^29] Krajina byla porostlá kokosníky, dýněmi a bavlníky, nad nimiž Viktorie zdála se laškovati. Joe shledal toto rostlinstvo zcela přirozeným, jakmile šlo o Afriku. Kennedy viděl zajíce a křepelky, kteří si nežádali nic lepšího než dobrou ránu z pušky; leč bylo by se marně plýtvalo prachem, poněvadž nemohla se zvěř sebrati.
 
 Vzduchoplavci pluli s rychlostí devatenácti kilometrů za hodinu a octli se v brzku na 38° 20' délky nad vsí Tundou.
 
@@ -141,11 +141,11 @@ Přistrojena večeře; cestovatelé, rozjaření vzdušnou procházkou, způsobi
 
 „Jakou cestu jsme dnes vykonali?“ otázal se Kennedy polykaje hrozná sousta.
 
-Doktor určil polohu vypozorovav měsíc a řídě se výtečnou mapou, která mu byla průvodcem; náležela k atlasu „Der neuesten Entdeckungen in Afrika“, vydanému v Gothě jeho učeným přítelem Petermannem, jejž mu tento zeměpisec byl zaslal. Tento atlas měl doktorovi konati službu po celou cestu, neboť podával cestu Burtona a Spekea k velkým jezerům, Sudan podle doktora Bartha, dolejší Senegal podle Viléma Lejeana a deltu nigerskou od doktora Baikie.[\[30\]](./resources/undefined)
+Doktor určil polohu vypozorovav měsíc a řídě se výtečnou mapou, která mu byla průvodcem; náležela k atlasu „Der neuesten Entdeckungen in Afrika“, vydanému v Gothě jeho učeným přítelem Petermannem, jejž mu tento zeměpisec byl zaslal. Tento atlas měl doktorovi konati službu po celou cestu, neboť podával cestu Burtona a Spekea k velkým jezerům, Sudan podle doktora Bartha, dolejší Senegal podle Viléma Lejeana a deltu nigerskou od doktora Baikie.[^30]
 
 Fergusson byl si rovněž opatřil dílo, v němž byly sloučeny v jediný celek veškery vědomosti nabyté o Nilu, pod názvem:
 
-„The sources of the Nile, being a general survey of the basin of that river end of its head stream, with the history of the Nilotic discovery by Charles Beke, Th. D.“[\[31\]](./resources/undefined)
+„The sources of the Nile, being a general survey of the basin of that river end of its head stream, with the history of the Nilotic discovery by Charles Beke, Th. D.“[^31]
 
 Měl také výtečné mapy vydané ve „Věstníku zeměpisné společnosti londýnské“, i nemohlo jeho zřeteli ujíti nižádné místo probadaných krajin.
 

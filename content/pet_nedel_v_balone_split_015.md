@@ -47,7 +47,7 @@ Než minulo těch deset minut, octli se cestovatelé nad vlhkým pásmem.
 
 „Oh, co se týče přirozenosti, nepochybuji.“
 
-„Posílám Dicka na zdravý vzduch, jak se děje v Evropě den jako den, a jak bych ho na Martinice poslal na Pitony,[\[32\]](./resources/undefined) aby ušel žluté zimnici.“
+„Posílám Dicka na zdravý vzduch, jak se děje v Evropě den jako den, a jak bych ho na Martinice poslal na Pitony,[^32] aby ušel žluté zimnici.“
 
 „A tak! Tento balon je hotovým rájem,“ pravil Kennedy, jemuž bylo již lépe.
 

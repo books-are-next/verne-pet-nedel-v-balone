@@ -13,7 +13,7 @@ Nechtě dáti balonu rozměry příliš veliké, ustanovil se předkem na tom, �
 
 Doktor poznal výpočty velice přesnými, že vzhledem k věcem k jeho cestě a pro jeho přístroj nezbytně potřebným musí vzíti s sebou váhu čtyř tisíc liber; pročež bylo vyzkoumati, jaká vzestupná síla jest s to, aby unesla tuto váhu, a jaký tudíž jest obsah její.
 
-Váha čtyř tisíc liber rovná se čtyřicítičtyřem tisícům osmi stům čtyřicítisedmi krychlovým stopám[\[20\]](./resources/undefined) vytlačeného vzduchu, čili jinými slovy: čtyřicetčtyři tisíce osm set čtyřicetsedm krychlových stop vzduchu váží asi čtyři tisíce liber.
+Váha čtyř tisíc liber rovná se čtyřicítičtyřem tisícům osmi stům čtyřicítisedmi krychlovým stopám[^20] vytlačeného vzduchu, čili jinými slovy: čtyřicetčtyři tisíce osm set čtyřicetsedm krychlových stop vzduchu váží asi čtyři tisíce liber.
 
 Dá-li se balonu tento obsah čtyřicetičtyř tisíc osmi set čtyřiceti sedmi krychlových stop a naplní-li se na místě vzduchu vodíkem, který jsa čtrnáctkrát a půl lehčí, váží toliko dvě stě sedmdesátšest liber, jeví se nesrovnalost v rovnováze, to jest rozdíl asi tří tisíc sedmi set osmdesáti liber. V tomto rozdílu pak mezi vahou plynu obsaženého v baloně a mezi vahou vzduchu jej objímajícího záleží vzestupná síla balonu.
 
@@ -21,7 +21,7 @@ Avšak kdyby se do balonu vpustilo čtyřicetčtyři tisíce osm set čtyřicets
 
 Doktor pak prohlédaje k jistému zámyslu jedině jemu známému, odhodlal se naplniti svůj balon jen zpola, a poněvadž musil vzíti s sebou čtyřicetčtyři tisíce osm set čtyřicet sedm krychlových stop vodíku, dáti balonu obsah téměř dvojnásobný.
 
-Sestrojil jej do protáhlého tvaru, o němž se ví, že jest nejvýhodnější; vodorovný průměr činil padesát stop a kolmý průměr sedmdesátpět[\[21\]](./resources/undefined); nabyl takto kulovitého tělesa, jehož obsah páčil se rovným číslem na devadesát tisíc krychlových stop.
+Sestrojil jej do protáhlého tvaru, o němž se ví, že jest nejvýhodnější; vodorovný průměr činil padesát stop a kolmý průměr sedmdesátpět[^21]; nabyl takto kulovitého tělesa, jehož obsah páčil se rovným číslem na devadesát tisíc krychlových stop.
 
 Kdyby doktor Fergusson byl mohl použíti dvou balonů, bylo by mu přibylo čáky na zdar; lzeť vskutku, praskne-li jeden v povětří, udržeti se druhým, vyhodí-li se přítěž. Ale říditi dva balony jest věc velice nesnadná, když jde o to, aby se jim zachovala rovná síla vzestupná.
 
@@ -45,7 +45,7 @@ Loďka tvaru okrouhlého, mající v průměru patnácte stop, byla upletena z v
 
 Mimo to dal si doktor udělati čtyři schránky z železného plechu ztlouští dvou čárek; byly mezi sebou spojeny rourami kohoutky opatřenými; k tomu přidal hadici v průměru asi dvou palců, která končila dvěma rovnými rameny nestejně dlouhými, z nichžto větší měřilo dvacetpět a kratší pouze patnácte stop.
 
-Plechové schránky umístěny v loďce tím způsobem, že zabíraly prostor co nejmenší; hadice, která měla se přidělati až později, zabalena o sobě, jakož i velmi silný elektrický sloup Bunsenův. Tento přístroj byl sestaven tak důmyslně, že nevážil více než sedm set liber spolu s dvacítipěti gallony[\[22\]](./resources/undefined) vody obsažené ve zvláštní schránce.
+Plechové schránky umístěny v loďce tím způsobem, že zabíraly prostor co nejmenší; hadice, která měla se přidělati až později, zabalena o sobě, jakož i velmi silný elektrický sloup Bunsenův. Tento přístroj byl sestaven tak důmyslně, že nevážil více než sedm set liber spolu s dvacítipěti gallony[^22] vody obsažené ve zvláštní schránce.
 
 Nástroje na cestu určené záležely ve dvou teploměrech, dvou tlakoměrech, dvou bussolách, sextantu, dvou časoměrech, umělém obzorníku a výškoměru k zachycování předmětů vzdálených a nepřístupných. – Hvězdárna greenwichská propůjčila se k službám doktorovi, jenž ostatně nehodlal konati fysická pozorování; chtěl jedině stanoviti svůj směr a označovati polohu hlavních řek, hor a měst.
 

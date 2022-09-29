@@ -11,7 +11,7 @@ Kolem 10. února chýlily se přípravy ke konci, balony, uzavřené jeden ve dr
 
 Joe byl všecek rozradostněn, chodil neustále z Greek streetu do dílen pánů Mittchellů, maje pořád co činiti, pořád co hovořiti, vykládaje rád podrobnosti o věci lidem, kteříž o ně nestáli, a jsa nade vše hrd tím, že bude provázeti svého pána. Ba domnívám se, že hodný ten hoch vydělal si několik půlkorun, ukazuje ballon, vysvětluje myšlenky a záměry doktorovy a ukazuje tohoto pootevřeným oknem, anebo, když šel po ulici; netřeba mu to pokládati za zlé; měl věru právo těžiti poněkud z obdivu a zvědavosti svých vrstevníků.
 
-Dne 16. února spustil Resolute kotvu před Greenwichem. Byla to šroubová loď o nosnosti osmi set tun, dobrý plavec, která vykonala úkol opatřiti zásobami poslední výpravu sira Jamesa Rossa v polárních končinách. Velitel Pennet považován za roztomilého muže; zajímal se velice o cestu doktorovu, jehož vážil si již ode dávna. Tento Pennet byl spíše učencem nežli vojákem; to však nevadilo, aby neměl na lodi čtyři karonady[\[23\]](./resources/undefined), které nikdy nikomu neublížily jsouce jen k tomu, aby tropily hřmot na světě nejpokojnější.
+Dne 16. února spustil Resolute kotvu před Greenwichem. Byla to šroubová loď o nosnosti osmi set tun, dobrý plavec, která vykonala úkol opatřiti zásobami poslední výpravu sira Jamesa Rossa v polárních končinách. Velitel Pennet považován za roztomilého muže; zajímal se velice o cestu doktorovu, jehož vážil si již ode dávna. Tento Pennet byl spíše učencem nežli vojákem; to však nevadilo, aby neměl na lodi čtyři karonady[^23], které nikdy nikomu neublížily jsouce jen k tomu, aby tropily hřmot na světě nejpokojnější.
 
 Podlubí Resolutu bylo upraveno k uložení balonu; byl tam dopraven s největší opatrností dne 18. února a složen na dně lodi tak, aby se předešlo všeliké nehodě; loďka a její příslušenství, kotvy, provazy, potraviny, schránky na vodu, které se měly naplnit i po příjezdu, vše spořádáno pod dohledem Fergussonovým.
 
@@ -67,7 +67,7 @@ Nejvíce bylo jim s podivenou, že bere s sebou množství potravin poměrně ne
 
 „A balon odolal?“
 
-„Úplně. Bylo to v čas korunovace Napoleonovy roku 1804. Větroplavec Garnerin vypustil v Paříži v jedenáct hodin večer balon s tímto nápisem provedeným zlatým písmeny: ,V Paříži dne 25. frimairu[\[24\]](./resources/undefined) roku XIII. korunovace císaře Napoleona J. Sv. Piem VII.‘ Druhého dne ráno v pět hodin viděli obyvatelé římští týž balon vznášeti se nad Vatikánem, přeletěti římskou Campagni a spustiti se do jezera Bracciana. Tak jest, pánové, balon s to, aby obstál při podobné rychlosti.“
+„Úplně. Bylo to v čas korunovace Napoleonovy roku 1804. Větroplavec Garnerin vypustil v Paříži v jedenáct hodin večer balon s tímto nápisem provedeným zlatým písmeny: ,V Paříži dne 25. frimairu[^24] roku XIII. korunovace císaře Napoleona J. Sv. Piem VII.‘ Druhého dne ráno v pět hodin viděli obyvatelé římští týž balon vznášeti se nad Vatikánem, přeletěti římskou Campagni a spustiti se do jezera Bracciana. Tak jest, pánové, balon s to, aby obstál při podobné rychlosti.“
 
 „Balon ano; ale což člověk,“ odvážil se namítnouti Kennedy.
 

@@ -33,7 +33,7 @@ Podobalo se, jako by karavana se nikdy nebyla odvážila v tuto pustou končinu;
 
 Avšak nebylo lze couvnouti; musili se bráti ku předu; doktor nežádal si ničeho tak vroucně; byl by si přál bouře, aby ho zanesla z tohoto kraje. A na nebi ani mráčku! Když minul tento den, nebyla Viktorie ujela ani padesát kilometrů.
 
-Kdyby bylo dostatek vody bývalo! Avšak všeho všude zbývaly jí tři gallony! Fergusson odměřil gallon[\[42\]](./resources/undefined), určený k hašení palčivé žízně, kterou devadesátistupňové[\[43\]](./resources/undefined) vedro činilo nesnesitelnou; dva gallony zbývaly tudíž pro činnost dmuchavky; mohly vyvoditi jen čtyři sta osmdesát krychlových stop plynu, a dmuchavka spotřebovala ho za hodinu asi devět krychlových stop; pročež bylo lze postupovati už jen padesát čtyři hodiny. To vše bylo přesně vypočteno.
+Kdyby bylo dostatek vody bývalo! Avšak všeho všude zbývaly jí tři gallony! Fergusson odměřil gallon[^42], určený k hašení palčivé žízně, kterou devadesátistupňové[^43] vedro činilo nesnesitelnou; dva gallony zbývaly tudíž pro činnost dmuchavky; mohly vyvoditi jen čtyři sta osmdesát krychlových stop plynu, a dmuchavka spotřebovala ho za hodinu asi devět krychlových stop; pročež bylo lze postupovati už jen padesát čtyři hodiny. To vše bylo přesně vypočteno.
 
 „Padesát čtyři hodiny!“ pravil doktor k soudruhům. „Ježto pak jsem pevně odhodlán necestovati v noci z obavy, abych neminul nějaký potok, pramen anebo močál, zbývá nám půlčtvrta dne cesty, a za tu dobu dlužno dopíditi se vody stůj co stůj. Pokládám si za povinnost nezatajiti před vámi, v jakém jsme povážlivém postavení, přátelé, neboť pro naši žízeň mám v zásobě jediný gallon, i musíme se co nejvíce uskrovniti.“
 

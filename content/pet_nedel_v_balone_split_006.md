@@ -9,7 +9,7 @@ Africké výzkumy. – Barth, Richardson, Overweg, Werne, Brun-Rollet, Peney, 
 
 Vzdušná čára, kterou se doktor Fergusson zamýšlel pustiti, nebyla zvolena na zdařbůh; uvažoval pilně o místě odjezdu a ustanovil se nikoli bez příčiny na tom, že vzlétne s ostrova Zanzibaru.
 
-Ostrov tento, vystupující z moře nedaleko východního pobřeží afrického, leží na 6. stupni jižní šířky, to jest devadesát tři míle zeměpisné[\[12\]](./resources/undefined) pod rovníkem.
+Ostrov tento, vystupující z moře nedaleko východního pobřeží afrického, leží na 6. stupni jižní šířky, to jest devadesát tři míle zeměpisné[^12] pod rovníkem.
 
 Z tohoto ostrova vytrhla před nedávnem poslední výprava poslaná k velikým jezerům, aby tam vypátrala zřídla nilská.
 
@@ -27,7 +27,7 @@ Přes urputnou zimnici opustí toto město dne 7. března, maje s sebou jedink�
 
 Dne 29. března 1851 shledáváme se s ním opět, an se ubírá s Overwegem do království Adamauy jižně od jezera; dospěje až do města Joly o něco pod 9. stupněm severní šířky. To jest krajní mez dosažená na jih tímto smělým cestovatelem.
 
-V měsíci srpnu navrátí se do Kuky, odkud projde po sobě Mandarou, Bagirmem, Kanemem a dostihne jakožto nejzazší meze na východ města Maseny, ležícího na 17° 20' východní délky.[\[13\]](./resources/undefined)
+V měsíci srpnu navrátí se do Kuky, odkud projde po sobě Mandarou, Bagirmem, Kanemem a dostihne jakožto nejzazší meze na východ města Maseny, ležícího na 17° 20' východní délky.[^13]
 
 Dne 25. listopadu 1852 pustí se po smrti Overwega, svého posledního soudruha, na západ, zavítá do Sokota, překročí Niger a dostane se posléze do Timbuktu, kde strádá osm dlouhých měsícův útisky šejkovými, týráním a bídou. Ale přítomnost křesťana ve městě nesmí se déle trpěti; Fulbové hrozí, že je oblehnou. Doktor opustí je tudíž dne 17. března 1854, uchýlí se na hranici, kde pobude třicet tři dni v naprostém nedostatku všeho, vrátí se v listopadu do Kana a stihne zase do Kuky, odkud pustí se cestou Denhamovou, prodlev v Kuce čtyři měsíce; spatří opět Tripolis na sklonku měsíce srpna 1855 a vrátí se do Londýna dne 6. září sám jediný ze svých soudruhů.
 
@@ -57,7 +57,7 @@ V měsíci srpnu 1859 vydal se mladý cestovatel Roscher z Hamburku na pochod s
 
 Posléze byli roku 1857 poručíci Burton a Speke, oba důstojníci v bengalském vojště, vysláni zeměpisnou společností londýnskou vyzkoumat velká jezera africká; dne 17. června opustili Zanzibar a zabrali se přímo na západ.
 
-Po čtyřměsíčních neslýchaných útrapách stihli do Kaze[\[14\]](./resources/undefined), shromaždiště kupcův a karavan, pozbyvše plenem zavazadel a potýčkami nosičů; byli v samé Měsíčné zemi; tam nasebírali vzácných zpráv o domácích mravech, vládě, náboženství, zvířeně i květeně; po té pustili se k prvnímu z velkých jezer, Tanganice, rozlévajícímu se mezi 3. a 8. stupněm jižní šířky; stih i tam dne 14. února 1858 a navštívili různé pobřežní národy, namnoze lidojedy.
+Po čtyřměsíčních neslýchaných útrapách stihli do Kaze[^14], shromaždiště kupcův a karavan, pozbyvše plenem zavazadel a potýčkami nosičů; byli v samé Měsíčné zemi; tam nasebírali vzácných zpráv o domácích mravech, vládě, náboženství, zvířeně i květeně; po té pustili se k prvnímu z velkých jezer, Tanganice, rozlévajícímu se mezi 3. a 8. stupněm jižní šířky; stih i tam dne 14. února 1858 a navštívili různé pobřežní národy, namnoze lidojedy.
 
 Dne 26. května hnuli se zase pochodem a vrátili se do Kaze dne 20. června. Tam zůstal vysílený Burton několik měsíců jsa nemocí zachvácen; zatím vyrazil Speke na pět set kilometrů k severu až k jezeru Ukereve, které spatřil dne 3. srpna; leč uviděl toliko jeho cíp na 2° 30' šířky.
 
