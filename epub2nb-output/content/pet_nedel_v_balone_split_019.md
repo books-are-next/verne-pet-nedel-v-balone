@@ -135,7 +135,7 @@ Tu nabylo postavení rázu děsivého; kotevní vazák pevně uvázlý nebylo lz
 
 „Kulku do srdce,“ pravil Dick, vypáliv naposledy z karabiny. Slon zařval úzkostí a bolestí; vztyčil se na okamžik toče chobotem; po té svalil se celou tíží na jeden z klů, jejž zlomil nadobro. Bylo po něm.
 
-„Jeho kel je zlomen!“ zvolal Kennedy. „Slonovina, jíž sto liber stálo by v Anglii třicet pět guinea-í!“[\[37\]](./resources/undefined)
+„Jeho kel je zlomen!“ zvolal Kennedy. „Slonovina, jíž sto liber stálo by v Anglii třicet pět guinea-í!“[^37]
 
 „Tolik?“ podivil se Joe spustiv se po kotevním provaze až na zemi.
 

@@ -33,7 +33,7 @@ V brzku nastal hotový příval pobídek, nebylo konce blahopřáním. Obšírn�
 
 Nord American Review znamenal s nelibostí, jaká sláva kyne Anglii; obraceje doktorův zámysl v žert, navrhoval mu, aby dorazil až do Ameriky, když už bude na cestě tak dobré.
 
-Slovem, nepočítaje časopisy celého světa, nebylo vědeckého sborníku od Časopisu evangelických misií až po Alžírský a osadní obzor, od Letopisů rozšiřování vědy až po Church Missionnary Intelligencer[\[6\]](./resources/undefined), aby o věci nepodával zpráv ve všech obdobách.
+Slovem, nepočítaje časopisy celého světa, nebylo vědeckého sborníku od Časopisu evangelických misií až po Alžírský a osadní obzor, od Letopisů rozšiřování vědy až po Church Missionnary Intelligencer[^6], aby o věci nepodával zpráv ve všech obdobách.
 
 Horlivci v Londýně a Anglii vcházeli u velké sázky: 1. o skutečnou nebo domnělou jsoucnost doktora Fergussona; 2. o cestu samu, o níž jedni říkali, že na ni ani nedojde, a druzí, že bude jistě podniknuta; 3. o to, zdaří-li se, či nezdaří-li se; 4. o pravděpodobnost anebo nepravděpodobnost návratu doktora Fergussona. Činěny sázky o značné sumy liber, jako by bylo šlo o dostihy epsomské.
 

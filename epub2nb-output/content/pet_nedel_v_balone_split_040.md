@@ -39,7 +39,7 @@ Pohled na ty ptáky zavdal Joovi podnět, že blahořečil pánově myšlence dv
 
 „Tu tam dospějeme rychleji než ta karavana,“ odtušil Joe ukazuje na dlouhou řadu zvířat a lidí, vinoucí se širou pouští.
 
-Ferguson a Kennedy vyklonivše se uzřeli ohromný shluk tvorů všeho druhu; bylo mezi nimi přes sto padesát velbloudů z těch, kteří za dvanáct mutkalů zlata[\[53\]](./resources/undefined), chodí z Timbuktu do Tafileltu s nákladem pěti set liber na hřbetě; měli vesměs pod ocasem váček, v němž se zachycovaly jich výkaly, jediné palivo, jehož lze se na poušti dopíditi.
+Ferguson a Kennedy vyklonivše se uzřeli ohromný shluk tvorů všeho druhu; bylo mezi nimi přes sto padesát velbloudů z těch, kteří za dvanáct mutkalů zlata[^53], chodí z Timbuktu do Tafileltu s nákladem pěti set liber na hřbetě; měli vesměs pod ocasem váček, v němž se zachycovaly jich výkaly, jediné palivo, jehož lze se na poušti dopíditi.
 
 Tito velbloudi Tuaregů jsou nejlepšího rázu; tři až sedm dní obejdou se bez pití a dva dni bez potravy; rychlostí předčí nad koně a poslouchají rozumně hlasu khabira, vůdce karavany. Jsou po kraji známi pod jménem „meharů.“
 
@@ -51,7 +51,7 @@ Joe otázal se, jak Arabové dovedou určit v poušti směr a nalézti studnice,
 
 Avšak Viktorie sešla již s očí užaslým Arabům, kteří jí asi záviděli její rychlost.
 
-Večer překročila 2° 20'[\[54\]](./resources/undefined) délky a za noc ujela ještě jeden stupeň.
+Večer překročila 2° 20'[^54] délky a za noc ujela ještě jeden stupeň.
 
 V pondělí změnila se povětrnost úplně; déšť jal se líti mocnými proudy; bylo třeba vzepříti se této zátopě a vzrůstu přítěže, jímž obtěžkávala balon a loďku; tento věčný lijavec vysvětloval se močály a bažinami, z nichž se jedině skládal povrch země; tu objevilo se opět rostlinstvo s mimosami, baobaby a marhaníky.
 
@@ -91,7 +91,7 @@ Niger tekl mezi dvěma břehy široce od sebe oddělenými; jeho voda valila se 
 
 „Zase jedna oběť!“ zvolal lovec.
 
-Pak podnikne srdnatý mladík s chatrnými prostředky a také vykoná podivu nejhodnější z novodobých cest; mluvím o Francouzovi René Cailliéovi. Po všelikých pokusech r. 1819 a 1824 vydal se znova dne 19. dubna 1827 na cestu z Rio-Nuňeza; dne 3. srpna dorazil do Timé tou měrou vysílen a nemocen, že se mohl pustiti dál až za půl leta v lednu 1828; jsa chráněn východozemským oděvem přidal se pak ke karavaně, dospěl Nigera dne 10. března, pronikl do města Dženné, dal se v loďce po řece a plavil se po proudě až do Timbukta, kam stihl dne 30. dubna. Možná, že jiný Francouz, Imbert, roku 1670 a Angličan, Robert Adams, roku 1810 spatřili toto podivné město; avšak René Caillié byl první Evropan, jenž podal o něm určité zprávy; dne 4. května opustil tohoto krále pouště; dne 9. poznal i místo, kde byl zavražděn major Laing; dne 19. dorazil do El–Arauana, a vyšed z tohoto obchodního města, bral se za tisícerých nebezpečenstev nesmírnými pustinami, jež se prostírají mezi Sudanem a půlnočními končinami; konečně dospěl do Tangera a dne 28. září odplavil se do Toulona; za devatenáct měsíců přešel Afriku od západu na sever, ačkoliv byl nucen nemocí k zastávce sto a osmdesáti dní. Ach! kdyby se byl Caillié narodil v Anglii, byl by ctěn jako nejneohroženější cestovatel nové doby, rovný Mungo-Parkovi! Ale ve Francii není po zásluze oceněn.[\[55\]](./resources/undefined)
+Pak podnikne srdnatý mladík s chatrnými prostředky a také vykoná podivu nejhodnější z novodobých cest; mluvím o Francouzovi René Cailliéovi. Po všelikých pokusech r. 1819 a 1824 vydal se znova dne 19. dubna 1827 na cestu z Rio-Nuňeza; dne 3. srpna dorazil do Timé tou měrou vysílen a nemocen, že se mohl pustiti dál až za půl leta v lednu 1828; jsa chráněn východozemským oděvem přidal se pak ke karavaně, dospěl Nigera dne 10. března, pronikl do města Dženné, dal se v loďce po řece a plavil se po proudě až do Timbukta, kam stihl dne 30. dubna. Možná, že jiný Francouz, Imbert, roku 1670 a Angličan, Robert Adams, roku 1810 spatřili toto podivné město; avšak René Caillié byl první Evropan, jenž podal o něm určité zprávy; dne 4. května opustil tohoto krále pouště; dne 9. poznal i místo, kde byl zavražděn major Laing; dne 19. dorazil do El–Arauana, a vyšed z tohoto obchodního města, bral se za tisícerých nebezpečenstev nesmírnými pustinami, jež se prostírají mezi Sudanem a půlnočními končinami; konečně dospěl do Tangera a dne 28. září odplavil se do Toulona; za devatenáct měsíců přešel Afriku od západu na sever, ačkoliv byl nucen nemocí k zastávce sto a osmdesáti dní. Ach! kdyby se byl Caillié narodil v Anglii, byl by ctěn jako nejneohroženější cestovatel nové doby, rovný Mungo-Parkovi! Ale ve Francii není po zásluze oceněn.[^55]
 
 „Byl to smělý chlapík,“ prohodil lovec. „A co se s ním stalo?“
 

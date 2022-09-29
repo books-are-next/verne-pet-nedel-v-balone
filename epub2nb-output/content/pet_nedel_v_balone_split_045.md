@@ -165,7 +165,7 @@ Pohled na tu suchou trávu vnukl doktorovi smělou myšlenku. Byla to jediná č
 
 Joe a Kennedy dali se do práce, a v brzku byla u baobabu nahromaděna velká kupa.
 
-Zatím zvětšil doktor ústí balonu uříznuv mu spodek; byl tak opatrný, že otevřel záklopku, aby vyšel vodík třebas ještě v balonu zbývající; potom naložil suché trávy pod obal a zažehl ji. Nebylo třeba mnoho času, aby se balon nadmul horkým vzduchem; žár stoosmdesátistupňový[\[56\]](./resources/undefined) stačil zmenšiti o polovinu váhu vzduchu v baloně uzavřeného, zřediv jej; pročež brala na sebe Viktorie zřetelně kulatý tvar, ježto nebylo nouze o trávu: oheň neustával v činnosti péčí doktorovou, a balon se zvětšoval vůčihledě.
+Zatím zvětšil doktor ústí balonu uříznuv mu spodek; byl tak opatrný, že otevřel záklopku, aby vyšel vodík třebas ještě v balonu zbývající; potom naložil suché trávy pod obal a zažehl ji. Nebylo třeba mnoho času, aby se balon nadmul horkým vzduchem; žár stoosmdesátistupňový[^56] stačil zmenšiti o polovinu váhu vzduchu v baloně uzavřeného, zřediv jej; pročež brala na sebe Viktorie zřetelně kulatý tvar, ježto nebylo nouze o trávu: oheň neustával v činnosti péčí doktorovou, a balon se zvětšoval vůčihledě.
 
 Bylo pak tři čtvrti na jednu.
 

@@ -13,7 +13,7 @@ Vzhledem k těmto neprostupným bažinám byla poloha Viktorie bezpečna; bylo j
 
 Dva přátelé nebyli se dosud odvážili promluviti o svém nešťastném soudruhovi. Kennedy vyslovil první doktorovi své domněnky.
 
-„Možná, že Joe není ztracen,“ pravil. „Jest jonák obratný a plavec, jakého by pohledal. Neváhal ani dost málo, když měl v Edinburku přeplovat Frith of Forth[\[52\]](./resources/undefined). Uvidíme jej zase, kdy a jak nevím; ale co je na nás, neopomiňme ničeho, abychom mu poskytli příležitost shledati se s námi,“
+„Možná, že Joe není ztracen,“ pravil. „Jest jonák obratný a plavec, jakého by pohledal. Neváhal ani dost málo, když měl v Edinburku přeplovat Frith of Forth[^52]. Uvidíme jej zase, kdy a jak nevím; ale co je na nás, neopomiňme ničeho, abychom mu poskytli příležitost shledati se s námi,“
 
 „Kéž tě Bůh vyslyší, Dicku!“ odvětil doktor rozechvěným hlasem. „Učiníme, seč budeme, abychom zase nalezli svého přítele! Poohlédněme se nejprve, kde jsme. Ale předkem zbavme Viktorii vnějšího obalu, který není již k ničemu; ubude nám tím značně váhy šesti set padesáti liber, což stojí za práci.“
 
