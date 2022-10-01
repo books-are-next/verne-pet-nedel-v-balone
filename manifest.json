@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "verne-pet-nedel-v-balone-563f1eb",
-  "revision": "563f1eb",
+  "identifier": "verne-pet-nedel-v-balone-f6945b9",
+  "revision": "f6945b9",
   "readingOrder": [
     "promo.html",
     "pet_nedel_v_balone_split_001.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:38:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487483160
+    "date": "Sat Oct 01 2022 16:07:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640471901
   },
   "documents": [
     {
@@ -80,9 +80,9 @@
     {
       "title": "Upozornění pro čtenáře",
       "file": "pet_nedel_v_balone_split_001.html",
-      "words": 93,
-      "chars": 626,
-      "ideas": 5,
+      "words": 96,
+      "chars": 644,
+      "ideas": 6,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -93,16 +93,24 @@
           "level": 1,
           "name": "Upozornění pro čtenáře",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "I.",
       "file": "pet_nedel_v_balone_split_003.html",
-      "words": 1651,
-      "chars": 11250,
-      "ideas": 40,
+      "words": 1688,
+      "chars": 11442,
+      "ideas": 46,
       "role": "chapter",
       "order": 2,
       "prev": "pet_nedel_v_balone_split_001.html",
@@ -113,16 +121,24 @@
           "level": 1,
           "name": "I.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "II.",
       "file": "pet_nedel_v_balone_split_004.html",
-      "words": 694,
-      "chars": 4780,
-      "ideas": 18,
+      "words": 700,
+      "chars": 4823,
+      "ideas": 20,
       "role": "chapter",
       "order": 3,
       "prev": "pet_nedel_v_balone_split_003.html",
@@ -133,16 +149,24 @@
           "level": 1,
           "name": "II.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "III.",
       "file": "pet_nedel_v_balone_split_005.html",
-      "words": 1734,
-      "chars": 10926,
-      "ideas": 86,
+      "words": 1764,
+      "chars": 11083,
+      "ideas": 92,
       "role": "chapter",
       "order": 4,
       "prev": "pet_nedel_v_balone_split_004.html",
@@ -153,16 +177,24 @@
           "level": 1,
           "name": "III.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "IV.",
       "file": "pet_nedel_v_balone_split_006.html",
-      "words": 1227,
-      "chars": 7672,
-      "ideas": 31,
+      "words": 1244,
+      "chars": 7783,
+      "ideas": 35,
       "role": "chapter",
       "order": 5,
       "prev": "pet_nedel_v_balone_split_005.html",
@@ -173,16 +205,24 @@
           "level": 1,
           "name": "IV.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "V.",
       "file": "pet_nedel_v_balone_split_007.html",
-      "words": 1194,
-      "chars": 7508,
-      "ideas": 68,
+      "words": 1230,
+      "chars": 7731,
+      "ideas": 71,
       "role": "chapter",
       "order": 6,
       "prev": "pet_nedel_v_balone_split_006.html",
@@ -193,16 +233,24 @@
           "level": 1,
           "name": "V.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "VI.",
       "file": "pet_nedel_v_balone_split_008.html",
-      "words": 1137,
-      "chars": 7039,
-      "ideas": 62,
+      "words": 1156,
+      "chars": 7144,
+      "ideas": 66,
       "role": "chapter",
       "order": 7,
       "prev": "pet_nedel_v_balone_split_007.html",
@@ -213,16 +261,24 @@
           "level": 1,
           "name": "VI.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "VII.",
       "file": "pet_nedel_v_balone_split_009.html",
-      "words": 1092,
-      "chars": 7341,
-      "ideas": 46,
+      "words": 1137,
+      "chars": 7610,
+      "ideas": 50,
       "role": "chapter",
       "order": 8,
       "prev": "pet_nedel_v_balone_split_008.html",
@@ -233,16 +289,24 @@
           "level": 1,
           "name": "VII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "VIII.",
       "file": "pet_nedel_v_balone_split_010.html",
-      "words": 1367,
-      "chars": 8861,
-      "ideas": 47,
+      "words": 1389,
+      "chars": 8989,
+      "ideas": 50,
       "role": "chapter",
       "order": 9,
       "prev": "pet_nedel_v_balone_split_009.html",
@@ -253,16 +317,24 @@
           "level": 1,
           "name": "VIII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "IX.",
       "file": "pet_nedel_v_balone_split_011.html",
-      "words": 1149,
-      "chars": 7012,
-      "ideas": 50,
+      "words": 1157,
+      "chars": 7051,
+      "ideas": 52,
       "role": "chapter",
       "order": 10,
       "prev": "pet_nedel_v_balone_split_010.html",
@@ -273,16 +345,24 @@
           "level": 1,
           "name": "IX.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "X.",
       "file": "pet_nedel_v_balone_split_012.html",
-      "words": 1142,
-      "chars": 7417,
-      "ideas": 34,
+      "words": 1157,
+      "chars": 7505,
+      "ideas": 36,
       "role": "chapter",
       "order": 11,
       "prev": "pet_nedel_v_balone_split_011.html",
@@ -293,16 +373,24 @@
           "level": 1,
           "name": "X.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XI.",
       "file": "pet_nedel_v_balone_split_013.html",
-      "words": 1366,
-      "chars": 8996,
-      "ideas": 51,
+      "words": 1374,
+      "chars": 9040,
+      "ideas": 53,
       "role": "chapter",
       "order": 12,
       "prev": "pet_nedel_v_balone_split_012.html",
@@ -313,16 +401,24 @@
           "level": 1,
           "name": "XI.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XII.",
       "file": "pet_nedel_v_balone_split_014.html",
-      "words": 1804,
-      "chars": 11293,
-      "ideas": 75,
+      "words": 1854,
+      "chars": 11575,
+      "ideas": 80,
       "role": "chapter",
       "order": 13,
       "prev": "pet_nedel_v_balone_split_013.html",
@@ -333,16 +429,24 @@
           "level": 1,
           "name": "XII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XIII.",
       "file": "pet_nedel_v_balone_split_015.html",
-      "words": 1469,
-      "chars": 9422,
-      "ideas": 61,
+      "words": 1481,
+      "chars": 9488,
+      "ideas": 63,
       "role": "chapter",
       "order": 14,
       "prev": "pet_nedel_v_balone_split_014.html",
@@ -353,16 +457,24 @@
           "level": 1,
           "name": "XIII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XIV.",
       "file": "pet_nedel_v_balone_split_016.html",
-      "words": 1877,
-      "chars": 11709,
-      "ideas": 95,
+      "words": 1886,
+      "chars": 11755,
+      "ideas": 98,
       "role": "chapter",
       "order": 15,
       "prev": "pet_nedel_v_balone_split_015.html",
@@ -373,16 +485,24 @@
           "level": 1,
           "name": "XIV.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XV.",
       "file": "pet_nedel_v_balone_split_017.html",
-      "words": 2287,
-      "chars": 14572,
-      "ideas": 94,
+      "words": 2300,
+      "chars": 14644,
+      "ideas": 97,
       "role": "chapter",
       "order": 16,
       "prev": "pet_nedel_v_balone_split_016.html",
@@ -393,16 +513,24 @@
           "level": 1,
           "name": "XV.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XVI.",
       "file": "pet_nedel_v_balone_split_018.html",
-      "words": 1946,
-      "chars": 12553,
-      "ideas": 74,
+      "words": 1949,
+      "chars": 12571,
+      "ideas": 75,
       "role": "chapter",
       "order": 17,
       "prev": "pet_nedel_v_balone_split_017.html",
@@ -413,16 +541,24 @@
           "level": 1,
           "name": "XVI.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XVII.",
       "file": "pet_nedel_v_balone_split_019.html",
-      "words": 1976,
-      "chars": 12380,
-      "ideas": 94,
+      "words": 1991,
+      "chars": 12456,
+      "ideas": 96,
       "role": "chapter",
       "order": 18,
       "prev": "pet_nedel_v_balone_split_018.html",
@@ -433,16 +569,24 @@
           "level": 1,
           "name": "XVII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XVIII.",
       "file": "pet_nedel_v_balone_split_020.html",
-      "words": 2037,
-      "chars": 13062,
-      "ideas": 100,
+      "words": 2070,
+      "chars": 13227,
+      "ideas": 103,
       "role": "chapter",
       "order": 19,
       "prev": "pet_nedel_v_balone_split_019.html",
@@ -453,16 +597,24 @@
           "level": 1,
           "name": "XVIII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XIX.",
       "file": "pet_nedel_v_balone_split_021.html",
-      "words": 1203,
-      "chars": 7755,
-      "ideas": 59,
+      "words": 1218,
+      "chars": 7840,
+      "ideas": 61,
       "role": "chapter",
       "order": 20,
       "prev": "pet_nedel_v_balone_split_020.html",
@@ -473,16 +625,24 @@
           "level": 1,
           "name": "XIX.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XX.",
       "file": "pet_nedel_v_balone_split_022.html",
-      "words": 1348,
-      "chars": 8371,
-      "ideas": 57,
+      "words": 1357,
+      "chars": 8427,
+      "ideas": 59,
       "role": "chapter",
       "order": 21,
       "prev": "pet_nedel_v_balone_split_021.html",
@@ -493,16 +653,24 @@
           "level": 1,
           "name": "XX.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXI.",
       "file": "pet_nedel_v_balone_split_023.html",
-      "words": 1676,
-      "chars": 10582,
-      "ideas": 108,
+      "words": 1679,
+      "chars": 10600,
+      "ideas": 109,
       "role": "chapter",
       "order": 22,
       "prev": "pet_nedel_v_balone_split_022.html",
@@ -513,16 +681,24 @@
           "level": 1,
           "name": "XXI.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXII.",
       "file": "pet_nedel_v_balone_split_024.html",
-      "words": 1799,
-      "chars": 11363,
-      "ideas": 74,
+      "words": 1802,
+      "chars": 11381,
+      "ideas": 75,
       "role": "chapter",
       "order": 23,
       "prev": "pet_nedel_v_balone_split_023.html",
@@ -533,16 +709,24 @@
           "level": 1,
           "name": "XXII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXIII.",
       "file": "pet_nedel_v_balone_split_025.html",
-      "words": 1737,
-      "chars": 10719,
-      "ideas": 100,
+      "words": 1740,
+      "chars": 10737,
+      "ideas": 101,
       "role": "chapter",
       "order": 24,
       "prev": "pet_nedel_v_balone_split_024.html",
@@ -553,16 +737,24 @@
           "level": 1,
           "name": "XXIII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXIV.",
       "file": "pet_nedel_v_balone_split_026.html",
-      "words": 1752,
-      "chars": 11089,
-      "ideas": 51,
+      "words": 1765,
+      "chars": 11144,
+      "ideas": 54,
       "role": "chapter",
       "order": 25,
       "prev": "pet_nedel_v_balone_split_025.html",
@@ -573,16 +765,24 @@
           "level": 1,
           "name": "XXIV.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXV.",
       "file": "pet_nedel_v_balone_split_027.html",
-      "words": 1372,
-      "chars": 8443,
-      "ideas": 77,
+      "words": 1378,
+      "chars": 8476,
+      "ideas": 79,
       "role": "chapter",
       "order": 26,
       "prev": "pet_nedel_v_balone_split_026.html",
@@ -593,16 +793,24 @@
           "level": 1,
           "name": "XXV.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXVI.",
       "file": "pet_nedel_v_balone_split_028.html",
-      "words": 1539,
-      "chars": 9412,
-      "ideas": 55,
+      "words": 1548,
+      "chars": 9458,
+      "ideas": 58,
       "role": "chapter",
       "order": 27,
       "prev": "pet_nedel_v_balone_split_027.html",
@@ -613,16 +821,24 @@
           "level": 1,
           "name": "XXVI.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXVII.",
       "file": "pet_nedel_v_balone_split_029.html",
-      "words": 1360,
-      "chars": 8250,
-      "ideas": 82,
+      "words": 1363,
+      "chars": 8268,
+      "ideas": 83,
       "role": "chapter",
       "order": 28,
       "prev": "pet_nedel_v_balone_split_028.html",
@@ -633,16 +849,24 @@
           "level": 1,
           "name": "XXVII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXVIII.",
       "file": "pet_nedel_v_balone_split_030.html",
-      "words": 1418,
-      "chars": 8752,
-      "ideas": 57,
+      "words": 1424,
+      "chars": 8784,
+      "ideas": 59,
       "role": "chapter",
       "order": 29,
       "prev": "pet_nedel_v_balone_split_029.html",
@@ -653,16 +877,24 @@
           "level": 1,
           "name": "XXVIII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXIX.",
       "file": "pet_nedel_v_balone_split_031.html",
-      "words": 1436,
-      "chars": 9318,
-      "ideas": 54,
+      "words": 1447,
+      "chars": 9367,
+      "ideas": 58,
       "role": "chapter",
       "order": 30,
       "prev": "pet_nedel_v_balone_split_030.html",
@@ -673,16 +905,24 @@
           "level": 1,
           "name": "XXIX.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXX.",
       "file": "pet_nedel_v_balone_split_032.html",
-      "words": 1724,
-      "chars": 10783,
-      "ideas": 54,
+      "words": 1752,
+      "chars": 10955,
+      "ideas": 56,
       "role": "chapter",
       "order": 31,
       "prev": "pet_nedel_v_balone_split_031.html",
@@ -693,16 +933,24 @@
           "level": 1,
           "name": "XXX.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXXI.",
       "file": "pet_nedel_v_balone_split_033.html",
-      "words": 1084,
-      "chars": 6697,
-      "ideas": 46,
+      "words": 1087,
+      "chars": 6715,
+      "ideas": 47,
       "role": "chapter",
       "order": 32,
       "prev": "pet_nedel_v_balone_split_032.html",
@@ -713,16 +961,24 @@
           "level": 1,
           "name": "XXXI.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXXII.",
       "file": "pet_nedel_v_balone_split_034.html",
-      "words": 1289,
-      "chars": 8146,
-      "ideas": 77,
+      "words": 1292,
+      "chars": 8164,
+      "ideas": 78,
       "role": "chapter",
       "order": 33,
       "prev": "pet_nedel_v_balone_split_033.html",
@@ -733,16 +989,24 @@
           "level": 1,
           "name": "XXXII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXXIII.",
       "file": "pet_nedel_v_balone_split_035.html",
-      "words": 1665,
-      "chars": 10335,
-      "ideas": 53,
+      "words": 1676,
+      "chars": 10390,
+      "ideas": 55,
       "role": "chapter",
       "order": 34,
       "prev": "pet_nedel_v_balone_split_034.html",
@@ -753,16 +1017,24 @@
           "level": 1,
           "name": "XXXIII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXXIV.",
       "file": "pet_nedel_v_balone_split_036.html",
-      "words": 1140,
-      "chars": 7036,
-      "ideas": 42,
+      "words": 1143,
+      "chars": 7054,
+      "ideas": 43,
       "role": "chapter",
       "order": 35,
       "prev": "pet_nedel_v_balone_split_035.html",
@@ -773,16 +1045,24 @@
           "level": 1,
           "name": "XXXIV.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXXV.",
       "file": "pet_nedel_v_balone_split_037.html",
-      "words": 2237,
-      "chars": 13577,
-      "ideas": 52,
+      "words": 2240,
+      "chars": 13595,
+      "ideas": 53,
       "role": "chapter",
       "order": 36,
       "prev": "pet_nedel_v_balone_split_036.html",
@@ -793,16 +1073,24 @@
           "level": 1,
           "name": "XXXV.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXXVI.",
       "file": "pet_nedel_v_balone_split_038.html",
-      "words": 1183,
-      "chars": 7188,
-      "ideas": 83,
+      "words": 1186,
+      "chars": 7206,
+      "ideas": 84,
       "role": "chapter",
       "order": 37,
       "prev": "pet_nedel_v_balone_split_037.html",
@@ -813,16 +1101,24 @@
           "level": 1,
           "name": "XXXVI.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXXVII.",
       "file": "pet_nedel_v_balone_split_039.html",
-      "words": 1409,
-      "chars": 8629,
-      "ideas": 55,
+      "words": 1412,
+      "chars": 8647,
+      "ideas": 56,
       "role": "chapter",
       "order": 38,
       "prev": "pet_nedel_v_balone_split_038.html",
@@ -833,16 +1129,24 @@
           "level": 1,
           "name": "XXXVII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXXVIII.",
       "file": "pet_nedel_v_balone_split_040.html",
-      "words": 1945,
-      "chars": 11972,
-      "ideas": 51,
+      "words": 1981,
+      "chars": 12187,
+      "ideas": 55,
       "role": "chapter",
       "order": 39,
       "prev": "pet_nedel_v_balone_split_039.html",
@@ -853,16 +1157,24 @@
           "level": 1,
           "name": "XXXVIII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XXXIX.",
       "file": "pet_nedel_v_balone_split_041.html",
-      "words": 1131,
-      "chars": 7223,
-      "ideas": 38,
+      "words": 1134,
+      "chars": 7241,
+      "ideas": 39,
       "role": "chapter",
       "order": 40,
       "prev": "pet_nedel_v_balone_split_040.html",
@@ -873,16 +1185,24 @@
           "level": 1,
           "name": "XXXIX.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XL.",
       "file": "pet_nedel_v_balone_split_042.html",
-      "words": 941,
-      "chars": 5972,
-      "ideas": 40,
+      "words": 944,
+      "chars": 5990,
+      "ideas": 41,
       "role": "chapter",
       "order": 41,
       "prev": "pet_nedel_v_balone_split_041.html",
@@ -893,16 +1213,24 @@
           "level": 1,
           "name": "XL.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XLI.",
       "file": "pet_nedel_v_balone_split_043.html",
-      "words": 1676,
-      "chars": 10360,
-      "ideas": 92,
+      "words": 1679,
+      "chars": 10378,
+      "ideas": 93,
       "role": "chapter",
       "order": 42,
       "prev": "pet_nedel_v_balone_split_042.html",
@@ -913,16 +1241,24 @@
           "level": 1,
           "name": "XLI.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XLII.",
       "file": "pet_nedel_v_balone_split_044.html",
-      "words": 1177,
-      "chars": 7325,
-      "ideas": 52,
+      "words": 1180,
+      "chars": 7343,
+      "ideas": 53,
       "role": "chapter",
       "order": 43,
       "prev": "pet_nedel_v_balone_split_043.html",
@@ -933,16 +1269,24 @@
           "level": 1,
           "name": "XLII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XLIII.",
       "file": "pet_nedel_v_balone_split_045.html",
-      "words": 1897,
-      "chars": 11857,
-      "ideas": 104,
+      "words": 1903,
+      "chars": 11890,
+      "ideas": 106,
       "role": "chapter",
       "order": 44,
       "prev": "pet_nedel_v_balone_split_044.html",
@@ -953,16 +1297,24 @@
           "level": 1,
           "name": "XLIII.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "XLIV.",
       "file": "pet_nedel_v_balone_split_046.html",
-      "words": 600,
-      "chars": 4045,
-      "ideas": 24,
+      "words": 612,
+      "chars": 4107,
+      "ideas": 26,
       "role": "chapter",
       "order": 45,
       "prev": "pet_nedel_v_balone_split_045.html",
@@ -973,16 +1325,24 @@
           "level": 1,
           "name": "XLIV.",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
       "title": "Pět neděl v baloně",
       "file": "pet_nedel_v_balone_split_047.html",
-      "words": 453,
-      "chars": 2876,
-      "ideas": 58,
+      "words": 906,
+      "chars": 5419,
+      "ideas": 116,
       "role": "chapter",
       "order": 46,
       "prev": "pet_nedel_v_balone_split_046.html",
@@ -1000,6 +1360,13 @@
               "name": "Poznámky pod čarou",
               "id": "poznámky-pod-čarou",
               "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou-1",
+              "children": []
             }
           ]
         }
@@ -1008,8 +1375,8 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 191,
-      "chars": 1238,
+      "words": 185,
+      "chars": 1213,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -1021,21 +1388,29 @@
           "level": 1,
           "name": "Tiráž",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Poznámky pod čarou",
+              "id": "poznámky-pod-čarou",
+              "children": []
+            }
+          ]
         }
       ]
     }
   ],
   "totals": {
     "all": {
-      "words": 65632,
-      "chars": 413772,
-      "ideas": 2845
+      "words": 66664,
+      "chars": 419577,
+      "ideas": 3005
     },
     "chapters": {
-      "words": 65433,
-      "chars": 412494,
-      "ideas": 2826
+      "words": 66471,
+      "chars": 418324,
+      "ideas": 2986
     }
   }
 }
