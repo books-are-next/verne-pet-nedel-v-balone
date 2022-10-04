@@ -64,7 +64,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^55]: Možná, že doktor Fergusson jsa Angličan nadsazuje; nicméně dlužno uznati, že René Caillié netěší se ve Francii mezi cestovateli slávě hodné jeho obětovosti a odvahy.  
 [^56]: 100° stodílných.  
 [^57]: Dick a Joe značí zdrobněle Richarda a Josefa.  
-V MKP 2. elektronické vydání z 1. 10. 2022.
+V MKP 2. elektronické vydání z 4. 10. 2022.
 
 ***
 
@@ -73,17 +73,17 @@ Autorem portrétu Julese Verna na obálce e-knihy je Gaspard-Felix Tournachon.
 
 ***
 
-[![](./resources/image001.jpg)](http://creativecommons.org/publicdomain/mark/1.0/deed.cs)
+
 Text díla (Jules Verne: Pět neděl v baloně) a ilustrace (Édouard Riou a Henri de Montaut), publikované [Městskou knihovnou v Praze](http://www.mlp.cz/), nejsou vázány autorskými právy.
 
-[![](./resources/image002.jpg)](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
+
 Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 ***
 
 Citační záznam této e-knihy:
 
-VERNE, Jules. _Pět neděl v baloně_ \[online\]. Přel. František PELIKÁN. Ilustr. Édouard RIOU a Henri de MONTAUT. V MKP 2. elektronické vydání z 1. 10. 2022. Praha: Městská knihovna v Praze, 2013 \[cit. 1. 10. 2022]. Dostupné z <[books-are-next.github.io/verne-pet-nedel-v-balone](https://books-are-next.github.io/verne-pet-nedel-v-balone/)>.
+VERNE, Jules. _Pět neděl v baloně_ \[online\]. Přel. František PELIKÁN. Ilustr. Édouard RIOU a Henri de MONTAUT. V MKP 2. elektronické vydání z 4. 10. 2022. Praha: Městská knihovna v Praze, 2013 \[cit. 4. 10. 2022]. Dostupné z <[books-are-next.github.io/verne-pet-nedel-v-balone](https://books-are-next.github.io/verne-pet-nedel-v-balone/)>.
 
 ***
 
