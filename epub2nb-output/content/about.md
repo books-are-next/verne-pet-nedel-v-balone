@@ -64,7 +64,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^55]: Možná, že doktor Fergusson jsa Angličan nadsazuje; nicméně dlužno uznati, že René Caillié netěší se ve Francii mezi cestovateli slávě hodné jeho obětovosti a odvahy.  
 [^56]: 100° stodílných.  
 [^57]: Dick a Joe značí zdrobněle Richarda a Josefa.  
-V MKP 2. elektronické vydání z 10. 10. 2022.
+V MKP 2. elektronické vydání z 21. 10. 2022.
 
 ***
 
@@ -83,7 +83,7 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v P
 
 Citační záznam této e-knihy:
 
-VERNE, Jules. _Pět neděl v baloně_ \[online\]. Přel. František PELIKÁN. Ilustr. Édouard RIOU a Henri de MONTAUT. V MKP 2. elektronické vydání z 10. 10. 2022. Praha: Městská knihovna v Praze, 2013 \[cit. 10. 10. 2022]. Dostupné z <[books-are-next.github.io/verne-pet-nedel-v-balone](https://books-are-next.github.io/verne-pet-nedel-v-balone/)>.
+VERNE, Jules. _Pět neděl v baloně_ \[online\]. Přel. František PELIKÁN. Ilustr. Édouard RIOU a Henri de MONTAUT. V MKP 2. elektronické vydání z 21. 10. 2022. Praha: Městská knihovna v Praze, 2013 \[cit. 21. 10. 2022]. Dostupné z <[books-are-next.github.io/verne-pet-nedel-v-balone](https://books-are-next.github.io/verne-pet-nedel-v-balone/)>.
 
 ***
 
